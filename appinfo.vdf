@@ -1,0 +1,282 @@
+"appid" "2336220"
+"common"
+{
+	"name" "Feed The Cups"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "acee60c7033bd9ba98f46944e915618df3d6f9ba"
+	"clienttga" "f22c22eabd390cf6a12567feafe116575b69619a"
+	"clienticon" "c11299419e6c7aa8fff3900d8e344cf09ab6cc87"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "杯杯倒满 Feed The Cups"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "60.85180863477248"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1708769455"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Vambear Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "IndieArk"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "IndieArk"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_28" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_59" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1708502240"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2336220"
+	"store_tags"
+	{
+		"0" "4726"
+		"1" "599"
+		"2" "1702"
+		"3" "3871"
+		"4" "3843"
+		"5" "3920"
+		"6" "12472"
+		"7" "9204"
+		"8" "4182"
+		"9" "1685"
+		"10" "3841"
+		"11" "3859"
+		"12" "7368"
+		"13" "3959"
+		"14" "4136"
+		"15" "42804"
+		"16" "19"
+		"17" "4195"
+		"18" "4562"
+		"19" "1716"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default"
+	"developer" "Vambear Games"
+	"publisher" "IndieArk"
+}
+"config"
+{
+	"installdir" "Feed The Cups"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Feed the Cups.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "14"
+}
+"depots"
+{
+	"baselanguages" "english,schinese"
+	"hasdepotsindlc" "0"
+	"2336221"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5803084907036489503"
+				"size" "332818664"
+				"download" "191865728"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"finaltest"
+			{
+				"gid" "70193FE56BE23D15CB1A10F6A2665DC3"
+				"size" "1FD5591BFFD6811D2E9ABA341E26EF4C"
+				"download" "B8554B3A66DBD8F96A515DC28B814035"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13576824"
+			"timeupdated" "1709044517"
+		}
+		"finaltest"
+		{
+			"buildid" "13576824"
+			"pwdrequired" "1"
+			"timeupdated" "1709044393"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Feed The Cups"
+			"pattern" "global.dat"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Feed The Cups"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"localization"
+{
+	"richpresence"
+	{
+		"schinese"
+		{
+			"tokens"
+			{
+				"#statuswithoutscore" "{#Status_%gamestatus%}"
+				"#statuswithscore" "分数: %score%"
+				"#status_atmainmenu" "在主菜单"
+				"#status_masterwaiting" "在自己家中 - 可乱入"
+				"#status_waiting" "在他人家中 - 可乱入"
+				"#status_masterfull" "在自己家中 - 满员"
+				"#status_full" "在他人家中 - 满员"
+				"#status_solo" "在自己家中 - 不可乱入"
+				"#status_day1" "当前天数 : 1"
+				"#status_day2" "当前天数 : 2"
+				"#status_day3" "当前天数 : 3"
+				"#status_day4" "当前天数 : 4"
+				"#status_day5" "当前天数 : 5"
+				"#status_day6" "当前天数 : 6"
+				"#status_day7" "当前天数 : 7"
+				"#status_day8" "当前天数 : 8"
+				"#status_day9" "当前天数 : 9"
+				"#status_day10" "当前天数 : 10"
+			}
+		}
+		"english"
+		{
+			"tokens"
+			{
+				"#status_atmainmenu" "Main Menu"
+				"#status_masterwaiting" "At Home - Can Join"
+				"#status_waiting" "At other\'s Home - Can Join"
+				"#status_masterfull" "At Home - Full"
+				"#status_full" "At other\'s Home - Full"
+				"#status_solo" "At Home"
+				"#status_day1" "Day : 1"
+				"#status_day2" "Day : 2"
+				"#status_day3" "Day : 3"
+				"#status_day4" "Day : 4"
+				"#status_day5" "Day : 5"
+				"#status_day6" "Day : 6"
+				"#status_day7" "Day : 7"
+				"#status_day8" "Day : 8"
+				"#status_day9" "Day : 9"
+				"#status_day10" "Day : 10"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22527561"
+"_sha" "3039644e3fb906bdf055fef1c3e4cd089d807efc"
+"_size" "5357"
