@@ -1,0 +1,485 @@
+"appid" "850190"
+"common"
+{
+	"name" "Goat Simulator 3"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "d439f89f9ca1316b6fb187db3d97e168c9fa6460"
+	"clienttga" "bd180732158f25c4cd484f77b79bd7fe9e90c184"
+	"clienticon" "6389db26206e7e7c499386f5d83b5ebf469452d8"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1707955200"
+		"tested_build_id" "13434008"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "36.94144899617157"
+			"height_pct" "61.69305679859334"
+		}
+	}
+	"store_asset_mtime" "1708701606"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Coffee Stain North"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Coffee Stain Publishing"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Goat Simulator"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_13" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1708005691"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "850190"
+	"store_tags"
+	{
+		"0" "3834"
+		"1" "3968"
+		"2" "3810"
+		"3" "4106"
+		"4" "4747"
+		"5" "599"
+		"6" "597"
+		"7" "4191"
+		"8" "1695"
+		"9" "4195"
+		"10" "21"
+		"11" "1719"
+		"12" "4305"
+		"13" "5350"
+		"14" "1685"
+		"15" "3841"
+		"16" "3843"
+		"17" "3859"
+		"18" "4182"
+		"19" "7368"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"developer" "Coffee Stain North"
+	"publisher" "Coffee Stain Publishing"
+	"homepage" "https://www.goatsimulator3.com/"
+	"aliases" "Goat Sim 3"
+	"listofdlc" "2666450"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Goat Simulator 3"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Goat2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"850191"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3026494976028358891"
+				"size" "7890418168"
+				"download" "2963688256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"nightlybuild"
+			{
+				"gid" "681BA5FCF292CAD945E1441435B8957B"
+				"size" "1E345BB5760A93574CF2515FFD1C220A"
+				"download" "7787876D5E115E63F8FE2311BB2AC603"
+			}
+			"sprintbuild"
+			{
+				"gid" "1863E53E19AFD7B619B310B42F37323E"
+				"size" "D02917D961050D4A7D5EE2AAE0DCEA5C"
+				"download" "D02917D961050D4A7D5EE2AAE0DCEA5C"
+			}
+			"stagingbuild"
+			{
+				"gid" "94C40C7E85B30DA8C74A6BAF44DFACA7"
+				"size" "3458EC5FE7DD423E0565697068A5A60E"
+				"download" "C24D753C137C8842D9E60EF3D34CAB33"
+			}
+			"testingbuild"
+			{
+				"gid" "8378946E13067EC1CDFFC7E3BEF6C558"
+				"size" "6E8D720C7F2595BA8C68A5A7C5D3825D"
+				"download" "9021D792D69757368F665F56073B2EC2"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13499244"
+			"timeupdated" "1708505978"
+		}
+		"nightlybuild"
+		{
+			"buildid" "13569198"
+			"pwdrequired" "1"
+			"timeupdated" "1708987285"
+		}
+		"sprintbuild"
+		{
+			"buildid" "4551103"
+			"pwdrequired" "1"
+			"timeupdated" "1599653996"
+		}
+		"stagingbuild"
+		{
+			"buildid" "13499244"
+			"pwdrequired" "1"
+			"timeupdated" "1708362121"
+		}
+		"testingbuild"
+		{
+			"buildid" "13565059"
+			"pwdrequired" "1"
+			"timeupdated" "1708957254"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Goat2/Saved/SaveGames"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#status_inmainmenu" "In Main Menu"
+				"#status_ingame" "In Game"
+				"#status_splitscreen" "Playing Split Screen"
+			}
+		}
+		"german"
+		{
+			"tokens"
+			{
+				"#status_inmainmenu" "Im Hauptmenü"
+				"#status_ingame" "Im Spiel"
+				"#status_splitscreen" "Split-Screen spielen"
+			}
+		}
+		"spanish"
+		{
+			"tokens"
+			{
+				"#status_inmainmenu" "En el menú principal"
+				"#status_ingame" "Jugando"
+				"#status_splitscreen" "Jugando en pantalla dividida"
+			}
+		}
+		"french"
+		{
+			"tokens"
+			{
+				"#status_inmainmenu" "Dans le menu principal"
+				"#status_ingame" "En partie"
+				"#status_splitscreen" "Joue en écran divisé"
+			}
+		}
+		"italian"
+		{
+			"tokens"
+			{
+				"#status_inmainmenu" "Nel menu principale"
+				"#status_ingame" "Sta giocando"
+				"#status_splitscreen" "Gioca su schermo diviso"
+			}
+		}
+		"japanese"
+		{
+			"tokens"
+			{
+				"#status_inmainmenu" "メインメニュー"
+				"#status_ingame" "ログイン中"
+				"#status_splitscreen" "スプリットスクリーンでプレイ中"
+			}
+		}
+		"koreana"
+		{
+			"tokens"
+			{
+				"#status_inmainmenu" "메인 메뉴에 있음"
+				"#status_ingame" "게임 중"
+				"#status_splitscreen" "분할 화면으로 플레이 중"
+			}
+		}
+		"polish"
+		{
+			"tokens"
+			{
+				"#status_inmainmenu" "W menu głównym"
+				"#status_ingame" "W grze"
+				"#status_splitscreen" "Granie z podzielonym ekranem"
+			}
+		}
+		"brazilian"
+		{
+			"tokens"
+			{
+				"#status_inmainmenu" "No menu principal"
+				"#status_ingame" "Em jogo"
+				"#status_splitscreen" "Jogando em tela dividida"
+			}
+		}
+		"russian"
+		{
+			"tokens"
+			{
+				"#status_inmainmenu" "В главном меню"
+				"#status_ingame" "В игре"
+				"#status_splitscreen" "Играет на разделённом экране"
+			}
+		}
+		"schinese"
+		{
+			"tokens"
+			{
+				"#status_inmainmenu" "主菜单"
+				"#status_ingame" "游戏中"
+				"#status_splitscreen" "进行分屏游戏"
+			}
+		}
+		"tchinese"
+		{
+			"tokens"
+			{
+				"#status_inmainmenu" "主選單"
+				"#status_ingame" "遊戲中"
+				"#status_splitscreen" "進行螢幕分割遊戲"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22516764"
+"_sha" "6e2740cc5c0996c295461c4825eada52b794cd2e"
+"_size" "8971"
