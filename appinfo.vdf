@@ -1,0 +1,376 @@
+"appid" "2176440"
+"common"
+{
+	"name" "Life of Delta - Soundtrack"
+	"type" "Music"
+	"parent" "1376760"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"icon" "bb914fbafc2aa62c70a1233ca234da5e369e62f0"
+	"name_localized"
+	{
+		"schinese" "《小丁历险记》原声音轨"
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1670602143"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Airo Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Daedalic Entertainment"
+		}
+	}
+	"primary_genre" "0"
+	"category"
+	{
+		"category_50" "1"
+	}
+	"steam_release_date" "1678725652"
+	"gameid" "2176440"
+	"exfgls" "6"
+}
+"extended"
+{
+	"musicalbumforappid" "1376760"
+	"developer" "Airo Games"
+	"publisher" "Daedalic Entertainment"
+	"homepage" "http://airogames.com"
+	"musicalbumavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Life of Delta Soundtrack"
+}
+"depots"
+{
+	"2176441"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3253861073458611656"
+				"size" "116281611"
+				"download" "115558752"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testing"
+			{
+				"gid" "6035BC9286C221402A69F1963A73A9D4"
+				"size" "06A6600753CE99D96F98126BF954EF54"
+				"download" "B3E3C0BEB898A4BCAA6915C977E4E693"
+			}
+		}
+	}
+	"2176442"
+	{
+		"config"
+		{
+			"highqualityaudio" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "463930577540053926"
+				"size" "517116397"
+				"download" "523464928"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testing"
+			{
+				"gid" "F614AC1688F95F85C391AD6BE35D556F"
+				"size" "9DE5C6475A5260618711ED86E6056D92"
+				"download" "41E91FA7F2172A61E13C3E7BE79DC3BC"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10684213"
+			"timeupdated" "1677850052"
+		}
+		"testing"
+		{
+			"buildid" "10684213"
+			"pwdrequired" "1"
+			"timeupdated" "1677850030"
+		}
+	}
+}
+"albummetadata"
+{
+	"cdn_assets"
+	{
+		"album_cover" "ebd74810f9e99e9056fb1762f9d330610e592387"
+	}
+	"tracks"
+	{
+		"0"
+		{
+			"discnumber" "1"
+			"tracknumber" "1"
+			"originalname" "Main Theme"
+			"m" "3"
+			"s" "24"
+		}
+		"1"
+		{
+			"discnumber" "1"
+			"tracknumber" "2"
+			"originalname" "Journey"
+			"m" "3"
+			"s" "27"
+		}
+		"2"
+		{
+			"discnumber" "1"
+			"tracknumber" "3"
+			"originalname" "Industrial"
+			"m" "3"
+			"s" "18"
+		}
+		"3"
+		{
+			"discnumber" "1"
+			"tracknumber" "4"
+			"originalname" "Desert Breeze"
+			"m" "3"
+			"s" "27"
+		}
+		"4"
+		{
+			"discnumber" "1"
+			"tracknumber" "5"
+			"originalname" "Lost"
+			"m" "3"
+			"s" "15"
+		}
+		"5"
+		{
+			"discnumber" "1"
+			"tracknumber" "6"
+			"originalname" "Medley"
+			"m" "3"
+			"s" "29"
+		}
+		"6"
+		{
+			"discnumber" "1"
+			"tracknumber" "7"
+			"originalname" "Let’s go"
+			"m" "3"
+			"s" "5"
+		}
+		"7"
+		{
+			"discnumber" "1"
+			"tracknumber" "8"
+			"originalname" "Memories"
+			"m" "3"
+			"s" "15"
+		}
+		"8"
+		{
+			"discnumber" "1"
+			"tracknumber" "9"
+			"originalname" "Challenge"
+			"m" "3"
+			"s" "18"
+		}
+		"9"
+		{
+			"discnumber" "1"
+			"tracknumber" "10"
+			"originalname" "Where are we"
+			"m" "3"
+			"s" "14"
+		}
+		"10"
+		{
+			"discnumber" "1"
+			"tracknumber" "11"
+			"originalname" "Factories"
+			"m" "3"
+			"s" "17"
+		}
+		"11"
+		{
+			"discnumber" "1"
+			"tracknumber" "12"
+			"originalname" "Horizon"
+			"m" "3"
+			"s" "34"
+		}
+		"12"
+		{
+			"discnumber" "1"
+			"tracknumber" "13"
+			"originalname" "Cloudy Sky"
+			"m" "3"
+			"s" "40"
+		}
+		"13"
+		{
+			"discnumber" "1"
+			"tracknumber" "14"
+			"originalname" "Desert Blues"
+			"m" "3"
+			"s" "40"
+		}
+	}
+	"metadata"
+	{
+		"artist"
+		{
+			"arabic" ""
+			"brazilian" ""
+			"bulgarian" ""
+			"tchinese" ""
+			"schinese" ""
+			"german" ""
+			"danish" ""
+			"english" "Nikola Nikita Jeremic"
+			"finnish" ""
+			"french" ""
+			"greek" ""
+			"italian" ""
+			"japanese" ""
+			"koreana" ""
+			"dutch" ""
+			"norwegian" ""
+			"polish" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"swedish" ""
+			"latam" ""
+			"spanish" ""
+			"thai" ""
+			"czech" ""
+			"turkish" ""
+			"ukrainian" ""
+			"hungarian" ""
+			"vietnamese" ""
+		}
+		"composer"
+		{
+			"arabic" ""
+			"brazilian" ""
+			"bulgarian" ""
+			"tchinese" ""
+			"schinese" ""
+			"german" ""
+			"danish" ""
+			"english" "Nikola Nikita Jeremic"
+			"finnish" ""
+			"french" ""
+			"greek" ""
+			"italian" ""
+			"japanese" ""
+			"koreana" ""
+			"dutch" ""
+			"norwegian" ""
+			"polish" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"swedish" ""
+			"latam" ""
+			"spanish" ""
+			"thai" ""
+			"czech" ""
+			"turkish" ""
+			"ukrainian" ""
+			"hungarian" ""
+			"vietnamese" ""
+		}
+		"label"
+		{
+			"arabic" ""
+			"brazilian" ""
+			"bulgarian" ""
+			"tchinese" ""
+			"schinese" ""
+			"german" ""
+			"danish" ""
+			"english" ""
+			"finnish" ""
+			"french" ""
+			"greek" ""
+			"italian" ""
+			"japanese" ""
+			"koreana" ""
+			"dutch" ""
+			"norwegian" ""
+			"polish" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"swedish" ""
+			"latam" ""
+			"spanish" ""
+			"thai" ""
+			"czech" ""
+			"turkish" ""
+			"ukrainian" ""
+			"hungarian" ""
+			"vietnamese" ""
+		}
+		"othercredits"
+		{
+			"arabic" ""
+			"brazilian" ""
+			"bulgarian" ""
+			"tchinese" ""
+			"schinese" ""
+			"german" ""
+			"danish" ""
+			"english" ""
+			"finnish" ""
+			"french" ""
+			"greek" ""
+			"italian" ""
+			"japanese" ""
+			"koreana" ""
+			"dutch" ""
+			"norwegian" ""
+			"polish" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"swedish" ""
+			"latam" ""
+			"spanish" ""
+			"thai" ""
+			"czech" ""
+			"turkish" ""
+			"ukrainian" ""
+			"hungarian" ""
+			"vietnamese" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22534048"
+"_sha" "bb458e2daa99f0bf0e2b0f207b4561c803bfffb4"
+"_size" "6126"
