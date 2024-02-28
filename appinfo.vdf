@@ -1,0 +1,214 @@
+"appid" "1831250"
+"common"
+{
+	"name" "WasteLand Express 废土快递"
+	"type" "Game"
+	"logo" "16af4f649897b3024708cc12d4a6e90f1be3b498"
+	"logo_small" "16af4f649897b3024708cc12d4a6e90f1be3b498_thumb"
+	"icon" "5475ad911ef9f534a6478171b5954698a080a484"
+	"clienticon" "599cc5e036ce2784ddb09cd6b0726f7ae9051881"
+	"clienttga" "87d4d859b325e93fbe2e6150d7085cd29b01d60c"
+	"clienticns" "dae936016485d51c78e08d2695263e4ed527e89c"
+	"linuxclienticon" "beaf845d73178be4fe3e9901605006752d720503"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "76.82701240457698"
+			"height_pct" "64.00189214758754"
+		}
+	}
+	"store_asset_mtime" "1664353329"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "中子星游戏研究所"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1666921656"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1831250"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "17305"
+		"2" "16689"
+		"3" "3964"
+		"4" "3835"
+		"5" "4182"
+		"6" "1742"
+		"7" "122"
+		"8" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "中子星游戏研究所"
+	"homepage" "https://www.taptap.com/app/202815"
+	"listofdlc" "2336570"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "WasteLand Express"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WastelandExpress.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "schinese"
+	"workshopdepot" "1831250"
+	"hasdepotsindlc" "1"
+	"1831251"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3701707178293996371"
+				"size" "2000855191"
+				"download" "206752832"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"oldbranch"
+			{
+				"gid" "A6EBF5ED7D3C53A5AA6B5AEACA86DC2F"
+				"size" "80393E41EED0F0AE898447F007D29929"
+				"download" "3DAE128C49CEDD29603FEAEFCB9A78D8"
+			}
+			"qatest"
+			{
+				"gid" "E5972B26260CCB09DAED2FC94CA67F9A"
+				"size" "828AA020CF746D577D3A97920F3BB437"
+				"download" "8D0D8B08175C86EABBB983A960992B8C"
+			}
+			"test"
+			{
+				"gid" "098424F581BBF499ED85E2FA4F1AE2E4"
+				"size" "9EAB89D1EE72391EEB7E77555741F1F9"
+				"download" "24D91026269A12613144650D3E9A76C8"
+			}
+		}
+	}
+	"2336570"
+	{
+		"dlcappid" "2336570"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5347416344471817088"
+				"size" "2000855191"
+				"download" "206809808"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qatest"
+			{
+				"gid" "6CBA8F19BFE401A423CDF746693BB66D"
+				"size" "828AA020CF746D577D3A97920F3BB437"
+				"download" "D10902EEC1C8A12131C157A4E9CB3BF7"
+			}
+			"test"
+			{
+				"gid" "89769316EF517625C3F803EB2C9C12CB"
+				"size" "9EAB89D1EE72391EEB7E77555741F1F9"
+				"download" "ED842F02926592A5DDDFAED7186792A2"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13561062"
+			"timeupdated" "1708936741"
+		}
+		"oldbranch"
+		{
+			"buildid" "10021988"
+			"pwdrequired" "1"
+			"timeupdated" "1676185216"
+		}
+		"qatest"
+		{
+			"buildid" "13561062"
+			"pwdrequired" "1"
+			"timeupdated" "1708935629"
+		}
+		"test"
+		{
+			"buildid" "13561062"
+			"pwdrequired" "1"
+			"timeupdated" "1708939186"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "22504670"
+"_sha" "ca2cd0844de4b75c883f53d74c2dd14e692bfb8c"
+"_size" "4056"
