@@ -1,0 +1,5000 @@
+"appid" "1086940"
+"common"
+{
+	"name" "Baldur\'s Gate 3"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "ea19a7ce2af83c0240e775d79d3b690751a062c1"
+	"clienttga" "a4cd79e3b930b890d17473ea7f0e40e2144fcfca"
+	"icon" "d866cae7ea1e471fdbc206287111f1b642373bd9"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1086940_eula_0"
+			"name" "Baldur\'s Gate 3 EULA"
+			"url" "https://store.steampowered.com//eula/1086940_eula_0"
+			"version" "4"
+		}
+	}
+	"logo" "a8c254f3aaa272a8cd3222b76fc6cdb2358b4587"
+	"logo_small" "a8c254f3aaa272a8cd3222b76fc6cdb2358b4587_thumb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+		"latam" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1705708800"
+		"tested_build_id" "13125361"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Baldur\'s Gate 3"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "42.59539141078173"
+			"height_pct" "72.26394372050225"
+		}
+	}
+	"store_asset_mtime" "1705604404"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Larian Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Larian Studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Baldur\'s Gate"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "3"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_38" "1"
+		"category_23" "1"
+		"category_48" "1"
+		"category_9" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1691074800"
+	"metacritic_score" "96"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/baldurs-gate-3\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1086940"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "6426"
+		"2" "1742"
+		"3" "4747"
+		"4" "4325"
+		"5" "14153"
+		"6" "21"
+		"7" "4474"
+		"8" "1684"
+		"9" "3843"
+		"10" "3859"
+		"11" "4947"
+		"12" "9"
+		"13" "4182"
+		"14" "4508"
+		"15" "4155"
+		"16" "12095"
+		"17" "4604"
+		"18" "3993"
+		"19" "7481"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "release_patch5_hf6"
+	"developer" "Larian Studios"
+	"publisher" "Larian Studios"
+	"homepage" "https://baldursgate3.game"
+	"listofdlc" "2378500,2378510"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Baldurs Gate 3"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Launcher\\LariLauncher.exe"
+			"workingdir" "bin"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Baldur\'s Gate 3.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"baselanguages" ""
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1086941"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5252248690236676395"
+				"size" "151708763786"
+				"download" "124940502464"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agerating"
+			{
+				"gid" "E4B2C2D1DADE1F8D2F89F9AE8A3D2770"
+				"size" "EFEDF90B8CBD2FD9D75E8CEDD92570FD"
+				"download" "41588BDEF002D25D840CAD43AABD7765"
+			}
+			"baseline"
+			{
+				"gid" "25362C10C2DB19CEABB843BF76A13AB9"
+				"size" "077C2AAED380E8601FE470CDB65B8F1A"
+				"download" "6F1A860F3881A13D036058192EAF7C75"
+			}
+			"ch_main"
+			{
+				"gid" "F41AB3113C929A95209AFDBE15631EFE"
+				"size" "D37D678878676DF98A427F2250B11A61"
+				"download" "38024EF5B2085C0748A8C5FB5E5E821C"
+			}
+			"ch_rc"
+			{
+				"gid" "A5EA28049859FF9055F7469753DA6CD4"
+				"size" "C376558611FBA7AF3782AB43F38E8CFA"
+				"download" "7B1E0FFB18B50D1A4C7009AD7C2586E2"
+			}
+			"compat"
+			{
+				"gid" "E65A2C9D51E43473BC29FFC5F0B67ED7"
+				"size" "B1FCCC9A2435652BEF2346E26971EDEB"
+				"download" "50753BAE0C029891796B304467DEEF80"
+			}
+			"dlss"
+			{
+				"gid" "7D1D71C29D6E57C6A04A9C1C21D59C6A"
+				"size" "9C4169DCF6B789105E2ED4011A69B8A1"
+				"download" "C28FE105DAA9FA0D4ED11C36B1114A5C"
+			}
+			"mac_test2"
+			{
+				"gid" "2D4211D7E8DC6F5B1D6B712144A48E31"
+				"size" "226AFD87D78F4145AB331F0D15EE555F"
+				"download" "87D37F1A7B9C41AA72A6E8C009E79F26"
+			}
+			"mac_test3"
+			{
+				"gid" "E510BC43C1C0F2FB925DDCE6344AA8A1"
+				"size" "5E89FD4800485DD03094D1E20D7B9C79"
+				"download" "51E30980E631528AD3076CA2A85FCE6C"
+			}
+			"mac_test4"
+			{
+				"gid" "3B38315902A91033AA6958942A4802FA"
+				"size" "C6AEABD137AF9899C5D2AB9311351378"
+				"download" "2EEB91E72ABDC8CACDA5A894D4DA7F0A"
+			}
+			"qaprio"
+			{
+				"gid" "429E66E08F4146ED77EE21784F9F0541"
+				"size" "A7A712C9F0D039599D8406CCB4FE150F"
+				"download" "287B1C887526C15A043DCDEF541DFE09"
+			}
+			"release"
+			{
+				"gid" "83A08461B847F01B4B3730C7D463EA44"
+				"size" "F3B55479441F86CED596FC4D9EB694B7"
+				"download" "372200E1B883B8B10C007DF060C5844C"
+			}
+			"release_hf4"
+			{
+				"gid" "36404F0FF08E5725947BBA5D53AC93B0"
+				"size" "2C2678DE75E2EF82FA4F63CF092DEB61"
+				"download" "20AA6ED852E3B802647BDBD7B4520BCB"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "CB6079E0BC10D470FE0695EEF95A973A"
+				"size" "46A691CB74CDB0416954C622C6A1B94F"
+				"download" "4F854CBD93D1C08D1B20F545F8B011DB"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "312D9B2B4A84A71329793A56298E2CDD"
+				"size" "63F941A4F9C41F07C32DC7311C23EDEA"
+				"download" "718B734526025B7C2F4F9210C6719483"
+			}
+			"release_patch6"
+			{
+				"gid" "E04F76911056B28F75ACF0E85AC2035C"
+				"size" "79F498439E6712962834BDAB22E3AA6D"
+				"download" "99D6D1DD33DDBFD580987A477C4995D2"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "5A6910DED1532E6C97F2BD5D16D04488"
+				"size" "270320E15C92AF66EB9E24144F47B27E"
+				"download" "7F9CEA645FF8281382D5DD109CF1127F"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "96CCA0BF2F3A6D818982D9B4AF2803CB"
+				"size" "A541B36DF1459BBE975304A8A45E1C7D"
+				"download" "E9CFB24E1A15CE42DE6724AC0F8F05A6"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "5E2F67A585F49DE82FCBE7942AB5E667"
+				"size" "E217C283FD1C2D82FA7B83E295E7F5E5"
+				"download" "74DE8066E3216E862AF6FE7BE2549FC4"
+			}
+			"summer2020_loca"
+			{
+				"gid" "D1336E4232FF43FC4DF5798A6A04F739"
+				"size" "83ACBB1760F773C473DBE8B164AA94B1"
+				"download" "F676870FFCAD25C20F2448FADBD86AEA"
+			}
+			"temp"
+			{
+				"gid" "DFD9E2F35061A739E0B987D7FC9683B8"
+				"size" "9864DB6970C8491445464D23CFD6F5BF"
+				"download" "E27F5C158BA6B299F082AEEBA7B0930C"
+			}
+			"testbranch"
+			{
+				"gid" "79B0171C230B28A94E18AC2187AF6346"
+				"size" "E4A91AD56074C616BA203DB852316BF5"
+				"download" "33DF39B240A10D8D7A99CA3587B6E2DC"
+			}
+		}
+	}
+	"1086942"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "17875152607970122"
+				"size" "573"
+				"download" "304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agerating"
+			{
+				"gid" "C56CA96F704AD75B1773612C4029DCEB"
+				"size" "CA299E4EC033576052C695546042BD9B"
+				"download" "DD0D49CD8399B55DCD2F02C8A5E601D0"
+			}
+			"baseline"
+			{
+				"gid" "DF76437AEE6A8F25E04E3C20B3127AD1"
+				"size" "5847AB920AE50B03586B3EBDD4FAFB80"
+				"download" "E5C33F04760FA64194957A6D0DBFE8BB"
+			}
+			"ch_main"
+			{
+				"gid" "F8D87C4B259F22F644B80AC588E5B2C8"
+				"size" "AD8062173DDDCC75D21F68D9CF86CEF2"
+				"download" "7E5059F84C48747478CF38EB9A3D45E8"
+			}
+			"ch_rc"
+			{
+				"gid" "F62D2BBD3F8636882B2B56A1CBBFC1B8"
+				"size" "0A34A1CB40E48FB5742F66ABE1E35785"
+				"download" "D716BAE385BEED3B227198F3EFBF5529"
+			}
+			"compat"
+			{
+				"gid" "BCFA59EDAF1CFEE180522806C1945F50"
+				"size" "94B294A4023A37030FC1D08E85186799"
+				"download" "CB1190F819EBD1D32C358EFDF908ED9C"
+			}
+			"dlss"
+			{
+				"gid" "6F8D7381D5573F034E4FC02A48A233A8"
+				"size" "0967A9C240CDCB362C67CC0833B8C8F1"
+				"download" "EA3A2FF835D64A5CF745046A2753C793"
+			}
+			"mac_test2"
+			{
+				"gid" "F02E9C1BFE0176838B7C0E8BE3E1CBE1"
+				"size" "A0924A4761D08A90D28989C1AFB0D2E6"
+				"download" "D94A95A939FC20127FC9558D8A1AC92E"
+			}
+			"mac_test3"
+			{
+				"gid" "51F2E49EC3D45B47045B3F5FBBE5536C"
+				"size" "9FE1C5078B39589C9F4819B8788B3EDF"
+				"download" "EC07B3390094DB55F3DD77368F8BC893"
+			}
+			"mac_test4"
+			{
+				"gid" "F74976A5B993B977C1DC11B8F01D8C61"
+				"size" "CCC5A71F081A0F41310FCA2CCC8D8317"
+				"download" "4C17500D2CF953278D2A4E97561D632E"
+			}
+			"qaprio"
+			{
+				"gid" "F0895C2CE504EDF81E5CF754DD161AAC"
+				"size" "44CCBF25F2A2CFDEEA86739A44197C60"
+				"download" "8CF82C0E4871E15BAE75D0338E01279A"
+			}
+			"release"
+			{
+				"gid" "A57EA9264A78383875A0BF0F87CC78B8"
+				"size" "3438173299FB0516D4BE6897AA74BC9A"
+				"download" "A80E99E4A39BA5C2271734952B57EEEF"
+			}
+			"release_hf4"
+			{
+				"gid" "FD275726C1BD417BAB67105FB0526ACA"
+				"size" "903F44D65C60A69DF92846BF554618AF"
+				"download" "C90719564F8F10D5D043284C3E299DFE"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "9B9A2E0491FD0206EBE73DF40DEF0E3C"
+				"size" "FAB79ECB889337A1DBB0DCB2C7C2A3FA"
+				"download" "92D87083D270A64DC10CE2FA9462D540"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "A4B7CA3A26E0686ABBFA66E3F92ED5B0"
+				"size" "CA691EF7105342CC456D85B57229CA38"
+				"download" "B9AB9CBC7F01353106AC29622C453FF6"
+			}
+			"release_patch6"
+			{
+				"gid" "F74E1242A62B3B010A727E765306B294"
+				"size" "1E3234807723016CF19DE116500223B4"
+				"download" "BC3BEA4AACA4ED300FC37F7CE3E4C8B0"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "7A74545341EB2DFE0E0202E7F62C7694"
+				"size" "56E352F510FD76310C5AEDB3E35CBE60"
+				"download" "5617AEB9B034300F866DD4747E83AD9C"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "A71B54454F6E5B25FB8ECFB16AB392B2"
+				"size" "DC8FE9ADEEE3F5E9387AFB81CEF26AD2"
+				"download" "35C4E1C06C089E04E4BD1A6B2F8A3459"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "7B8249B7B3421AB63AD18B05F08225D7"
+				"size" "640EA142699A80406A629189829E5057"
+				"download" "0B07A15D8B77CB241287A4D3F84EA9B4"
+			}
+			"summer2020_loca"
+			{
+				"gid" "F41DB2B506739E07A64218AA71EB99DC"
+				"size" "158690BC057E3EFF950346013654EDA4"
+				"download" "92242E3DEA07C637EE9629BC6B808D9C"
+			}
+			"temp"
+			{
+				"gid" "D3D423B2B08D90B3540D16F721508E4C"
+				"size" "11A16AB01E7DD4AAB4BB017BD0DAFDFB"
+				"download" "9C58E3859594678A6EBBD5D5251DEDE2"
+			}
+			"testbranch"
+			{
+				"gid" "CEE64AD264AA714AC06F0145533F1ABB"
+				"size" "256E4819FE043D7BB6D48C2678F8591A"
+				"download" "D1A86BAFDF28573819F32AFC8FBDC7E9"
+			}
+		}
+	}
+	"1086943"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "69437761890711319"
+				"size" "15866665"
+				"download" "13701280"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agerating"
+			{
+				"gid" "656C8506ACFE5760A63A4AEF5D86FD77"
+				"size" "B4EB596C2BBD74E02BAE9D87466F4E9F"
+				"download" "BC341D237E586AB2C479032DB9C74D81"
+			}
+			"baseline"
+			{
+				"gid" "85E778C27BBBB7E30D4C26462968204A"
+				"size" "C598670816950C3679929088155AE634"
+				"download" "7C4E2C1CD4267FA5A4C1B5C6278FB901"
+			}
+			"ch_main"
+			{
+				"gid" "586C79EC3BD43528CDC753B8928CC5BE"
+				"size" "C29A64C4A83257D452CB4DD1BE4EA81C"
+				"download" "1874B563EF0DA5CEFF6EB1BE0E1A99FC"
+			}
+			"ch_rc"
+			{
+				"gid" "CCAAA2D05A96370CE50E4EF4141BCC93"
+				"size" "0EF9A7C3A14644B13D5DF21AD1C63B1F"
+				"download" "802F58D89C895CA205F3ECA76AA95534"
+			}
+			"compat"
+			{
+				"gid" "F7EB52B7C8BEC33400D158F2339F0A47"
+				"size" "CB388ED38029E01860E8643E1214B8CF"
+				"download" "7FB4124F1A9D7964A47ACA3B24CCE1DA"
+			}
+			"dlss"
+			{
+				"gid" "686585CF6390E6A2DC41EBAC0301CC34"
+				"size" "E7F33EDAE2D96083053F5F1E89CD3B7B"
+				"download" "FBE27DB75CB7F17C873D8427A072C737"
+			}
+			"mac_test2"
+			{
+				"gid" "62A503A0FFF5595B096FA2FD8B1034C4"
+				"size" "87E75C2458F098837C41313E6BD773B3"
+				"download" "4A18260811DE2F9C5F2C5C351B8D0B9B"
+			}
+			"mac_test3"
+			{
+				"gid" "31AA384AF17F39B89A05979B72A39950"
+				"size" "864C47B6A662B9D065A8038677FCC752"
+				"download" "A6A4129FCF7414CACCCF7560B16B3FEE"
+			}
+			"mac_test4"
+			{
+				"gid" "3B39694B169043955A837ECD0075B0F2"
+				"size" "52024BF49B29C89BC48BF4E18DF5D38F"
+				"download" "11E53A413B1B5AD2B47EFE78D12B4EF0"
+			}
+			"qaprio"
+			{
+				"gid" "0F6F5D32B99EC81DE548C9F94058FEAB"
+				"size" "2CEAC019001390E01F3DAEA9D56C4965"
+				"download" "0EF6EFF048352A26F755FD247F520C20"
+			}
+			"release"
+			{
+				"gid" "CCF8FE6EF7E7801AB586482BA8966F18"
+				"size" "68B44460C913BA23DA05F4F8BFC2B4B7"
+				"download" "EBE24C2110E46D10968B8CC21C44B0EB"
+			}
+			"release_hf4"
+			{
+				"gid" "D1E66904B40E4578B1263997321406F4"
+				"size" "91B033CDE7211BF79EEE4EB624D8435D"
+				"download" "E3842B500F46BF901EF0C6E89E927287"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "24E4B36C18CB67985646B57A39C78246"
+				"size" "C636439E5D0706CBD99F3F91A38B5480"
+				"download" "055A312B80274598BEB44AF9DBA26EEA"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "86AC273ECA634BC336D91DC49F31CC31"
+				"size" "0417442600FCA7728E5DEFC34D1890C8"
+				"download" "A6DE00D5BC09E27F56A44D2951EDA8F7"
+			}
+			"release_patch6"
+			{
+				"gid" "EF4B1594F9BE460EB40B879F8CF27A4B"
+				"size" "82ED40E13AAB4113FA519F844CCA03AE"
+				"download" "1CF8EE688732D11BED7DE6344B2385E5"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "3C4EED54952104D29C03B8B80163A7D8"
+				"size" "298FF280AE7CB892F3CDDEBBA6A94D6A"
+				"download" "1E09BEF380E96AF7A4F94AEE831ACDBC"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "F34F1237C6F94018E781CB6918127A37"
+				"size" "E664915C1B410C3E14E5A73C576AD322"
+				"download" "659CC85C22A767DD162091E974201649"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "27EA2872192075DB52F15758217BFFC0"
+				"size" "64D852C54F3245617DDB5FF7FFF17CB9"
+				"download" "D8EDBAE71CC2023366FBF70AA524DF19"
+			}
+			"summer2020_loca"
+			{
+				"gid" "FB34386429E522D7D9803089A94F887F"
+				"size" "9A72602E2229D763C8D39E36F0F97038"
+				"download" "18DE1ADA137A290789C6A1F58565081F"
+			}
+			"temp"
+			{
+				"gid" "049912A9A917952D713D7FEA3DED5195"
+				"size" "E1090E46D65998D95B5224F8DD7593A6"
+				"download" "8487D8530CD509E351CADDDB36072790"
+			}
+			"testbranch"
+			{
+				"gid" "B8B1BB8711BB5758865CAE4C0DC4020A"
+				"size" "9820031A4F0789D82490CD38283E331C"
+				"download" "5E96EF6E4920D44926BCEA38BF3D7391"
+			}
+		}
+	}
+	"1086944"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3266491442379823856"
+				"size" "14346646"
+				"download" "12426256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agerating"
+			{
+				"gid" "126EBB9C3D4513AD0149B393CBECBFD7"
+				"size" "1A73BC8590467ACBE3109C0E16363FDF"
+				"download" "B71C64576A8AB1C097D0B17D11564CFB"
+			}
+			"baseline"
+			{
+				"gid" "561E996EF91C9D2E348F59915BFA61C8"
+				"size" "70AB7AC3690AF17DB4C4AE7130797FA6"
+				"download" "900B594927500CB0F1CAF8DB81701756"
+			}
+			"ch_main"
+			{
+				"gid" "4D8BC40AA666650F0364DB3E32525EB5"
+				"size" "0A9E1EF34BBEF337186762AD2D80F2EE"
+				"download" "6CB5CBFCB6D89007276E7F4485B6A3BD"
+			}
+			"ch_rc"
+			{
+				"gid" "32CF7E91F9837FF41258737BA3A95E3E"
+				"size" "B2826D402F47B19512E2039DBCE2335B"
+				"download" "278F469BB5F60A3470AFFDD54F5D16DF"
+			}
+			"compat"
+			{
+				"gid" "9371791E2EA07FBA88E8D4EA1BAF0261"
+				"size" "19D85BA44CC52D8E3A6627E5FBC20A46"
+				"download" "48FF78FB707F3D94A87B17A8E90D10BE"
+			}
+			"dlss"
+			{
+				"gid" "4E443712500BAB3D7E4D6AA0D61C7B14"
+				"size" "A8A87421CBBC7DEA6B92F5582E72F822"
+				"download" "82C48A63C6E1095FE097259B7BE26E4F"
+			}
+			"mac_test2"
+			{
+				"gid" "87247FCBC6EE2CBBA06F1D45D06E6CB2"
+				"size" "C582DB01D9E339247315F7DBF6AC9B27"
+				"download" "FC11864B7E957EB2ECFD27055DF8C157"
+			}
+			"mac_test3"
+			{
+				"gid" "5488C73F601F47B3C4A0DBEEE4BF98F9"
+				"size" "7B6B3330B1B7B83465350B28B6FEACE1"
+				"download" "92C011C645622F46BA9F052F2C9417DE"
+			}
+			"mac_test4"
+			{
+				"gid" "02BF01C4FACC22FE11894F03E3CC5A6F"
+				"size" "E98C7B0F23F4D6BB6545060032BFC08F"
+				"download" "B62C9A0A30BF0F19B56775C42DAECB3E"
+			}
+			"qaprio"
+			{
+				"gid" "4937346E8E1F60B99DE3F0BF587E40E8"
+				"size" "C73417B4D6EE359A66A0184ECD2B922F"
+				"download" "1A1B1A06531B81B5CD43C628A8BB6CE8"
+			}
+			"release"
+			{
+				"gid" "CFA84DD236CD61A8A69CCB1C0E9B244D"
+				"size" "6730ADE5B2DFFE46389630AA1CE8DB42"
+				"download" "C02ACABEFE2E8DFFB5692DA2346BF54B"
+			}
+			"release_hf4"
+			{
+				"gid" "451D1B3298C52D2A977EA15A27DE181D"
+				"size" "6691CC84297FF40CB414F132B554669A"
+				"download" "1BCB7718CA5965A9BEE9C1BA5DF6A722"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "DFF31900F3803BE24176FD1D387E14F3"
+				"size" "C4135CF12D843B67007212A4AA8E84B8"
+				"download" "EDBB2AF0BF7034409002E248665637D4"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "976D7594974090AFF6C20122920E8065"
+				"size" "0DF191FA3825C5AB5B57F24C2A5375DE"
+				"download" "8C4323AFEEA1CB5C768EC0D223DD9208"
+			}
+			"release_patch6"
+			{
+				"gid" "CE9CD5F7C6E1A267B9A2428AA054A4AF"
+				"size" "219BA9D17B8A850FFC026535E4A4988A"
+				"download" "BA6F2261408959099681BF7688F3D196"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "720F5330F63CCEC55989A4FA961373F8"
+				"size" "1F6E2B4C12F29C0524CD3249FC220C41"
+				"download" "C16FF277D3DE2A2F0071D94CBD3E0A16"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "C7403044E111FE6E4A724472D3819AF1"
+				"size" "7B0E56961DB54F9FF130317F84114266"
+				"download" "5A0B3D9E6F7FF013A350B17A354431F8"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "75D2F4C41C58A1D4C441903613367945"
+				"size" "9DD3D56888CB77AFFE80D01D65E41107"
+				"download" "9CF4EBA2CBE97C16C698D499BF8CCC61"
+			}
+			"summer2020_loca"
+			{
+				"gid" "C0BEAC7D996A0F975799CCCBDDD5D1F8"
+				"size" "3101D91036FBDFFF3687E9228DD4CAF8"
+				"download" "618849F2B76172720D184C90024DBFF5"
+			}
+			"temp"
+			{
+				"gid" "8261123B846835B72B5B3B752EA5CC7C"
+				"size" "D841C95A2ACFF39ECBB0F8778E911126"
+				"download" "A8E6FAED71FD83676DEFF3C4455D879E"
+			}
+			"testbranch"
+			{
+				"gid" "77647A887F29F06C128C8F3A96798D4C"
+				"size" "B1ABF7127752018D01C6754278E08B94"
+				"download" "93C6F751F66F1D01D2D11CBD073C6DF3"
+			}
+		}
+	}
+	"1086945"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "381419639516149591"
+				"size" "15576681"
+				"download" "13497856"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agerating"
+			{
+				"gid" "F4549D79565A8F329CCB7DE530B16AE3"
+				"size" "C2B0923AF8E569E7EF32DC584D203921"
+				"download" "274FED2BD1EE2474EE3A94BDA9D302EC"
+			}
+			"baseline"
+			{
+				"gid" "7BC531FF90AC7E04705E54897A77B9BB"
+				"size" "18ABCCB9CEBD5D511860208EEBC34AAC"
+				"download" "62E8316CD522A02ECC8F796606506437"
+			}
+			"ch_main"
+			{
+				"gid" "ED0713E5AEC81304C86966528F13B888"
+				"size" "6A7C6A4882373BAEFF911483BB33ADF3"
+				"download" "76D6D58F32EFD13954284B45BF309740"
+			}
+			"ch_rc"
+			{
+				"gid" "259FC255795907647F78D0B4D80B288A"
+				"size" "35DB64E1A05731C391DDD07BF3078933"
+				"download" "5D03392D52109905646E759416EC0A54"
+			}
+			"compat"
+			{
+				"gid" "9A2B8F1B6A3AEF7CD95D4D17655D27DF"
+				"size" "71B8230C05F3BBD4C467377AFD5F75C6"
+				"download" "C52937A0C33291032FF0D95E9535E4CA"
+			}
+			"dlss"
+			{
+				"gid" "25D99CEEE7582DCBC771A15F2EA706D2"
+				"size" "6A39E5DF29E7DA09536CCB7469825695"
+				"download" "6D2CE2C47BC74E5026358EEFF9AC5AC1"
+			}
+			"mac_test2"
+			{
+				"gid" "8051FFAB6DB4628ED0863BE46565079D"
+				"size" "B155EB44DAE8FFD1E796987815E7B349"
+				"download" "B93C5AC10E45C14969B59ABDAC5C680A"
+			}
+			"mac_test3"
+			{
+				"gid" "53A51768C5DE42231BA4DEC7FE54603A"
+				"size" "0F312AD91D7D482B27D7CFDEA1D06B3A"
+				"download" "D8712212B208EA0308B9301CBE463FCD"
+			}
+			"mac_test4"
+			{
+				"gid" "E26910F93A5D5AC0C35AB5A03E499785"
+				"size" "3C88E207E473EB40617199DC23DC5FD6"
+				"download" "203B01BB7A531823BFAD503DB113820B"
+			}
+			"qaprio"
+			{
+				"gid" "6AC81C4CE2A4CA3C892BA17D902E0620"
+				"size" "1CB1D54B600BD2F3A2728A37C3558068"
+				"download" "7B5491BBC41B80BD602CB7BB24C7EDCC"
+			}
+			"release"
+			{
+				"gid" "99DAFEECA4C06C0AFB732E3705A0E0AC"
+				"size" "00FA9F7BFD84ECDCEB22C450EBDA4DFF"
+				"download" "F99373194F612641713975F3453A69B8"
+			}
+			"release_hf4"
+			{
+				"gid" "B295413A2AD2E256428EAE4F675AE1EF"
+				"size" "0A55FC4A0AF14FC9BC8CC699C8EB50CA"
+				"download" "DFB7F381D7C35F96617FA06CD5EEC32B"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "35CA1EA8C412E0C33B8AAE437192911D"
+				"size" "28C009105E96206AC5A8504FD1827645"
+				"download" "FC74BFE9AB1A5076C52F5E193FC19A24"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "9D59684C57C9F46C464EF90B7611F8A9"
+				"size" "3DA6716A255D51635A02F1D3AC340324"
+				"download" "C6F6F3DBC5D16EDD688514C63509AF95"
+			}
+			"release_patch6"
+			{
+				"gid" "617CA235A38554B1EAA8085181BD99B9"
+				"size" "D3C7BA1A6AD32349F1A891DA8F8C77B4"
+				"download" "03283FB8FDFADD7979E162DD35877847"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "BE30DF2E71019F5B071663D515DA52C2"
+				"size" "CA04EC4D602F89D329B6A7D1C3DBA6DB"
+				"download" "4F9451D163D83C139786703E16A9F351"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "F1960219DB6869A971148AB01551568B"
+				"size" "E8E50212A3D1ED3E309B9D16B9AB92B2"
+				"download" "CB5FBCFF73D8928E8DAA1C6E711E0277"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "0AC5853D9BD5995E7C9B99F56501366E"
+				"size" "5758DA7AE7F42E24D9D0692E75E57A7D"
+				"download" "F40E429F1209DF0A9EC519A24A6A2D1E"
+			}
+			"summer2020_loca"
+			{
+				"gid" "8489188DDA22572E805816F7EB5D601B"
+				"size" "30CF455BE31F5E88813E475DC5FEC073"
+				"download" "A144B34FBD4BE2894AC3E1D6038379F3"
+			}
+			"temp"
+			{
+				"gid" "9DB38DA764C495CF9C46978CC4B66836"
+				"size" "C772C8E25EC2BD875D4706302FF13290"
+				"download" "773BB74461A40DCDB6FABF846BC1DA05"
+			}
+			"testbranch"
+			{
+				"gid" "55CD828E0F8DE861C0D144C925B80947"
+				"size" "C6CB9ADC2295CAFE68B745107AF28ACD"
+				"download" "3AE83872AD4A976F57BC9A3A9F188ABE"
+			}
+		}
+	}
+	"1086946"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "90812586091242874"
+				"size" "16891758"
+				"download" "14729680"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agerating"
+			{
+				"gid" "CE969B88F82CCACB81988C1382D037D0"
+				"size" "E2D090D14E9D8AEC1A9B92C1D24E595D"
+				"download" "906CBD63F6D84FFD28FBB0FF03D7C364"
+			}
+			"baseline"
+			{
+				"gid" "B1D7CBDBD331AF080B755A85814EC2ED"
+				"size" "2B7A1BF83E2CEF2A8096E33EFD48D90B"
+				"download" "CA30B103B44E0B0D292DE856D0E91B50"
+			}
+			"ch_main"
+			{
+				"gid" "154CAF27A09EFF049D31904A061D6638"
+				"size" "CDA875E9F7F9E0F1AF4180872640FCE7"
+				"download" "4A6B6AFBE0C7BAEF44EC5F5CEDA117BA"
+			}
+			"ch_rc"
+			{
+				"gid" "F4C131EE665497B4689002234D85D9A3"
+				"size" "8591C8F323239F09CBB016EA71F206BC"
+				"download" "40B5EC694CA928EAC2E769FD362D6AD1"
+			}
+			"compat"
+			{
+				"gid" "77CCB8BF9C9E45944B5F994D1F9C76C0"
+				"size" "324176814825C088E2FD8EAA0C3E0208"
+				"download" "56542712006523DA7283EAE367A35811"
+			}
+			"dlss"
+			{
+				"gid" "E2F7CC7A02249C59190CE0B2D0FF02B9"
+				"size" "2F268AEB60329EC9D8D9593EBFE8EDDF"
+				"download" "1F7FEF6C1E828A5632257F784ABB6BF4"
+			}
+			"mac_test2"
+			{
+				"gid" "2E38CCEF2E36A366FBFF2BB043D0801D"
+				"size" "EB839198B30DB702F0BB8F87D724A739"
+				"download" "5B43952A223B91DF1B509864C98D32BB"
+			}
+			"mac_test3"
+			{
+				"gid" "5ED1B7C0C7E5D055BD776B4DDE72FDB8"
+				"size" "329BAA241112B920C827B3CD7C1052FF"
+				"download" "18D9EA1A4D9539E3E1F79C6159051822"
+			}
+			"mac_test4"
+			{
+				"gid" "1FB83E34FD89F46EB4BA53422D70548A"
+				"size" "FB867CB65C4ADD58B00734533CF189F8"
+				"download" "89F0ADDB4DE464F91614D8C16BBDB8C6"
+			}
+			"qaprio"
+			{
+				"gid" "958A826F6B4F5D1E4A79CEF98135EA1D"
+				"size" "1EFBE3ACF3DEF9F52A4410886E2C36D0"
+				"download" "7EAF758F27595774CAB985011A15061B"
+			}
+			"release"
+			{
+				"gid" "F33AD7F4BFB135BB037F857A60FB7BFD"
+				"size" "D385A1B40A0AF2F31FE3FD98EEDC80C4"
+				"download" "6EF679289AB4881EF0809E933E2F4BC4"
+			}
+			"release_hf4"
+			{
+				"gid" "7AD5B0AFD1CEE8E04950A6F8B60227E0"
+				"size" "0BF560A05E39BFE7B33185C839154BE5"
+				"download" "2152F8A21865F7A65F840B87C8ADB618"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "182AC40A07F741CA3431C639A5B28489"
+				"size" "30B419105819EF814857A4AFD99AD210"
+				"download" "88CA1020B1123C39091A3A07FA100959"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "2FD0765BC0ECDC2B65742024E2B26DCA"
+				"size" "0CD18B2FAAB904DEAB24DDAE3E2BEE2C"
+				"download" "9883E8071AA534FC3A2298A0894D1A26"
+			}
+			"release_patch6"
+			{
+				"gid" "FD353B01BB95EC5A15DF6C1F514B012E"
+				"size" "4789918935C3A8CE11ACA5DDDBA0BF7F"
+				"download" "D8D3410EC9A2639B658DFC925D23BF75"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "B050E52B59FE308256479F6EC12F35EC"
+				"size" "99F561D26EE29855978E868B9750FE31"
+				"download" "0D0655B12B5EF9C227EF938FDA4829F1"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "D125FE0A207D9B3B8E3D0A720E6E4B1D"
+				"size" "B56ADBC94C9D86AE1DE89F758EEE8CED"
+				"download" "69E860C811C202509A00250668C0B75C"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "D110599BDE05CFAE5D547C2418C6A3DC"
+				"size" "F672B85FCD1BC7EC3F388844293A46F1"
+				"download" "66BB66B73C3B87882B35C226E974FDA2"
+			}
+			"summer2020_loca"
+			{
+				"gid" "6EF369833000277F22D0AE8401B6DC32"
+				"size" "09453D70D22632AB30CFC1BBB2849FB8"
+				"download" "05ABE42A3F8F4E0ACB78BC53610DE539"
+			}
+			"temp"
+			{
+				"gid" "E180F2E9690C782BB968CEBE0D67FD87"
+				"size" "9EBB17548770D7EBDC3DF0F1ABDF8ABF"
+				"download" "F2FD21380A00884D3D6DE18D6221C155"
+			}
+			"testbranch"
+			{
+				"gid" "3987D7E48135A4791ED126AF09DB8AEA"
+				"size" "48CE6DE98644B2985648F43B3F54C383"
+				"download" "AAF090B71ADB598DC6D0C3853D0E8AF2"
+			}
+		}
+	}
+	"1086947"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "102484583725359675"
+				"size" "24337386"
+				"download" "21350928"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agerating"
+			{
+				"gid" "E44C47F919B111392DF45812938B141B"
+				"size" "0990E879BC4764448E7A9B123A7D98B9"
+				"download" "D16817FCF0B90FFF018D7B9D5DE27F89"
+			}
+			"baseline"
+			{
+				"gid" "607C83995B73D353BC7861DFDC54E6E9"
+				"size" "0C041973A317040EA29DDB50CF15BCA3"
+				"download" "2BFD421D20A5F0C229A9BE8334103706"
+			}
+			"ch_main"
+			{
+				"gid" "4354B4CF1D4065B9E5DC9A847627F1F2"
+				"size" "BA4319A9AC1E13B6A91F0247EA09D48B"
+				"download" "59BEE362F7877364549DCA40649B44CA"
+			}
+			"ch_rc"
+			{
+				"gid" "1363B1FDECA4A1BB829259BA58E562A3"
+				"size" "5BD34B6EC6D591F7FF390AE1935005DE"
+				"download" "F0CA11B0C092F325D533FC22F3B39287"
+			}
+			"compat"
+			{
+				"gid" "B09DA5E03A69D25FEC4B3B2504D6F8FD"
+				"size" "EB7DAE01834027B409066EDBD8252B14"
+				"download" "4CC40F8B75F172BEED7EDF85D5EE54D0"
+			}
+			"dlss"
+			{
+				"gid" "AF12E8E3E2830F617DDA2B9F23C8B8F7"
+				"size" "9B13A7CC6F84CBB76AC14C780D838F57"
+				"download" "B13BECC0FCB0F688EF21F3549C857A32"
+			}
+			"mac_test2"
+			{
+				"gid" "63C46687C1584522DCA1037962383308"
+				"size" "EE4A7827A547F121E141FC6F447F4112"
+				"download" "CA772AE836CEC95C311AEC56EAC3EA7A"
+			}
+			"mac_test3"
+			{
+				"gid" "BF223BF5A064FE4703D2515C1812D5AB"
+				"size" "8E3E75152DC3835E1A1609D3358FE929"
+				"download" "06D54BD6293E137827023C0952BA9735"
+			}
+			"mac_test4"
+			{
+				"gid" "164EF70618EAD354C42826E24AF1B6CE"
+				"size" "5B264F0F47AE779C20737B164DB168D5"
+				"download" "B5BFF75DC409DE575FFFA487C23FC090"
+			}
+			"qaprio"
+			{
+				"gid" "3E040A87F877B47D7C547198B2549F31"
+				"size" "0EC67810CD92C614950C91B1CE85CE3A"
+				"download" "91D748483DE6470D034D03A33CA99DAF"
+			}
+			"release"
+			{
+				"gid" "BE940FD3C96D74CE6768C6486783D5BD"
+				"size" "DFDCEA8ADFCF6CFC1581463D7290C6F8"
+				"download" "30F23139329FFA0553CA7552ABAECC20"
+			}
+			"release_hf4"
+			{
+				"gid" "C7268206BBB560878BCBB15C74A1B749"
+				"size" "5CB49D777B97359794A4D8179104A822"
+				"download" "37F25613E6C9748C3E2AB092A72D5B8A"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "2AEC81FA6E513CD6343D8E6B3465EDD6"
+				"size" "C7BAF1CF6F3C6969B5845428A998BFD1"
+				"download" "D5B003A85FB7BA14D132A445B98DD10B"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "EF86C3AB7B04BAEA3CDF38DF5BB2F12C"
+				"size" "1FCE986F225A592787E15F89640711A8"
+				"download" "3B7F30F986760D39FA0CEC8D02C4D027"
+			}
+			"release_patch6"
+			{
+				"gid" "39BE6922A86F6CDE07D48D59A20430C0"
+				"size" "7E761F17EC3D3EFE06C888144258C814"
+				"download" "12188270A0B78F9798EFFDD8DE8E632E"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "923198881A747DF01E96F300516C9230"
+				"size" "4243392ABBF0FB6ECEB1E93DCA7593B0"
+				"download" "D733D639F11263B082B5BA42226002A0"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "0FA264DA9FEFB47FDF26A5FBDD6A1B5F"
+				"size" "FF68A0EFB92F8CB7F91ADCE5A095F6D7"
+				"download" "926D95DFCCC7E8008816B9A77EEE90EC"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "74456401E04E552E64A38254EEB66EE5"
+				"size" "898A7B9659F4DEEF72084CFF82E6D38E"
+				"download" "8EC9B2DBC9329EB6B39C053D849AD090"
+			}
+			"summer2020_loca"
+			{
+				"gid" "E73314F6D02FA81A6BB7831E599D8E83"
+				"size" "A6C1F92BF67472864FD343840A12A146"
+				"download" "8C196F84E6DF58B0523E1390C2504248"
+			}
+			"temp"
+			{
+				"gid" "FC64F2E267BF364E0A76B74A66491740"
+				"size" "18D1BF1C14AC768AA4019706BD6CC97B"
+				"download" "19F72DD56554F912D073E439A3CD9F45"
+			}
+			"testbranch"
+			{
+				"gid" "638664409E0B17C6D43393967270AA15"
+				"size" "A7335810A00A37DFBCAC0B11BA6F7567"
+				"download" "68C7E1B90D6FBBBD01E78FDE22EF7631"
+			}
+		}
+	}
+	"1086948"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2873231087781273556"
+				"size" "32805630"
+				"download" "28578256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agerating"
+			{
+				"gid" "FA7799EA6856D992901A049095A845C4"
+				"size" "EBDB0D5CC931564818F6D550DCE64CB9"
+				"download" "2C5C003DEAF55FA2494D47F1943B0D81"
+			}
+			"baseline"
+			{
+				"gid" "51CFDB92826C00EB42CB3B0B8AB71160"
+				"size" "652E4E1267A416EE5EADF4899AB29EEA"
+				"download" "EE6406926E9E03EC694620B34F4E2B6F"
+			}
+			"ch_main"
+			{
+				"gid" "3B8B2A98EF4993FC3E9971ADCDE4C71F"
+				"size" "E4BE9DA2AD269FCE93E6D1E88106B1EA"
+				"download" "659E011DEE9D00F835754416C5E84A8A"
+			}
+			"ch_rc"
+			{
+				"gid" "05DB3D35EC0F400F8A5D0FC180926ED9"
+				"size" "CA5A2D4246557C36A62D8C7B095F5CC6"
+				"download" "FE1801745D1C85D43AEDCD519E12A18B"
+			}
+			"compat"
+			{
+				"gid" "706E9A77FAD5D0FF3AA2F584CB2E43CA"
+				"size" "A994D63605236A1F07F8030C43D13FF5"
+				"download" "97175B01B04C1E4CBAD75E73C989CC67"
+			}
+			"dlss"
+			{
+				"gid" "1B20102757D467E1D141503AC124B3CB"
+				"size" "08BA17BA397FDA4B5E5C64C389E8218F"
+				"download" "E59B7E732F2CEABD7F9DB13EDCEF21D2"
+			}
+			"mac_test2"
+			{
+				"gid" "C5F83E6B93B3144A9DD8DC8DA63E4DE3"
+				"size" "634E099430E76A46445A08E512D942AE"
+				"download" "634E099430E76A46445A08E512D942AE"
+			}
+			"mac_test3"
+			{
+				"gid" "F67DA137965600A952AB3710677B3574"
+				"size" "7A4C880D4C7541300FEE636C6976E8B8"
+				"download" "F989A31D7F339DA5F4D0053ED335AB59"
+			}
+			"mac_test4"
+			{
+				"gid" "5C4E45FAE56943DDF37842A0826EADA6"
+				"size" "40656C9D8B938A726DC5333F871F5D54"
+				"download" "B7529E27CCAB77706341B289BD1BC640"
+			}
+			"qaprio"
+			{
+				"gid" "416D04170E0E3885B6A68A9DC8A65E87"
+				"size" "D2D44ADA19E55B7828DD9E606A257FF0"
+				"download" "D11B48249C4114618B7C57A2723EC3D9"
+			}
+			"release"
+			{
+				"gid" "F9771A7DDFD3BC565D515BE8CAB25C42"
+				"size" "0C108F939FA17C999CDC9F8D4292C365"
+				"download" "3020178883775949C8E1DDF50802FFD0"
+			}
+			"release_hf4"
+			{
+				"gid" "429CD03C6630A184AC2E816396871A54"
+				"size" "D9938AD973E4C999155CC8FDC37692CD"
+				"download" "9F09956762173AF4E9D380A5A037DE06"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "9B9382EC4EA25966A1521BCDF8CCE9FF"
+				"size" "A6347CBF5D3D0B18AA1B9A259DC05A40"
+				"download" "71BAA551FF6BDB8342121D37C8EB4927"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "C13C84674D53B16E15C05AF46F16E6A0"
+				"size" "6E7CB3A59C34B669AB4FBBFFB32EED56"
+				"download" "8447781FFCB530524E4A9B583C938E31"
+			}
+			"release_patch6"
+			{
+				"gid" "DE40DD4361898CDC3447D789F3D2E594"
+				"size" "575EE200A877C3EBC224AB48B7AAEEDA"
+				"download" "F4728CC481A1D7EE55C36AD827C28691"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "3C2C0B5878DE86D319BEA803DE684D86"
+				"size" "85AE47BA862E13D1BBBBE6B05FCAE6D5"
+				"download" "706CDC38EA1B790EFF6F1D6672A57385"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "F1A3CC3795AC9771B017A5D6107AB7AF"
+				"size" "A72E544BE26769660C02368C9D84D358"
+				"download" "3E47109ECFDE3F86D7B27F96CBEBAA83"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "4282ACC12D1B5869DF07C1FD790296EE"
+				"size" "18416F12C577F464E78B5007372BE787"
+				"download" "2843E25252FAA4D9A484C8779EFD8798"
+			}
+			"summer2020_loca"
+			{
+				"gid" "2A66A03AE6185A13D3251AB17EFA2F01"
+				"size" "E8A11B4146D5FD1D7D89E6CBD9D927D5"
+				"download" "CF2C7C1A44E43ABDBCBA6D1C764C54D9"
+			}
+			"temp"
+			{
+				"gid" "EE49982425722C20174636E14580B304"
+				"size" "BF1C7AC4E386BBA4D96F3A2FC4A6C13E"
+				"download" "7C6C076AED9386794909D00D248480BB"
+			}
+			"testbranch"
+			{
+				"gid" "A33EC4148C2527B156F0AA462BDB3BC5"
+				"size" "132D5C86DB7B6FC98739F47D6D55AA54"
+				"download" "AA9EB70A1C07A5BE5B9291A1F8B37228"
+			}
+		}
+	}
+	"1086949"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5245013357983113897"
+				"size" "14477274"
+				"download" "12476032"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agerating"
+			{
+				"gid" "5A132E82D8AAA72BF80231FD94B20DA7"
+				"size" "3E01F7BA98D91986C7FAAAC6D9705096"
+				"download" "CB9D9EF1A0DC6FC6B4705D9DA94AB398"
+			}
+			"baseline"
+			{
+				"gid" "34BCDC6A11F61DBDA41FADEA3826FCEE"
+				"size" "4738E11E426EB7AC0C012D4470A8D567"
+				"download" "173068F02DEC4E8EA6F0E1746FB4F071"
+			}
+			"ch_main"
+			{
+				"gid" "65F0BEE7141A66C38CCA073ABA536AC3"
+				"size" "A0EC7928A6F16EC4E7FE8E6EEBC466C4"
+				"download" "6D07459A71441AE3F8FA952181991181"
+			}
+			"ch_rc"
+			{
+				"gid" "EFA588D1E579F8B805F0617A2F0BB98D"
+				"size" "A3F5E00B864F6A3271FF01B675801A55"
+				"download" "536FB75F001006F2A2C8DCA020AB63E0"
+			}
+			"compat"
+			{
+				"gid" "69D8C756BB47AF1B5C9F896168E28298"
+				"size" "4114AE5EBF7F8E9060010CFE5CAF0043"
+				"download" "A620B9C1F6F95E4AC578FEE2DB4F95AE"
+			}
+			"dlss"
+			{
+				"gid" "ED980D4E4A1398A0BDD75C4B26F9F92A"
+				"size" "D007BF4CFD831005D165FDDED51F92E2"
+				"download" "FEA55261322C421D5CAD7B0F73EDCB3C"
+			}
+			"mac_test2"
+			{
+				"gid" "8147748519CD0DF2CBC1028781EFAB6E"
+				"size" "807AB0CDC7AF351AA5840882B67F69D8"
+				"download" "9D10536AEA8A5C99A7B30C8A388DB04B"
+			}
+			"mac_test3"
+			{
+				"gid" "24A5087D22ACE7CAF01A02CFEFFEC567"
+				"size" "E977A3D22A189EC004B90E9E44F53512"
+				"download" "FDD3D7C9804AD038BABC9545C4021448"
+			}
+			"mac_test4"
+			{
+				"gid" "B26E65617EF351AB4D46BD04C709C954"
+				"size" "62DC42E22910B532DEA85812093904F1"
+				"download" "A53F1657BCBE44308DC3C7F75A431FAA"
+			}
+			"qaprio"
+			{
+				"gid" "BF8CE1261C692604F5CC83B2004B5663"
+				"size" "1D2C092661B0A1C7FCE7EA2FCB4220B3"
+				"download" "47A25F28A30CAEE4CB3715E0258DE22A"
+			}
+			"release"
+			{
+				"gid" "0F8B51F9E2EFE2B993378FA3D0974476"
+				"size" "618C01D392DF9B406D0B4BD9F8DCB9A6"
+				"download" "4FA5F09434200E259452497928E0245C"
+			}
+			"release_hf4"
+			{
+				"gid" "6219A3E3E272BEF877B32BCBF16DF9AC"
+				"size" "B09B82AAD0F6930E00451EBB7487D7C4"
+				"download" "DF37810CEAF79BE4C051EE562C67CFFE"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "ACCC74CD03BC1411433B92C8531F5425"
+				"size" "08A555A92936ACC15A5C85CD5E5A7317"
+				"download" "4DCEEBF0DF6B423EF2EB44B24E18878B"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "03E51883BC8C889674E8710901BDFC5B"
+				"size" "1E53BC3BB60ACB6E5B0FAB48E5FC8969"
+				"download" "9F4814C6987302CCD5E39A081AD5EB66"
+			}
+			"release_patch6"
+			{
+				"gid" "F1D9F111C75FC0EEA1EC288A49468F6C"
+				"size" "4EAFC9696E82908F9BD9A384F4FD4344"
+				"download" "AE1DF62A4CEBF1BEF516F5646B992DEB"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "AA7B0E3F7CE350D4F38CB8242CE9902E"
+				"size" "FB7D8D69E709CD6238C83749E701ACF8"
+				"download" "7C3DEC352B6298130051DF8A520FBC8C"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "AE4FB4018F731E861A45DDACC27D2F79"
+				"size" "3DB35A13D0886B1EC98AA76E2ADFFEA4"
+				"download" "1FA1DE25B2B88DA176D9754EC7C2E916"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "A2A5B5FB3A7FC93A774D18AB4713ADF3"
+				"size" "6B49E35612B1AEA352182E74B794C772"
+				"download" "3287DC24A2EED5F21EC280C26C1AE7AE"
+			}
+			"summer2020_loca"
+			{
+				"gid" "CB8B521C47E250A8BDF65F4076DF8451"
+				"size" "62F6321DF99231E6B246232499523B38"
+				"download" "6C5C3187C9209F230D07AF452B70E533"
+			}
+			"temp"
+			{
+				"gid" "BA05DDC13FDAB0D6735947E2A3AAE6FB"
+				"size" "1FA161664568C281E3C84EB14B1B4A06"
+				"download" "FF5222F898E2A2D155DBC3443BA10A7E"
+			}
+			"testbranch"
+			{
+				"gid" "C631C2F17F2D399644CC3D6DC9E67092"
+				"size" "4F585241FD5E5A04D97ADD5099DCD285"
+				"download" "2BEBEF9CD87AA2BDAF4EDAA9AE386E4F"
+			}
+		}
+	}
+	"1419660"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6362049060096479254"
+				"size" "143375299716"
+				"download" "116076348704"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agerating"
+			{
+				"gid" "DA5666BDF17D76C836329C555B05E94D"
+				"size" "361C4223B01B1298812B4512438B4171"
+				"download" "F2C6701E1859F1F8D7A7BAA9C0DF16C3"
+			}
+			"ch_main"
+			{
+				"gid" "E9B8C4B7A1C15190FC77A010F6223DB3"
+				"size" "023F7A0C8E3BEAA8E73361BB11E716FB"
+				"download" "04E15CA17AF9B8B5AA6313A562890971"
+			}
+			"ch_rc"
+			{
+				"gid" "C77E7DD81C3FFC7B44D410FAFFFD0183"
+				"size" "097A902C2FA8198A7EFD2CBAF1FCC8BB"
+				"download" "B8B41A63B41CBCB0C8B8D8B1DC80F7D2"
+			}
+			"compat"
+			{
+				"gid" "085B515B6716577C727000E3B838A786"
+				"size" "62D20CF8868FF08F9B771A2F03CEB6BA"
+				"download" "23CFFA0885E53C146E0EFC9AF7F9D9E9"
+			}
+			"dlss"
+			{
+				"gid" "D8CA8973CFD531BB268EFB2B06C13DF8"
+				"size" "FB475A7B1534D965DC5B7A1F8373D6C9"
+				"download" "C3215EF759D48C404E69DDC87091FE91"
+			}
+			"mac_test1"
+			{
+				"gid" "EF131B479613869F530818BEB6F26FF9"
+				"size" "35E773B5200197E2C87122EAEAE8DA78"
+				"download" "30E1F57294BB92EF51423E6D33721D9B"
+			}
+			"mac_test2"
+			{
+				"gid" "B653DF6B820A906ACB1A7A4E2113EFE9"
+				"size" "50C1F7E1B4A79752CBAF9A9CB14E603B"
+				"download" "A3AAA81F48B862BD8BB179C94648F470"
+			}
+			"mac_test3"
+			{
+				"gid" "60268931EAE402093E45E119BAE0D4F3"
+				"size" "845650E31706DF2EB8CA3C294B316695"
+				"download" "268FCA9A22575AE306F7A2480D6DBF69"
+			}
+			"mac_test4"
+			{
+				"gid" "69162745D5E5EDDA3DCC2A4270514DFC"
+				"size" "3A66C21BC980B964A313733F51854F33"
+				"download" "E79486CF9F9845DB1C3B69DCC8ED63AF"
+			}
+			"qaprio"
+			{
+				"gid" "AB998BFF9CE7ACC6D9AD51A62E4B1A09"
+				"size" "86B6F331F0E87ACBF4784727DFC287F3"
+				"download" "D2A188DB1EFED4040A03E90E46E1E01F"
+			}
+			"release"
+			{
+				"gid" "2C150654BFEB844D46A567F0C97EC778"
+				"size" "991504A0957589564AECDE7E415A12E4"
+				"download" "60F478068022C6C0E227823F7D367176"
+			}
+			"release_hf4"
+			{
+				"gid" "BD8D5858FB42310C1FFD2B068B3B2CF5"
+				"size" "6DDC6569B5133B1C5D5B3C16B17DBB6D"
+				"download" "FAA2D6161AADB0EBA42D8F3C8C9ACD88"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "A86BEB1CA68CD18303F0EC49AD0A6E30"
+				"size" "1583D9168F12F9E18C77EAC4D853B6D1"
+				"download" "31ACC73E19D77183BB8F7AA07CF061F7"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "241A4470F75623EE7BFC4811BC6404CC"
+				"size" "C868D0F5C05B17AAA6EA0D3684975BFD"
+				"download" "E851045E269D9B44D34257685C8A6FC1"
+			}
+			"release_patch6"
+			{
+				"gid" "5CFE76A68DE57D5E9AA9F6941CE56BD0"
+				"size" "4B3D3F6350EFC2041976FFA5D9489AE8"
+				"download" "0F40DAAA804B9778BE3065802F23B26F"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "0D227419DA005B4E927FA8763FAD6FFE"
+				"size" "EBA5405DD8FC3DCEFE241F0AA039AED4"
+				"download" "1F513F421432506D59D7FA2A032EBCB5"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "7629B2A51F5B759456D3FC2160E64AED"
+				"size" "8017515CCE1D7F82D6DB96F88E127A6D"
+				"download" "695B220C45BA1AA071388C0E89649EBD"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "D259A085D3AD80B457524DFCD055554D"
+				"size" "490DF9BF4247D753338A370E4F80AE23"
+				"download" "4FE18D27C6E6A8448C4E4F5BFDB40525"
+			}
+			"summer2020_loca"
+			{
+				"gid" "F13E1BDC6247854F06BE3956DF1B2FE7"
+				"size" "A0C933D039A6979485E6928962CA53B1"
+				"download" "05700145F55514DB61A0BA87CE56FA9E"
+			}
+			"temp"
+			{
+				"gid" "2BF7F6D99784B06F316DF02A56EC678C"
+				"size" "1652AF41638AC5680AC97491C5061BBE"
+				"download" "18C575C4D26624462559B09067E5F282"
+			}
+			"testbranch"
+			{
+				"gid" "7E48F4BE49850551CBE492FF81BC1C08"
+				"size" "64BA296CDA8D0E74E033A6808CAB9B08"
+				"download" "B53C820DA8D70EC7C78F5D9080D2E1B1"
+			}
+		}
+	}
+	"1419661"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4191530919188121973"
+				"size" "574"
+				"download" "304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agerating"
+			{
+				"gid" "7B944E6CCB8445D61AB8B43523C8381F"
+				"size" "6BBE51463054AB0DC78083FAEADE8DA8"
+				"download" "DD0D49CD8399B55DCD2F02C8A5E601D0"
+			}
+			"ch_main"
+			{
+				"gid" "269F57C309B30868BB71282804C229A6"
+				"size" "9FD74F0E6026B580D44BD2FC1977DC4D"
+				"download" "7E5059F84C48747478CF38EB9A3D45E8"
+			}
+			"ch_rc"
+			{
+				"gid" "0C87A8598962F2740997547442843971"
+				"size" "BBCA0B1365B8686211E7FBCE914B2A93"
+				"download" "D716BAE385BEED3B227198F3EFBF5529"
+			}
+			"compat"
+			{
+				"gid" "EA0B8FEA7BF50F807E6DB82329957652"
+				"size" "1FF1B6936202380A34BD6B56C0FB2F64"
+				"download" "CB1190F819EBD1D32C358EFDF908ED9C"
+			}
+			"dlss"
+			{
+				"gid" "8CDA1D961EA425B6E7BB2AC52D8B15E8"
+				"size" "4C56FACD324964161F241B2BFAE16774"
+				"download" "EA3A2FF835D64A5CF745046A2753C793"
+			}
+			"mac_test1"
+			{
+				"gid" "3FF7351466E504B280C11E687188D237"
+				"size" "C48C1D89D0FA794F1B42EF0F92318A95"
+				"download" "7B7DD211D9330BC5D1552BA8897CC7F4"
+			}
+			"mac_test2"
+			{
+				"gid" "987F17FF5C533DC9C153B88CF8F8AC6D"
+				"size" "5E8C152A1C2B00BA7D2D734342936716"
+				"download" "D94A95A939FC20127FC9558D8A1AC92E"
+			}
+			"mac_test3"
+			{
+				"gid" "D20B0237FA36BE12708CF00A425605D1"
+				"size" "6105C8897C956C46ECD04F40A0179DE9"
+				"download" "EC07B3390094DB55F3DD77368F8BC893"
+			}
+			"mac_test4"
+			{
+				"gid" "B24A045B2B07C00728D5240CC78D86D8"
+				"size" "76E345E3A87A905F1108F22DB9A02835"
+				"download" "4C17500D2CF953278D2A4E97561D632E"
+			}
+			"qaprio"
+			{
+				"gid" "5BFC3A7F8E9B0BD91083D4401C436664"
+				"size" "E7AEC9569A0EDF07556ED2F6F94491B9"
+				"download" "8CF82C0E4871E15BAE75D0338E01279A"
+			}
+			"release"
+			{
+				"gid" "9DD68C01EBF03F18CAEDF9CAEBBBD4C2"
+				"size" "2A63767AEFD8D6A55AE328069F23A9D0"
+				"download" "A80E99E4A39BA5C2271734952B57EEEF"
+			}
+			"release_hf4"
+			{
+				"gid" "0D88BF2010038BF52933527C13162789"
+				"size" "2BF344E37EBAE402FE51BFDB120A15E8"
+				"download" "C90719564F8F10D5D043284C3E299DFE"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "D046D94C4C8313CD754D6E37101AEEB2"
+				"size" "69E1F3DE315696C442632FC872916FBB"
+				"download" "92D87083D270A64DC10CE2FA9462D540"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "3A5523D23544EB89CB37553B982B4A9B"
+				"size" "A7DBC507D6CC9F35449C20E06D85876A"
+				"download" "B9AB9CBC7F01353106AC29622C453FF6"
+			}
+			"release_patch6"
+			{
+				"gid" "1587C0E07D96D7673CF4C7E5DC5C540C"
+				"size" "E99235C39A685E8093E43E37C7E92F02"
+				"download" "BC3BEA4AACA4ED300FC37F7CE3E4C8B0"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "6343044C6C4BFCD97C97316ACCF025F2"
+				"size" "B17E4D0ACC55FD432EFFA027B1394842"
+				"download" "5617AEB9B034300F866DD4747E83AD9C"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "FBCCBAA884BC202FCC2D10FBAA55932B"
+				"size" "59A6EF23E7549C3528A6A29B88AF9168"
+				"download" "35C4E1C06C089E04E4BD1A6B2F8A3459"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "AECD9D2DB5BC9B2BB7EE36E00326DDA5"
+				"size" "CC58C74CE4C402B42167931DF9D2281F"
+				"download" "0B07A15D8B77CB241287A4D3F84EA9B4"
+			}
+			"summer2020_loca"
+			{
+				"gid" "D8ADED181165C3D3B10BA154ED9E3F87"
+				"size" "7337C3F67B69124C4F584E55F7A05D76"
+				"download" "92242E3DEA07C637EE9629BC6B808D9C"
+			}
+			"temp"
+			{
+				"gid" "766CE56F1494DA76A260FD1925E1EBA2"
+				"size" "AD9C7008B79B05918A3BDFBC93B1AAD7"
+				"download" "9C58E3859594678A6EBBD5D5251DEDE2"
+			}
+			"testbranch"
+			{
+				"gid" "7EED344A7DB59D70BDED9863C29CEEA7"
+				"size" "5336E2B9C882B464CA133DBE874802C5"
+				"download" "D1A86BAFDF28573819F32AFC8FBDC7E9"
+			}
+		}
+	}
+	"1419662"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "155056616988897828"
+				"size" "572"
+				"download" "304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agerating"
+			{
+				"gid" "C5499717220C2A3DC56234019974BD59"
+				"size" "8CA612E406B8C60B9E70F76F6E598DEB"
+				"download" "DD0D49CD8399B55DCD2F02C8A5E601D0"
+			}
+			"ch_main"
+			{
+				"gid" "5A085071574EED004484BCDEE8B8D55B"
+				"size" "8C9FBF06BD9897E135BA82D38076D2AA"
+				"download" "25FB844F10D78D0399D8DDAE62F2EC8F"
+			}
+			"ch_rc"
+			{
+				"gid" "227CDC432B69AA4FE3393BCA360B8F94"
+				"size" "BCD39907A16E216AFD6266644E6F175F"
+				"download" "D716BAE385BEED3B227198F3EFBF5529"
+			}
+			"compat"
+			{
+				"gid" "CE2B63D960D275449B638E12470E9DE9"
+				"size" "6386F6F3427E6BBA3D83AF9F038FBE95"
+				"download" "CB1190F819EBD1D32C358EFDF908ED9C"
+			}
+			"dlss"
+			{
+				"gid" "524901B2685F543B549D655BFF4A8E12"
+				"size" "D13117D9AC274FA320CA64DF29C19905"
+				"download" "EA3A2FF835D64A5CF745046A2753C793"
+			}
+			"mac_test1"
+			{
+				"gid" "6F1F1A0024ED6E2AE2B3367095EF358E"
+				"size" "E414B6431CC1158A631B8D7C4B5A183A"
+				"download" "7B7DD211D9330BC5D1552BA8897CC7F4"
+			}
+			"mac_test2"
+			{
+				"gid" "99E27644A1CD821FE8C037EF860DF66B"
+				"size" "0928C86FC231EEA8E7B464B8C2553635"
+				"download" "D94A95A939FC20127FC9558D8A1AC92E"
+			}
+			"mac_test3"
+			{
+				"gid" "35CE33666D6AE11FCDF2090A5BF4D1AE"
+				"size" "6FDC85A68A1A461E16AC1AF57F109C4A"
+				"download" "EC07B3390094DB55F3DD77368F8BC893"
+			}
+			"mac_test4"
+			{
+				"gid" "314D981CB90B1716A605224CD0887A39"
+				"size" "F009F91BDA2D3834EB50A8467E367EC0"
+				"download" "4C17500D2CF953278D2A4E97561D632E"
+			}
+			"qaprio"
+			{
+				"gid" "4D649E34E8DA44AD28EEDBCF29E6C05F"
+				"size" "F06AA3794E020862E37EA05AA9E65E4B"
+				"download" "8CF82C0E4871E15BAE75D0338E01279A"
+			}
+			"release"
+			{
+				"gid" "5EA6F7E94F75EB89FC8390A51D910B43"
+				"size" "48662EBB51B5124B9E00D67D56DB2B7D"
+				"download" "A80E99E4A39BA5C2271734952B57EEEF"
+			}
+			"release_hf4"
+			{
+				"gid" "01691A5BED3CF0C4395A0A7BB019C1B7"
+				"size" "1A41B6FC4DB6FB71C8052211B773B815"
+				"download" "C90719564F8F10D5D043284C3E299DFE"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "86261946A723B23510A01DE44988C915"
+				"size" "BDF8E6BC38BA6C5461B869576D15600E"
+				"download" "92D87083D270A64DC10CE2FA9462D540"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "5CD177357E7B8117DC5054E405608446"
+				"size" "B6FF7BC2F59C7BE19062C2F9C4B2E3AE"
+				"download" "B9AB9CBC7F01353106AC29622C453FF6"
+			}
+			"release_patch6"
+			{
+				"gid" "13F5CB548F1589944F1F1AB6339E1A8A"
+				"size" "4D7A384F9251185C1B841C2C55B5C13D"
+				"download" "BC3BEA4AACA4ED300FC37F7CE3E4C8B0"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "D3B9ADD1C9057432B3146B525AAA89A9"
+				"size" "698907A4BD08352E09E90A4502CF0A9D"
+				"download" "5617AEB9B034300F866DD4747E83AD9C"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "31896F31939C9D8747877B4B0AEE615D"
+				"size" "EB001320FEF85D95E9F7827C1841F2FF"
+				"download" "35C4E1C06C089E04E4BD1A6B2F8A3459"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "C8E8C276E19FCD517548D13730E1D393"
+				"size" "84241021FCE7F188AC936E4B0250F5A5"
+				"download" "0B07A15D8B77CB241287A4D3F84EA9B4"
+			}
+			"summer2020_loca"
+			{
+				"gid" "223B465203D9E60D62C07D8C696C7178"
+				"size" "F908B4893B5C271566201CEDA7783338"
+				"download" "92242E3DEA07C637EE9629BC6B808D9C"
+			}
+			"temp"
+			{
+				"gid" "C4B77A16DBF358267DF6386CFC6601FE"
+				"size" "A404017A2E9479C0202719B88EC4EF7D"
+				"download" "9C58E3859594678A6EBBD5D5251DEDE2"
+			}
+			"testbranch"
+			{
+				"gid" "5B2EBBE49541D8278A1C75F1BB7AA734"
+				"size" "86F1F49B0AA837B5518AEBD30CCF1BD2"
+				"download" "D1A86BAFDF28573819F32AFC8FBDC7E9"
+			}
+		}
+	}
+	"1419663"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "723954999732581088"
+				"size" "572"
+				"download" "304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agerating"
+			{
+				"gid" "B7DE90A01EDD0FB0A24070561AC67123"
+				"size" "8CA612E406B8C60B9E70F76F6E598DEB"
+				"download" "DD0D49CD8399B55DCD2F02C8A5E601D0"
+			}
+			"ch_main"
+			{
+				"gid" "43905350D29AA2419B9FF6EBA5CA2E2C"
+				"size" "8C9FBF06BD9897E135BA82D38076D2AA"
+				"download" "25FB844F10D78D0399D8DDAE62F2EC8F"
+			}
+			"ch_rc"
+			{
+				"gid" "E93197298E6DB239F25389A7576AF8FC"
+				"size" "BCD39907A16E216AFD6266644E6F175F"
+				"download" "D716BAE385BEED3B227198F3EFBF5529"
+			}
+			"compat"
+			{
+				"gid" "7A4CE48D26544E087F964A3A99BC074E"
+				"size" "6386F6F3427E6BBA3D83AF9F038FBE95"
+				"download" "CB1190F819EBD1D32C358EFDF908ED9C"
+			}
+			"dlss"
+			{
+				"gid" "7292253764E8FBC6D1C7C09F390440EF"
+				"size" "D13117D9AC274FA320CA64DF29C19905"
+				"download" "EA3A2FF835D64A5CF745046A2753C793"
+			}
+			"mac_test1"
+			{
+				"gid" "8D53D5399170CD22DB2BAAB2E8A58CF6"
+				"size" "E414B6431CC1158A631B8D7C4B5A183A"
+				"download" "7B7DD211D9330BC5D1552BA8897CC7F4"
+			}
+			"mac_test2"
+			{
+				"gid" "98EDDD15411BD58F90C881F3D5A9591A"
+				"size" "0928C86FC231EEA8E7B464B8C2553635"
+				"download" "D94A95A939FC20127FC9558D8A1AC92E"
+			}
+			"mac_test3"
+			{
+				"gid" "F83C736E4D43CEA93079C84797BD4AB7"
+				"size" "6FDC85A68A1A461E16AC1AF57F109C4A"
+				"download" "EC07B3390094DB55F3DD77368F8BC893"
+			}
+			"mac_test4"
+			{
+				"gid" "BF7AEFAA9E401826658550013CD1BCA0"
+				"size" "F009F91BDA2D3834EB50A8467E367EC0"
+				"download" "4C17500D2CF953278D2A4E97561D632E"
+			}
+			"qaprio"
+			{
+				"gid" "C24A70E0615B6536E0168985F37A6DB7"
+				"size" "F06AA3794E020862E37EA05AA9E65E4B"
+				"download" "8CF82C0E4871E15BAE75D0338E01279A"
+			}
+			"release"
+			{
+				"gid" "331E292B881616FD9C46D2455C827A2B"
+				"size" "48662EBB51B5124B9E00D67D56DB2B7D"
+				"download" "A80E99E4A39BA5C2271734952B57EEEF"
+			}
+			"release_hf4"
+			{
+				"gid" "4881220DD93928FA52E79AE1B2FF2432"
+				"size" "1A41B6FC4DB6FB71C8052211B773B815"
+				"download" "C90719564F8F10D5D043284C3E299DFE"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "B393C559AA0B69C376749C55AE5D2E70"
+				"size" "BDF8E6BC38BA6C5461B869576D15600E"
+				"download" "92D87083D270A64DC10CE2FA9462D540"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "7187411FF9558C24DC70445929A0A782"
+				"size" "B6FF7BC2F59C7BE19062C2F9C4B2E3AE"
+				"download" "B9AB9CBC7F01353106AC29622C453FF6"
+			}
+			"release_patch6"
+			{
+				"gid" "17107D352DB83BF45E5910C0261ADB76"
+				"size" "4D7A384F9251185C1B841C2C55B5C13D"
+				"download" "BC3BEA4AACA4ED300FC37F7CE3E4C8B0"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "E077443B17EFE0A88CBC967A8EC99423"
+				"size" "698907A4BD08352E09E90A4502CF0A9D"
+				"download" "5617AEB9B034300F866DD4747E83AD9C"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "7E71871A248123DA89695F5E84DD3E15"
+				"size" "EB001320FEF85D95E9F7827C1841F2FF"
+				"download" "35C4E1C06C089E04E4BD1A6B2F8A3459"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "69D2C7E6B708570F281C0C4D15E37C57"
+				"size" "84241021FCE7F188AC936E4B0250F5A5"
+				"download" "0B07A15D8B77CB241287A4D3F84EA9B4"
+			}
+			"summer2020_loca"
+			{
+				"gid" "9370FAD2F22885DF383740A23F147640"
+				"size" "F908B4893B5C271566201CEDA7783338"
+				"download" "92242E3DEA07C637EE9629BC6B808D9C"
+			}
+			"temp"
+			{
+				"gid" "EECE30CAE6770AF901EFB5872EFA43C4"
+				"size" "A404017A2E9479C0202719B88EC4EF7D"
+				"download" "9C58E3859594678A6EBBD5D5251DEDE2"
+			}
+			"testbranch"
+			{
+				"gid" "B80DC5996DBE3C6A5D740785E005BD29"
+				"size" "86F1F49B0AA837B5518AEBD30CCF1BD2"
+				"download" "D1A86BAFDF28573819F32AFC8FBDC7E9"
+			}
+		}
+	}
+	"1419664"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1107219692270677752"
+				"size" "573"
+				"download" "304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agerating"
+			{
+				"gid" "6CB1EA35970AA1E536123E7676B7A165"
+				"size" "CA299E4EC033576052C695546042BD9B"
+				"download" "DD0D49CD8399B55DCD2F02C8A5E601D0"
+			}
+			"ch_main"
+			{
+				"gid" "DB91CA3C4BC0F305D37C270CF6960BE3"
+				"size" "CC8A7E0745BE33FFD23C5552498935FD"
+				"download" "7E5059F84C48747478CF38EB9A3D45E8"
+			}
+			"ch_rc"
+			{
+				"gid" "0C2CA9075D85A58162E2AD3C5CC90112"
+				"size" "0A34A1CB40E48FB5742F66ABE1E35785"
+				"download" "D716BAE385BEED3B227198F3EFBF5529"
+			}
+			"compat"
+			{
+				"gid" "F4DE89194507E6A062E2605D7335B58A"
+				"size" "94B294A4023A37030FC1D08E85186799"
+				"download" "CB1190F819EBD1D32C358EFDF908ED9C"
+			}
+			"dlss"
+			{
+				"gid" "DC27CDCB7C27D95F8C42188608C77F32"
+				"size" "0967A9C240CDCB362C67CC0833B8C8F1"
+				"download" "EA3A2FF835D64A5CF745046A2753C793"
+			}
+			"mac_test1"
+			{
+				"gid" "3C2234B77E825114CB4AC00D6F3C8312"
+				"size" "85D2B3E9EB706CE9F19127C7635E71F2"
+				"download" "7B7DD211D9330BC5D1552BA8897CC7F4"
+			}
+			"mac_test2"
+			{
+				"gid" "4CC27166254024F2337C3784160F5462"
+				"size" "A0924A4761D08A90D28989C1AFB0D2E6"
+				"download" "D94A95A939FC20127FC9558D8A1AC92E"
+			}
+			"mac_test3"
+			{
+				"gid" "2BF9F7F5AD5A0E4867E2CAF5E01CE9EC"
+				"size" "9FE1C5078B39589C9F4819B8788B3EDF"
+				"download" "EC07B3390094DB55F3DD77368F8BC893"
+			}
+			"mac_test4"
+			{
+				"gid" "5D2436AF37BC7E7DEF03A92C31E3DF37"
+				"size" "CCC5A71F081A0F41310FCA2CCC8D8317"
+				"download" "4C17500D2CF953278D2A4E97561D632E"
+			}
+			"qaprio"
+			{
+				"gid" "DBEF1C55A98F481361D2234B1445666E"
+				"size" "44CCBF25F2A2CFDEEA86739A44197C60"
+				"download" "8CF82C0E4871E15BAE75D0338E01279A"
+			}
+			"release"
+			{
+				"gid" "1620C6067A7730BFDEC4C5EE993E722A"
+				"size" "3438173299FB0516D4BE6897AA74BC9A"
+				"download" "A80E99E4A39BA5C2271734952B57EEEF"
+			}
+			"release_hf4"
+			{
+				"gid" "1EC6F963AD3083F79F01DA8F233423EF"
+				"size" "903F44D65C60A69DF92846BF554618AF"
+				"download" "C90719564F8F10D5D043284C3E299DFE"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "C3A07F765A8017852E61751DEE6107F6"
+				"size" "FAB79ECB889337A1DBB0DCB2C7C2A3FA"
+				"download" "92D87083D270A64DC10CE2FA9462D540"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "8AE0C169E21F294634D4762CF575BBDC"
+				"size" "CA691EF7105342CC456D85B57229CA38"
+				"download" "B9AB9CBC7F01353106AC29622C453FF6"
+			}
+			"release_patch6"
+			{
+				"gid" "6D255F53CF5B85239215F41CD9DA6481"
+				"size" "1E3234807723016CF19DE116500223B4"
+				"download" "BC3BEA4AACA4ED300FC37F7CE3E4C8B0"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "639B281AF78FACBFA2F478A65C86D268"
+				"size" "56E352F510FD76310C5AEDB3E35CBE60"
+				"download" "5617AEB9B034300F866DD4747E83AD9C"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "7ED37CDA83571FC298C4EDA94108ECD7"
+				"size" "DC8FE9ADEEE3F5E9387AFB81CEF26AD2"
+				"download" "35C4E1C06C089E04E4BD1A6B2F8A3459"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "078CCCAEACCAF307068B379775D4E095"
+				"size" "640EA142699A80406A629189829E5057"
+				"download" "0B07A15D8B77CB241287A4D3F84EA9B4"
+			}
+			"summer2020_loca"
+			{
+				"gid" "594B45637235C79C1227B915F915BF92"
+				"size" "158690BC057E3EFF950346013654EDA4"
+				"download" "92242E3DEA07C637EE9629BC6B808D9C"
+			}
+			"temp"
+			{
+				"gid" "D9D41D0F7734EE91576CA458847ABCBF"
+				"size" "11A16AB01E7DD4AAB4BB017BD0DAFDFB"
+				"download" "9C58E3859594678A6EBBD5D5251DEDE2"
+			}
+			"testbranch"
+			{
+				"gid" "5263D578D7CC4409F77011848A898283"
+				"size" "256E4819FE043D7BB6D48C2678F8591A"
+				"download" "D1A86BAFDF28573819F32AFC8FBDC7E9"
+			}
+		}
+	}
+	"1419665"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "747776678919642180"
+				"size" "572"
+				"download" "304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agerating"
+			{
+				"gid" "F5873AEFCE6D76515418006E36BCC8F6"
+				"size" "8CA612E406B8C60B9E70F76F6E598DEB"
+				"download" "DD0D49CD8399B55DCD2F02C8A5E601D0"
+			}
+			"ch_main"
+			{
+				"gid" "7FF726CBDDF1871C5448BCBB2A3353AF"
+				"size" "8C9FBF06BD9897E135BA82D38076D2AA"
+				"download" "7E5059F84C48747478CF38EB9A3D45E8"
+			}
+			"ch_rc"
+			{
+				"gid" "1C15707F2A3FF9735C9D859D0330E5BA"
+				"size" "BCD39907A16E216AFD6266644E6F175F"
+				"download" "D716BAE385BEED3B227198F3EFBF5529"
+			}
+			"compat"
+			{
+				"gid" "81BF1D4735274C35AA5A799FD6F9FDB5"
+				"size" "6386F6F3427E6BBA3D83AF9F038FBE95"
+				"download" "CB1190F819EBD1D32C358EFDF908ED9C"
+			}
+			"dlss"
+			{
+				"gid" "7492E028417D821B72B14A50DEA5DD2D"
+				"size" "D13117D9AC274FA320CA64DF29C19905"
+				"download" "EA3A2FF835D64A5CF745046A2753C793"
+			}
+			"mac_test1"
+			{
+				"gid" "D6F8EA0193A2CCB986C4E54CCCE4F33C"
+				"size" "E414B6431CC1158A631B8D7C4B5A183A"
+				"download" "7B7DD211D9330BC5D1552BA8897CC7F4"
+			}
+			"mac_test2"
+			{
+				"gid" "2C2CD00E00CF2C9138F3E468014567C2"
+				"size" "0928C86FC231EEA8E7B464B8C2553635"
+				"download" "D94A95A939FC20127FC9558D8A1AC92E"
+			}
+			"mac_test3"
+			{
+				"gid" "F89A968521EB333042EF4D469DC49A2A"
+				"size" "6FDC85A68A1A461E16AC1AF57F109C4A"
+				"download" "EC07B3390094DB55F3DD77368F8BC893"
+			}
+			"mac_test4"
+			{
+				"gid" "355AEA0B32973577B8565DBF17196921"
+				"size" "F009F91BDA2D3834EB50A8467E367EC0"
+				"download" "4C17500D2CF953278D2A4E97561D632E"
+			}
+			"qaprio"
+			{
+				"gid" "C3A4C64B429DF25A3EDFA8AB7C52E839"
+				"size" "F06AA3794E020862E37EA05AA9E65E4B"
+				"download" "8CF82C0E4871E15BAE75D0338E01279A"
+			}
+			"release"
+			{
+				"gid" "7BCBB872CB9749EB6E327D74A44C8EF9"
+				"size" "48662EBB51B5124B9E00D67D56DB2B7D"
+				"download" "A80E99E4A39BA5C2271734952B57EEEF"
+			}
+			"release_hf4"
+			{
+				"gid" "380F4AB04AD42DDFC8B70F979D47D985"
+				"size" "1A41B6FC4DB6FB71C8052211B773B815"
+				"download" "C90719564F8F10D5D043284C3E299DFE"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "4FD01485BBA2444027833DBE95AF6A61"
+				"size" "BDF8E6BC38BA6C5461B869576D15600E"
+				"download" "92D87083D270A64DC10CE2FA9462D540"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "9F85661931F69F14DB6F485526A2A89A"
+				"size" "B6FF7BC2F59C7BE19062C2F9C4B2E3AE"
+				"download" "B9AB9CBC7F01353106AC29622C453FF6"
+			}
+			"release_patch6"
+			{
+				"gid" "079E9BC522A28256F55CDEF73DF77BBD"
+				"size" "4D7A384F9251185C1B841C2C55B5C13D"
+				"download" "BC3BEA4AACA4ED300FC37F7CE3E4C8B0"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "474D39706E939D9A023242E1DD33A305"
+				"size" "698907A4BD08352E09E90A4502CF0A9D"
+				"download" "5617AEB9B034300F866DD4747E83AD9C"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "F8EA13E7A9DCABA9BC5E0D3DC65F2DEA"
+				"size" "EB001320FEF85D95E9F7827C1841F2FF"
+				"download" "35C4E1C06C089E04E4BD1A6B2F8A3459"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "7E8B465BBFC470BF5FC05E59177E2401"
+				"size" "84241021FCE7F188AC936E4B0250F5A5"
+				"download" "0B07A15D8B77CB241287A4D3F84EA9B4"
+			}
+			"summer2020_loca"
+			{
+				"gid" "0572BF7FE25D60D2D1F16905262E96BB"
+				"size" "F908B4893B5C271566201CEDA7783338"
+				"download" "92242E3DEA07C637EE9629BC6B808D9C"
+			}
+			"temp"
+			{
+				"gid" "8F9DB772D1B3E76CE04A560A716D1D40"
+				"size" "A404017A2E9479C0202719B88EC4EF7D"
+				"download" "9C58E3859594678A6EBBD5D5251DEDE2"
+			}
+			"testbranch"
+			{
+				"gid" "27211B89104D60ABADEF9D9C438A7584"
+				"size" "86F1F49B0AA837B5518AEBD30CCF1BD2"
+				"download" "D1A86BAFDF28573819F32AFC8FBDC7E9"
+			}
+		}
+	}
+	"1419666"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "314330023803655538"
+				"size" "573"
+				"download" "304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agerating"
+			{
+				"gid" "3090B944DF46D9A9CF5CA30583D3A74D"
+				"size" "CA299E4EC033576052C695546042BD9B"
+				"download" "DD0D49CD8399B55DCD2F02C8A5E601D0"
+			}
+			"ch_main"
+			{
+				"gid" "9BF7F465783F3840107F3B7C130ED591"
+				"size" "CC8A7E0745BE33FFD23C5552498935FD"
+				"download" "7E5059F84C48747478CF38EB9A3D45E8"
+			}
+			"ch_rc"
+			{
+				"gid" "06E25476E9AC602BD8A44561A5AB4F1A"
+				"size" "0A34A1CB40E48FB5742F66ABE1E35785"
+				"download" "D716BAE385BEED3B227198F3EFBF5529"
+			}
+			"compat"
+			{
+				"gid" "107E822755B7EE76A5E4624619E34EED"
+				"size" "94B294A4023A37030FC1D08E85186799"
+				"download" "CB1190F819EBD1D32C358EFDF908ED9C"
+			}
+			"dlss"
+			{
+				"gid" "3E71E64F33C49075632D7F8A311ACC8F"
+				"size" "0967A9C240CDCB362C67CC0833B8C8F1"
+				"download" "EA3A2FF835D64A5CF745046A2753C793"
+			}
+			"mac_test1"
+			{
+				"gid" "2C4E3A4F41281C099B9D129B05FAD3FD"
+				"size" "85D2B3E9EB706CE9F19127C7635E71F2"
+				"download" "7B7DD211D9330BC5D1552BA8897CC7F4"
+			}
+			"mac_test2"
+			{
+				"gid" "5FAE65A34F6735A2A73263AB39A8D87A"
+				"size" "A0924A4761D08A90D28989C1AFB0D2E6"
+				"download" "D94A95A939FC20127FC9558D8A1AC92E"
+			}
+			"mac_test3"
+			{
+				"gid" "9A712B5AFD1CD71B1EC721FDEEE9C363"
+				"size" "9FE1C5078B39589C9F4819B8788B3EDF"
+				"download" "EC07B3390094DB55F3DD77368F8BC893"
+			}
+			"mac_test4"
+			{
+				"gid" "2540CD431A2964CDC507C77DBDE33C60"
+				"size" "CCC5A71F081A0F41310FCA2CCC8D8317"
+				"download" "4C17500D2CF953278D2A4E97561D632E"
+			}
+			"qaprio"
+			{
+				"gid" "3B710B9992252D68A8DA0159002E5911"
+				"size" "44CCBF25F2A2CFDEEA86739A44197C60"
+				"download" "8CF82C0E4871E15BAE75D0338E01279A"
+			}
+			"release"
+			{
+				"gid" "FA2E1729F6264D93C4653780E7A0B68F"
+				"size" "3438173299FB0516D4BE6897AA74BC9A"
+				"download" "A80E99E4A39BA5C2271734952B57EEEF"
+			}
+			"release_hf4"
+			{
+				"gid" "A90EF31241B5A06DFCEE8127BD0488FA"
+				"size" "903F44D65C60A69DF92846BF554618AF"
+				"download" "C90719564F8F10D5D043284C3E299DFE"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "598626D8A8E261C7C271AFFCE4D73503"
+				"size" "FAB79ECB889337A1DBB0DCB2C7C2A3FA"
+				"download" "92D87083D270A64DC10CE2FA9462D540"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "9ECACE994E000C2A2887CF50882DB138"
+				"size" "CA691EF7105342CC456D85B57229CA38"
+				"download" "B9AB9CBC7F01353106AC29622C453FF6"
+			}
+			"release_patch6"
+			{
+				"gid" "DC13FFCEDE329764AC9EBC5A74E8FBB5"
+				"size" "1E3234807723016CF19DE116500223B4"
+				"download" "BC3BEA4AACA4ED300FC37F7CE3E4C8B0"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "F75AE1549C7ACB15EA0F7104BC7BBBA3"
+				"size" "56E352F510FD76310C5AEDB3E35CBE60"
+				"download" "5617AEB9B034300F866DD4747E83AD9C"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "BC3A7A8D6B33E8FECFF36D309827E3F8"
+				"size" "DC8FE9ADEEE3F5E9387AFB81CEF26AD2"
+				"download" "35C4E1C06C089E04E4BD1A6B2F8A3459"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "D508F4C7934425BB74277DEA76368AF9"
+				"size" "640EA142699A80406A629189829E5057"
+				"download" "0B07A15D8B77CB241287A4D3F84EA9B4"
+			}
+			"summer2020_loca"
+			{
+				"gid" "5D980905FEEFE4E3FDB50AE0B29A95B9"
+				"size" "158690BC057E3EFF950346013654EDA4"
+				"download" "92242E3DEA07C637EE9629BC6B808D9C"
+			}
+			"temp"
+			{
+				"gid" "D4733E794801B03CE99853D5BDD5CAEC"
+				"size" "11A16AB01E7DD4AAB4BB017BD0DAFDFB"
+				"download" "9C58E3859594678A6EBBD5D5251DEDE2"
+			}
+			"testbranch"
+			{
+				"gid" "A9F44E85C9B869F8B2CDF9DB842F9C74"
+				"size" "256E4819FE043D7BB6D48C2678F8591A"
+				"download" "D1A86BAFDF28573819F32AFC8FBDC7E9"
+			}
+		}
+	}
+	"1419667"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "63003823326025800"
+				"size" "573"
+				"download" "304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agerating"
+			{
+				"gid" "40303ED49E2168BD193AABBEE5E55D27"
+				"size" "CA299E4EC033576052C695546042BD9B"
+				"download" "DD0D49CD8399B55DCD2F02C8A5E601D0"
+			}
+			"ch_main"
+			{
+				"gid" "7536C5A96B349314AC969F3E0779077D"
+				"size" "CC8A7E0745BE33FFD23C5552498935FD"
+				"download" "7E5059F84C48747478CF38EB9A3D45E8"
+			}
+			"ch_rc"
+			{
+				"gid" "84DD7D7C21D1FF8D2DD6B5989A61EECC"
+				"size" "0A34A1CB40E48FB5742F66ABE1E35785"
+				"download" "D716BAE385BEED3B227198F3EFBF5529"
+			}
+			"compat"
+			{
+				"gid" "26C6956EFF7ACF394D0B37A79E705D25"
+				"size" "94B294A4023A37030FC1D08E85186799"
+				"download" "CB1190F819EBD1D32C358EFDF908ED9C"
+			}
+			"dlss"
+			{
+				"gid" "33F0C22D50F4DBAA955CA619EEDDB37A"
+				"size" "0967A9C240CDCB362C67CC0833B8C8F1"
+				"download" "EA3A2FF835D64A5CF745046A2753C793"
+			}
+			"mac_test1"
+			{
+				"gid" "511F42F6B5EC5083903EE5438A0E21D3"
+				"size" "85D2B3E9EB706CE9F19127C7635E71F2"
+				"download" "7B7DD211D9330BC5D1552BA8897CC7F4"
+			}
+			"mac_test2"
+			{
+				"gid" "FF70AF68440C5196A646DC7950CEE189"
+				"size" "A0924A4761D08A90D28989C1AFB0D2E6"
+				"download" "D94A95A939FC20127FC9558D8A1AC92E"
+			}
+			"mac_test3"
+			{
+				"gid" "F68E9D3AC9CC9253E6CCF33C5D55362B"
+				"size" "9FE1C5078B39589C9F4819B8788B3EDF"
+				"download" "EC07B3390094DB55F3DD77368F8BC893"
+			}
+			"mac_test4"
+			{
+				"gid" "3708DFD8765CEE60999FD79CC2B96731"
+				"size" "CCC5A71F081A0F41310FCA2CCC8D8317"
+				"download" "4C17500D2CF953278D2A4E97561D632E"
+			}
+			"qaprio"
+			{
+				"gid" "677FD5FD702CB96773D4DB976311F48C"
+				"size" "44CCBF25F2A2CFDEEA86739A44197C60"
+				"download" "8CF82C0E4871E15BAE75D0338E01279A"
+			}
+			"release"
+			{
+				"gid" "98D4C5857A0932332C93B38967E46051"
+				"size" "3438173299FB0516D4BE6897AA74BC9A"
+				"download" "A80E99E4A39BA5C2271734952B57EEEF"
+			}
+			"release_hf4"
+			{
+				"gid" "12490F465993F782B840822D4194C849"
+				"size" "903F44D65C60A69DF92846BF554618AF"
+				"download" "C90719564F8F10D5D043284C3E299DFE"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "6F180A448C79DB1ABC4631708BCEB65E"
+				"size" "FAB79ECB889337A1DBB0DCB2C7C2A3FA"
+				"download" "92D87083D270A64DC10CE2FA9462D540"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "1C3C32C0441EF68E0BD22DDD4A5F550C"
+				"size" "CA691EF7105342CC456D85B57229CA38"
+				"download" "B9AB9CBC7F01353106AC29622C453FF6"
+			}
+			"release_patch6"
+			{
+				"gid" "BE8DF849BDA9450AE1E99ED9C7B56E61"
+				"size" "1E3234807723016CF19DE116500223B4"
+				"download" "BC3BEA4AACA4ED300FC37F7CE3E4C8B0"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "B9047B52F74E843086713FA09F59D4CE"
+				"size" "56E352F510FD76310C5AEDB3E35CBE60"
+				"download" "5617AEB9B034300F866DD4747E83AD9C"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "E03DFD92975B84A87279461830B08679"
+				"size" "DC8FE9ADEEE3F5E9387AFB81CEF26AD2"
+				"download" "35C4E1C06C089E04E4BD1A6B2F8A3459"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "074D1758201F1C1FD917A20A42F6E478"
+				"size" "640EA142699A80406A629189829E5057"
+				"download" "0B07A15D8B77CB241287A4D3F84EA9B4"
+			}
+			"summer2020_loca"
+			{
+				"gid" "FE965BD60F2A1182C725AACF74F4D8A6"
+				"size" "158690BC057E3EFF950346013654EDA4"
+				"download" "92242E3DEA07C637EE9629BC6B808D9C"
+			}
+			"temp"
+			{
+				"gid" "80932CFBC5854529CD0294F15990F798"
+				"size" "11A16AB01E7DD4AAB4BB017BD0DAFDFB"
+				"download" "9C58E3859594678A6EBBD5D5251DEDE2"
+			}
+			"testbranch"
+			{
+				"gid" "1F2570DA2A7697276AD8A3EC6CE1B3E4"
+				"size" "256E4819FE043D7BB6D48C2678F8591A"
+				"download" "D1A86BAFDF28573819F32AFC8FBDC7E9"
+			}
+		}
+	}
+	"1419650"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5111894187918932034"
+				"size" "15353828"
+				"download" "13261936"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "508F19BB0991770F713688925F260BFE"
+				"size" "DB52F1247359192E0C917175033BE76C"
+				"download" "DD8249064CDEE1CBC6B2875FD5A5C6F4"
+			}
+			"ch_main"
+			{
+				"gid" "56DDA27655A03B075D35640CBC8B9AC5"
+				"size" "701BF7031D04595408D89E7C156F19B2"
+				"download" "D8D79A3BCCF6934B29F75B3FC161E0D9"
+			}
+			"ch_rc"
+			{
+				"gid" "CE63969EF1DA8AC27C3938E28D331E73"
+				"size" "DB85062C6D6EA113FED5C91750325BFD"
+				"download" "923D30A3D9218B9730567C1DBCBA9A37"
+			}
+			"compat"
+			{
+				"gid" "26890D60C851DA7B298F18B1F9F60993"
+				"size" "80F3356F009098BADCD7F56F0A386F93"
+				"download" "23B53AC4C9DFB484B668E87C62FC5D72"
+			}
+			"dlss"
+			{
+				"gid" "86C290157841F6D2378BAE4E710BB60B"
+				"size" "B8C1E4CCE555C5BC342BE9BEEFCED586"
+				"download" "F96F11BDF96DD6DAF23F302D8DBB6530"
+			}
+			"mac_test3"
+			{
+				"gid" "341E5456CCAE50D1F10EB534384F3319"
+				"size" "FC09210A2D75F4AFC0F4C951BBD62A8A"
+				"download" "611C9501E73F6BD5E24D9491F50D8D18"
+			}
+			"mac_test4"
+			{
+				"gid" "DFFDCD5E0C6CD436CA22A7E489ACFC0E"
+				"size" "08AD938FA03C175435DE631624BB3E47"
+				"download" "71940D820367114F3D0733EFCE006CA9"
+			}
+			"qaprio"
+			{
+				"gid" "15AA00A2D81B7E13CB3F99C9BB7A4012"
+				"size" "62F01980747D1F5251F1522E254B6081"
+				"download" "A2B25D77743C7B465217FFFE4821D2FD"
+			}
+			"release"
+			{
+				"gid" "93F2198DDDCB2CEF5C4B1E4F50A2838F"
+				"size" "46A30012F33840BD4B616D19E8974872"
+				"download" "525EE7A97E75B0AF16C6475D7AA56536"
+			}
+			"release_hf4"
+			{
+				"gid" "3CD35D27FD57C37B1C5789675822EF89"
+				"size" "8154A321DE7DCD3B0FC5CAC87A015D0E"
+				"download" "A17549D1CC244D720C74FA55A2F986B5"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "F5705D6E86C2873F58D3A28E01C94EC0"
+				"size" "7F273163846916904CEE07EABB5A6F92"
+				"download" "0E61B8BAA4C51923050CCF225014A8AF"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "17236C811EA93851C1BF39E427B64433"
+				"size" "AE4485F9C25D0E0A58B5AF512846B22B"
+				"download" "90266A94E93E0534D061997DB111F591"
+			}
+			"release_patch6"
+			{
+				"gid" "50E2F009C4B736B5C90A7F04C9CA5788"
+				"size" "BB165BE0E2244367A9AC82A6BC8947FF"
+				"download" "28C99EA2BA4AB1F0FB644EB7A5A7E824"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "79DA1143D1057D68CE4FD4AF60B88F76"
+				"size" "D55AF99BAA6AAF6CE0AEA0654C50FFAD"
+				"download" "599D8BBFBDD5117039B6C23C37316CB5"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "BA7473E7A316ADE5C484AFDBF8FECE11"
+				"size" "E26102E7D2FAA15DAB68E329FCC72454"
+				"download" "306A0D23D7955DA9C1FB947B7BBD4097"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "EF77F6E8369B02BCD0A715F2D2347A2F"
+				"size" "AF89223C8FEEFB1D41E869F1D212E5D6"
+				"download" "8F8FCA036A947911D8CC7BDEB6592AD1"
+			}
+			"summer2020_loca"
+			{
+				"gid" "6338FA7412C28A53BE937811408FDA1F"
+				"size" "8CB6E5E9E5D74C2F7A3ABC41C4E59C30"
+				"download" "720C5B987557878357648DAD71B9BB48"
+			}
+			"temp"
+			{
+				"gid" "D2C79F9375C830735E8BD2285E69CF0B"
+				"size" "3587BE96C98F1C616017D811354A51CF"
+				"download" "C415C4C8E88D95524272A8668B354AAB"
+			}
+			"testbranch"
+			{
+				"gid" "CF78E9A3F0BB883FEAC87950FB77421F"
+				"size" "8BE680ED985F154AF24898327DE11C8E"
+				"download" "F739A2C0E5D2D2C32D59D928096F5438"
+			}
+		}
+	}
+	"1419651"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" "turkish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8291440866830475015"
+				"size" "13601257"
+				"download" "11775168"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agerating"
+			{
+				"gid" "F4C54AEBA336DCFD684908DD9AF14507"
+				"size" "8FBC6F1A11ED0C0C2AEFC8E1E1FBC411"
+				"download" "16A55898264F1DD785AA6AE7843FCE14"
+			}
+			"baseline"
+			{
+				"gid" "C4AF7AA4E5A37A50DEAEE3D754045CB3"
+				"size" "C6BBDA7CDD03670590E404307BA5769E"
+				"download" "4D9E3FB996CA71216B8F0C58449DA49D"
+			}
+			"ch_main"
+			{
+				"gid" "F063E674AD827D37751015D4FA97E2D9"
+				"size" "030AB89A3CB895FD9D8CC488439FDE39"
+				"download" "02BFC5AAFB76438B7B64EAED1011E9EE"
+			}
+			"ch_rc"
+			{
+				"gid" "A337EF3B6BA7FA0EC7AC1D5D67E46CAD"
+				"size" "33D330D1B0D480FD5E56AF244868BEAF"
+				"download" "49F9E678EFD7DCBB7112EAEB91D8A8AD"
+			}
+			"compat"
+			{
+				"gid" "B99C82857DA7BD03FC956A9DD2C42EE1"
+				"size" "6BC3A28B2CBBC444B27CD616BA50557F"
+				"download" "A6B09668AEAB7E39EBF2C5B51B242D2C"
+			}
+			"dlss"
+			{
+				"gid" "148571538C3DDA112722D360A75EFD18"
+				"size" "BFF4F745724C0E6EB317257DED9C0C05"
+				"download" "86C9A181EF44C43667CED3C604E4CCC5"
+			}
+			"mac_test2"
+			{
+				"gid" "3AC0BA9D28C0DF747F5956453FB8C5A5"
+				"size" "451EBF982E7546235185C1B4B392F6E7"
+				"download" "3E7D6E55A1F670269695A2A7D04C41EC"
+			}
+			"mac_test3"
+			{
+				"gid" "485029673CFE6EEAC531090D17CD317C"
+				"size" "836EE3B256B51F5851E73438D47BDC2D"
+				"download" "828CA4E869C15DF9CA111161D715E435"
+			}
+			"mac_test4"
+			{
+				"gid" "63B794990528610A17CF9AB4CAF00AF8"
+				"size" "27E863E1ACDF41E7604AC79D1B21FC30"
+				"download" "480A0EF916910F1A9AAEBE81A1C81E9D"
+			}
+			"qaprio"
+			{
+				"gid" "73A284C5B778304F70A6E93153A2656E"
+				"size" "7E3D8EFB1838637EAC7376376B98C38C"
+				"download" "07BA5D5CC72103BF32FE88719C3F5843"
+			}
+			"release"
+			{
+				"gid" "30C796477911796B0FB09935DE125EE2"
+				"size" "3B36FB1B77559B23F96C95F8676E970F"
+				"download" "A96C0F17649D01DE83601D66DDAD10E6"
+			}
+			"release_hf4"
+			{
+				"gid" "ACBA5CA4C62ACB1D0603991812BD8EB0"
+				"size" "B3EF412EDE04B08871A3E4F4BCD8A6F6"
+				"download" "415E794A9A2FD394D98D55C93C26DDFB"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "9CA199C098261C8DEE96EFB323BAF3A8"
+				"size" "7F92AA2845D745D7DD96E869B812F08F"
+				"download" "785F6C7D70D8A3674C09C4EEAC0A0A02"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "94A81CFC71B4B3E113B1232461CD2C23"
+				"size" "9C3830A2D95F40285E89876F70158188"
+				"download" "AE384D6BA6BA6C5106E4685AB04A476B"
+			}
+			"release_patch6"
+			{
+				"gid" "867A517B0A169012C158F27ACDC01C16"
+				"size" "026350AF781E639905C875C2C5630B95"
+				"download" "7DA881F8014EEFAA62764B006896916E"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "3EE1B0E1E6CD8A746FA0894997C98179"
+				"size" "5E49502E21FAE13CA08DEEF534DA5E5B"
+				"download" "EBCB9514EEA3BEFB4FFAD725A5AA57C3"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "1A3E676BC4D4178DE1FB98A2F5057150"
+				"size" "2FFC88BE0E40ECFAAA4AF2BCF13E5AB5"
+				"download" "8B67AD5B1EF5458926FC1FE617AA23F1"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "1B22B15276113575E553B89F57C3D620"
+				"size" "800AF195CD8F2200BDCC9F9E8CBF0F54"
+				"download" "FFD7E31F7F2E692123351AA54B7C8983"
+			}
+			"summer2020_loca"
+			{
+				"gid" "FE60706721A0906C1913EF07D2194FA7"
+				"size" "AB99AF6A92AE16447B4BB4EED3098FA8"
+				"download" "449AB24BC0482C1DDD4DC2A3D8CC21A4"
+			}
+			"temp"
+			{
+				"gid" "5E9EC0416EC49FE5F4E3C2889A1EDA38"
+				"size" "78260553C222CBB375EA4865134FA56C"
+				"download" "FBFC46791985D80E0489481257004B6D"
+			}
+			"testbranch"
+			{
+				"gid" "0CF7183DE3B16C690269612025BD0375"
+				"size" "DC426966D7EE8B2C644A2826EF616ADB"
+				"download" "D95B952E5F114C7886B9328A22350760"
+			}
+		}
+	}
+	"1419652"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1300945674256166182"
+				"size" "213283422"
+				"download" "60934080"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agerating"
+			{
+				"gid" "99A0335D5123820DCB8DDE21D4DE24B8"
+				"size" "1CD3E979A174C54313DF98FAB8E1E4EE"
+				"download" "3EFFF7051FA642F4DBCE450C62D921E0"
+			}
+			"baseline"
+			{
+				"gid" "ED83FB5DF9D5984D4E9374F52771CCA2"
+				"size" "A21C2A16C214198AAB32E69D42E46021"
+				"download" "6540451619FBC68D7B130B2691FD19AA"
+			}
+			"ch_main"
+			{
+				"gid" "3353B5328DF940749AB57AB43442963D"
+				"size" "56FC8DF7211F94EB529540A8706D0E84"
+				"download" "DD4A002D79CC1144188C5C3CAD20452E"
+			}
+			"ch_rc"
+			{
+				"gid" "6F3C27F42D4DAAA6515B9E8DEC3AF332"
+				"size" "8D805F80F9244A9EB0D70569F280C757"
+				"download" "5D078CC5C72540B54C1B3D484293FD7A"
+			}
+			"compat"
+			{
+				"gid" "A38486566FC78FDB41F13734B68ACE9C"
+				"size" "275829413E1D6C38DA84B12FD937079B"
+				"download" "E04CBB3A1B92DD39EC5B0031132C4513"
+			}
+			"dlss"
+			{
+				"gid" "AB68A9E4493CECA7EE149EB0A0DDC31C"
+				"size" "40136BF3171CC4941BF4A563A730DC84"
+				"download" "E1EBF1E0607CC01356870359616F0041"
+			}
+			"mac_test2"
+			{
+				"gid" "D5FD5E43B3F44525577F3E0FB6520177"
+				"size" "5A18212AC18942167EFFDED1B3272426"
+				"download" "22A34814870C98FB6A27C7364B2351CD"
+			}
+			"mac_test3"
+			{
+				"gid" "D27B523FE0CE82BACD4FB80767D3A2EC"
+				"size" "B4BAEE865727B360483A92C487E3EAE3"
+				"download" "84DADA68E2161C39B0CD9026F059BE66"
+			}
+			"mac_test4"
+			{
+				"gid" "A312CE29CDAB4E54755C121DBD7990C5"
+				"size" "C26432131AA41EE3018B0DE5FC25371D"
+				"download" "88F495D3CACA3DA50278011B2E0A7A27"
+			}
+			"qaprio"
+			{
+				"gid" "BF789AF52A81A4FD89084D1A2846572B"
+				"size" "5403D8C3D7A52B6BC9CE4822C3547643"
+				"download" "CA6AAC5A115A6DCFE19D161A2CFA1B85"
+			}
+			"release"
+			{
+				"gid" "0855F8987D1DDCA7FD30BC9CCA45E4CE"
+				"size" "36FDD01326EE53D5967CBDB14CFE19C2"
+				"download" "748B4AE37BA29DFF491A4DEAABA2BF53"
+			}
+			"release_hf4"
+			{
+				"gid" "F4F1C1AE475CB7548DBB561240BA3688"
+				"size" "779B914ECACC84DA5701643CDC48D8DF"
+				"download" "C442DD0C2BC5F386E64992C61B5106A3"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "B602110D8986A1B1D0745405552C3510"
+				"size" "5CA20F6736D5CE2291C1E48D19EA496B"
+				"download" "DD2F4C8875FE1ABBE215CC489CC9AE97"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "F510B1165953214A9FD4B26F7CAC5D96"
+				"size" "BFBA0576A3B7ADDDD2CB4380211A72CD"
+				"download" "2A5E4A5ED005A5A4F2D7D38FE33E033F"
+			}
+			"release_patch6"
+			{
+				"gid" "B7FF85BB0E091B6CE3D61EFE37B435C1"
+				"size" "3B2ECBADD7B67A1CAFB4128F72F4A503"
+				"download" "5582E6DE386483436722BE17A6A4B3EB"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "17F9165008AE93EA1F7374BBBA7E1443"
+				"size" "2FC03A6699C8109B1C5C870259E59AF2"
+				"download" "4D9234131455051C2C6B51CA5BD8ABD6"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "50FC416F950D6F51530A8B8014130E4B"
+				"size" "BE2EA66EC9A279838A5D7292C29D4A1C"
+				"download" "3CA2BBD4C1AA9AC16BFECFE8B9EF7C67"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "9AEA02970018F593AE9290F9708796A8"
+				"size" "AA14C42F0C1A91A22EDE9439A14D4E5D"
+				"download" "F16C0D454342E1EA881D5A8F89467367"
+			}
+			"summer2020_loca"
+			{
+				"gid" "9D9A4E918383196C0B997C57B76CDEB3"
+				"size" "20891A63BC7B9914A3BAC0799E52E943"
+				"download" "71A2AEE1D6A578677179E746542588C6"
+			}
+			"temp"
+			{
+				"gid" "8A80E9BB3BAA8FA5B7562E4A8777EC1C"
+				"size" "2548E7B8A51D8EDCF2AC5924D78135DE"
+				"download" "D89C5D0F7867F7D48A9E3211D2F6EE02"
+			}
+			"testbranch"
+			{
+				"gid" "BF7F3F20FD1ACE1472562B4C24D3B237"
+				"size" "1215BAE454FC9357F373661A4A28D014"
+				"download" "870F46CF62A9E830219D4C188CBD15E5"
+			}
+		}
+	}
+	"1419653"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1887145181215823288"
+				"size" "387575733"
+				"download" "109360528"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agerating"
+			{
+				"gid" "D36C8253720E3EB64E1A9DA44A845B2E"
+				"size" "19530FCB0000A15A880673807EBE0BD3"
+				"download" "C4CA4E66259DDD16A99EC3015171C908"
+			}
+			"baseline"
+			{
+				"gid" "FB52C9B3D3928F405194ADCB381443C6"
+				"size" "619C38A33F0815623F62DC4DC38F78AA"
+				"download" "D0C17CA671A987939FBBDAD51783CE3C"
+			}
+			"ch_main"
+			{
+				"gid" "68F2FE98793A7B260AB89D22A5B6CD75"
+				"size" "D0EF3B6EAA3CD20FB37A96DAC568E446"
+				"download" "1135C9D636D195547322C4CC54C3466C"
+			}
+			"ch_rc"
+			{
+				"gid" "D33F3DF236385B6B12149AE243ED79E0"
+				"size" "35CA92A796AD341C7D82784AC69AF5E7"
+				"download" "9922084AFE9C30E3FF6A1FE131450C00"
+			}
+			"compat"
+			{
+				"gid" "39A09B829231B9B32802B9314653929C"
+				"size" "3A7B7A8D6EFD4F081D23A0367D372E6F"
+				"download" "D231221598E013B7FEB50EEC1580D8A9"
+			}
+			"dlss"
+			{
+				"gid" "1EBEF7179C4D87FFC170F166C9E5AD08"
+				"size" "789F09C2A1CE052ED4272281826A682C"
+				"download" "248FC0B5C20AC7610D2597BF75CB59BE"
+			}
+			"mac_test2"
+			{
+				"gid" "906E075C852F28136FFAB572BCC6906D"
+				"size" "09BFC354B21D7272B9864DA768AF0014"
+				"download" "637E37D8A8FC12717CABB64D96450975"
+			}
+			"mac_test3"
+			{
+				"gid" "72B9BFF1D9B67407B662B9C373F0BA82"
+				"size" "3816CADEB26DA627E28B23B8B0F400AC"
+				"download" "524D7644F750FB3280529FC9BB66C589"
+			}
+			"mac_test4"
+			{
+				"gid" "6398B76FFFC870821A9EAF30307D1B37"
+				"size" "B7BE2EAAB91C379EF7503B2D284FEAC4"
+				"download" "B2415D7C05381A4B9DEB8B9731E2FF2A"
+			}
+			"qaprio"
+			{
+				"gid" "B0C1FCD95DE5F9D2E1D9188C1D4C448B"
+				"size" "7858B705F13C0A429F9DE4F66A67BA4D"
+				"download" "AA64405F6F85541590E2BC349EC10388"
+			}
+			"release"
+			{
+				"gid" "F18DC777E65B4DE383884B7AAE4D96B9"
+				"size" "E976AD8608D14856D52DC68C0F9124D9"
+				"download" "54E7D879E32E83F9AE91487EAAF3F80B"
+			}
+			"release_hf4"
+			{
+				"gid" "19D26AEF4EB016BF9DBF3C72FE6489DA"
+				"size" "F2C2FC04DA558FECF6E4E0A4CA6F3F4D"
+				"download" "8FC308DF9AFA9B758F7EFFCDFD96B6A6"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "97A09CBA4D58866024B80FB3BB889C8B"
+				"size" "633E984E747A3E9BE75C68F32186F13D"
+				"download" "C6DC248CE5471AFD86BBC9CA98E22BDA"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "A33597B98DFFFA177B293F9ECBB182F9"
+				"size" "A28779AC9DB7BB90429F6FCCAAE60E22"
+				"download" "61D2A9F88D0AE2F6E8AD05E31569CC7E"
+			}
+			"release_patch6"
+			{
+				"gid" "FD0D7E042DE4C513A29FB337DB979B5E"
+				"size" "85D0371BEAE6CCEBC8613248F11094B7"
+				"download" "62588685946154B6F46EC98FC43E794C"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "81842112E3BD02DBB842DA485AA578C2"
+				"size" "86362242BFD9C3DDBA1C68D1C1600048"
+				"download" "7F78B08442C04BE9ECF9DBC941A09486"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "3F6FEC107E726153B74B8127714A0485"
+				"size" "59530365701445F385BAFAB6C8BA7B99"
+				"download" "0EE766752FD2AFBA70993C668C16C284"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "808176811A62FD196144F97CF8930AEF"
+				"size" "2C6270587604B4DEEC442C669DF2F20D"
+				"download" "40712521543A2B59AB5FF81868335BFD"
+			}
+			"summer2020_loca"
+			{
+				"gid" "E143510B700299A4F8A4F1DC5D20F6AD"
+				"size" "755E33C57DF677DB4BD5314E26920EBE"
+				"download" "256A20899D0D747B8AA1B09507BE5314"
+			}
+			"temp"
+			{
+				"gid" "5BC59E29657985527AC21D9B8D01B8D3"
+				"size" "84869D3EA3FBE9FC9B0F79B6D612701B"
+				"download" "3B07E51A9CBD04E314BD813D84BB220A"
+			}
+			"testbranch"
+			{
+				"gid" "B6A016620635C61C0F382DA0E53EB049"
+				"size" "2C78D0415DA6CF9057FBA6D05A141A26"
+				"download" "4E1BDAF1871F04AF5ED6708FE9CF595E"
+			}
+		}
+	}
+	"1419654"
+	{
+	}
+	"1419655"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"1419656"
+	{
+	}
+	"1419657"
+	{
+		"config"
+		{
+			"language" "turkish"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4548607990756240099"
+				"size" "573"
+				"download" "304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agerating"
+			{
+				"gid" "23AE7F42FB1F0481289B73E0A444FD1F"
+				"size" "956310251BD8F86CD14F5B1FDA2176B1"
+				"download" "DD0D49CD8399B55DCD2F02C8A5E601D0"
+			}
+			"ch_main"
+			{
+				"gid" "14526FEB214939C98064DEFDF32CE125"
+				"size" "CC8A7E0745BE33FFD23C5552498935FD"
+				"download" "7E5059F84C48747478CF38EB9A3D45E8"
+			}
+			"ch_rc"
+			{
+				"gid" "D4A8F3CC8C9D6FEF16A8AABCFFFFE2E5"
+				"size" "F512995CC77621F8930AC3EE39D53495"
+				"download" "D716BAE385BEED3B227198F3EFBF5529"
+			}
+			"compat"
+			{
+				"gid" "9F215FE30668C2BDCB2055AB622DBA33"
+				"size" "2133A2FF3D1D0F46025AF53488EE5399"
+				"download" "CB1190F819EBD1D32C358EFDF908ED9C"
+			}
+			"dlss"
+			{
+				"gid" "1669276F26BE81D1A79F26595FD3F4F4"
+				"size" "0967A9C240CDCB362C67CC0833B8C8F1"
+				"download" "EA3A2FF835D64A5CF745046A2753C793"
+			}
+			"mac_test1"
+			{
+				"gid" "34749D931203B73C9162CCC9E9E4EE5F"
+				"size" "85D2B3E9EB706CE9F19127C7635E71F2"
+				"download" "7B7DD211D9330BC5D1552BA8897CC7F4"
+			}
+			"mac_test2"
+			{
+				"gid" "71B0458EC25F17128A4396476D5359B9"
+				"size" "A0924A4761D08A90D28989C1AFB0D2E6"
+				"download" "D94A95A939FC20127FC9558D8A1AC92E"
+			}
+			"mac_test3"
+			{
+				"gid" "4A2483CF497DB70C2A26B49257FE3A90"
+				"size" "9FE1C5078B39589C9F4819B8788B3EDF"
+				"download" "EC07B3390094DB55F3DD77368F8BC893"
+			}
+			"mac_test4"
+			{
+				"gid" "D2A0C026567E626BEA27BD07EEB0F4E7"
+				"size" "CCC5A71F081A0F41310FCA2CCC8D8317"
+				"download" "4C17500D2CF953278D2A4E97561D632E"
+			}
+			"qaprio"
+			{
+				"gid" "BFA33F20093E051E887D41C8E55C2C83"
+				"size" "0B8C375780B22BC4AED41957FD0D225E"
+				"download" "8CF82C0E4871E15BAE75D0338E01279A"
+			}
+			"release"
+			{
+				"gid" "371CFD457542654FF438A5ED02E5FD76"
+				"size" "18803C7ED2F60F9099A1F0A845D8FA78"
+				"download" "A80E99E4A39BA5C2271734952B57EEEF"
+			}
+			"release_hf4"
+			{
+				"gid" "0F8E44C163AA43546527373BBE795F18"
+				"size" "191AE0A0DAF7215F3522828FC1F72A2B"
+				"download" "C90719564F8F10D5D043284C3E299DFE"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "811156F18C4F5EEA1D194EA7D1D0D68E"
+				"size" "FAB79ECB889337A1DBB0DCB2C7C2A3FA"
+				"download" "92D87083D270A64DC10CE2FA9462D540"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "73A4A4ECB10384BAE463FB6201458BBC"
+				"size" "CA691EF7105342CC456D85B57229CA38"
+				"download" "B9AB9CBC7F01353106AC29622C453FF6"
+			}
+			"release_patch6"
+			{
+				"gid" "BED04D068106D6C065E8B0DD23543595"
+				"size" "1E3234807723016CF19DE116500223B4"
+				"download" "BC3BEA4AACA4ED300FC37F7CE3E4C8B0"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "4646FD584D69480F4CF3C4D36C166DEA"
+				"size" "56E352F510FD76310C5AEDB3E35CBE60"
+				"download" "5617AEB9B034300F866DD4747E83AD9C"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "C621BF4A4192B4F4F59B11B79C2D494A"
+				"size" "DC8FE9ADEEE3F5E9387AFB81CEF26AD2"
+				"download" "35C4E1C06C089E04E4BD1A6B2F8A3459"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "5F49326C49A4CE2782A7DF1C0D2448BD"
+				"size" "640EA142699A80406A629189829E5057"
+				"download" "0B07A15D8B77CB241287A4D3F84EA9B4"
+			}
+			"temp"
+			{
+				"gid" "EEA7B925881ACDF6AEEA061AF16A97D6"
+				"size" "11A16AB01E7DD4AAB4BB017BD0DAFDFB"
+				"download" "9C58E3859594678A6EBBD5D5251DEDE2"
+			}
+			"testbranch"
+			{
+				"gid" "89BC64D9F2B6430C9DC2058256057474"
+				"size" "DF79B95C54C910D2E663D6779EC92D55"
+				"download" "D1A86BAFDF28573819F32AFC8FBDC7E9"
+			}
+		}
+	}
+	"1419658"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5576550968681164546"
+				"size" "14144906"
+				"download" "12212224"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agerating"
+			{
+				"gid" "604EA01FE818FEF8D94A2561385EB09F"
+				"size" "4C639970689E036238CAD7E35645EDEE"
+				"download" "79853CD8EF6FD898257B692401A881BB"
+			}
+			"baseline"
+			{
+				"gid" "570125CB43C2DD9F6F35AC1D66BBB7AB"
+				"size" "00D59BC16E572F1D0710997D20DB6574"
+				"download" "C814E0F0F85E31395C2388980151252B"
+			}
+			"ch_main"
+			{
+				"gid" "5F46053AB3657CDC80E82FBD1CDEA625"
+				"size" "BEF5E08AD4704F910FD4291929689DFC"
+				"download" "81BF3D17D272A518185B41711C721698"
+			}
+			"ch_rc"
+			{
+				"gid" "5F3E3EBF6058D5DF5F2CCA85A47A5990"
+				"size" "8236D1C93297FE43D6C94DA297FE6D78"
+				"download" "9D955AFC4AB0BC7CDFBC7292A8572527"
+			}
+			"compat"
+			{
+				"gid" "9CC128ACF5E4410C6B643A9924914433"
+				"size" "DC060AA2FAA9503F0389C21A253D3F8F"
+				"download" "F04F59D3D2D162B7D9358DF1CD988A6B"
+			}
+			"dlss"
+			{
+				"gid" "4EE5D1CE308B4003D29730724DBA3D60"
+				"size" "1FE4C4C1F1281029D5E7608F84458141"
+				"download" "CE88E22DC00FBB2D8671576C74B3BD4E"
+			}
+			"mac_test2"
+			{
+				"gid" "96D4102068801714B92AA685189FD237"
+				"size" "8E6408219AF3FAA54B7766ED8BCD469F"
+				"download" "D2F9246C81FB113A6A425F1EBF04B01B"
+			}
+			"mac_test3"
+			{
+				"gid" "60F8418E6DA7D5375A787CA03A1C7C8B"
+				"size" "33A33ECABE0E02771A8EE5AC3A5BB27F"
+				"download" "54B0B62FCB336C018CA2864B2F63A1EF"
+			}
+			"mac_test4"
+			{
+				"gid" "62A6E478D3A62FB30CAF5126A69CFAA1"
+				"size" "964E22A9F3DC93A34315E230C8EC0670"
+				"download" "97163461E717CA392769E580BCE196AA"
+			}
+			"qaprio"
+			{
+				"gid" "8566AA3B18DA8EFE22E1C4869C3D06FA"
+				"size" "769D06EB06D28FD7767F3F2A309C0CE0"
+				"download" "696923E04D5FDF4011BE78EC3F05698E"
+			}
+			"release"
+			{
+				"gid" "449D2EE8CD1B7CF1773B2961570286F2"
+				"size" "29B20F3CF3BA8C9E13258C7B0C639BF8"
+				"download" "6DD0EA0CBE113A89B50A360F86A1F0F9"
+			}
+			"release_hf4"
+			{
+				"gid" "82EA6C10517F8681645B13F3119338FE"
+				"size" "C5F436E14E7DCC0CA92017E7EB18D57D"
+				"download" "B47040DA489B358D7A28B49A67299EE2"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "DA51F2E11BC296106981C92EB3CF5AE7"
+				"size" "B27DCBFB3BA2A5506E0650F2324D655B"
+				"download" "43DB3D55AD877BC6461F13D04228B207"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "597F6A93334AFE415AB6E7BF9FC0964B"
+				"size" "2E77852C9A5497F46931BCF485ECE378"
+				"download" "0724CCD659173F26FD64E42F8B339298"
+			}
+			"release_patch6"
+			{
+				"gid" "6DEBC843D04937A0025D7118F113889E"
+				"size" "A7E16F6D4CAB78FA5A4C2159C4EBACF8"
+				"download" "D64E0695281BF1E47307A0763525A72C"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "EE939F805128E66FA890559111495CDA"
+				"size" "1B22BDFFA40BC66C888B233B7DCD9545"
+				"download" "34DD92E2F111933696E0E7A0FE8A5E32"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "246F1060926DDA199BDE51E80DA113E8"
+				"size" "D2D97500B249F2E2FAA58E56D69DCE7E"
+				"download" "8E1B123BDBB480754B10AD0F66B7FF62"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "0D18B9E6D8A283A11B4E09723CF9DE48"
+				"size" "76DCEF186875E0AB3F30EFC51C0FCEF1"
+				"download" "8DAA57CD4FB81545EBF666F374770125"
+			}
+			"summer2020_loca"
+			{
+				"gid" "888CDCFA9E6B057C8E91F9A1D3BC065D"
+				"size" "20DE7420DEA70E20AAE6D8CD02F6DD20"
+				"download" "5938CEA0A6C6C1E411ECC1ED697410C8"
+			}
+			"temp"
+			{
+				"gid" "61C3044EC47B83ED9E29FDF7D90A57AC"
+				"size" "73C713DE8A68405D8F81E656394B1187"
+				"download" "1C5644787F3D26E31857EE7A173D896C"
+			}
+			"testbranch"
+			{
+				"gid" "A32D410F45209C89EB0358F224E6A646"
+				"size" "514A2886CF1A7267393B93BE145801FC"
+				"download" "6956168037619CC17100A60B7854A7DE"
+			}
+		}
+	}
+	"1419668"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3311073389182030700"
+				"size" "20979624"
+				"download" "18356608"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"ch_main"
+			{
+				"gid" "2F60DFCF106C20806A4020C4C3A927E7"
+				"size" "71DB88E8EDEAC8235513F1BDEBE7D5FD"
+				"download" "FE0D9BA98E5D989D6BD6EAEA7793A102"
+			}
+			"mac_test4"
+			{
+				"gid" "1C1A3A12BBC0B5AC801171738D3DDBA2"
+				"size" "D81946CD172A38DC3A9C83ED32F9F5F8"
+				"download" "72439C08CC62B0AA87F61B63361686C8"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "688EBB927EB5B0C37EFB44786A5AD7ED"
+				"size" "FE25E5CEF39AEDC5558DE18E490ABE6C"
+				"download" "3A26DFFE394D004E46DEA4875151F1B7"
+			}
+			"release_patch6"
+			{
+				"gid" "0C3C47AFE17DC434333C27BBDBC36F44"
+				"size" "56222E0E0C94C854E760A01599BF0651"
+				"download" "B196D58243E02765DC323A10D28626FE"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "08B692B6CE3E277A0A42B9726ED6C5F0"
+				"size" "E0261BEB50F49797FBAF5CC0FBDAC8A2"
+				"download" "B71741063511016B44E9F9822A910260"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "CB9BB6B0F78920FE3A6E742472DE6AA0"
+				"size" "61142F8A74393B155427B1C7C9D62A5F"
+				"download" "0106D13D576A291127B28C5A3232A156"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "1F5469165F8E920F3FB873D184D4A100"
+				"size" "33B8DE7B92CC84C2B997A023AD719A64"
+				"download" "FD602E09304E98E3D73584852433774E"
+			}
+			"summer2020_loca"
+			{
+				"gid" "F4A0CDFF6BAA087D19CB8F07A3CAD2DF"
+				"size" "F462D01443ED3434FD97BD76B06CF3D3"
+				"download" "8344732644330B9F5042BFCFD3DFAB58"
+			}
+			"temp"
+			{
+				"gid" "0BD1BF813180BD8CB57BD52C9A4FCBBA"
+				"size" "AEF5748E2847F8AB60815A5962E59DFD"
+				"download" "7B22278F848096128784B927AFC9F796"
+			}
+		}
+	}
+	"1419669"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1346400487233825505"
+				"size" "20301001"
+				"download" "17724896"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"ch_main"
+			{
+				"gid" "D17BFB56A7216EE0336AC690ADED039B"
+				"size" "8F629D847F1D0C405F64B34285C56BF7"
+				"download" "8FBEB77D2565CDB90544A81074D1828B"
+			}
+			"compat"
+			{
+				"gid" "EAE608441F544899A65D247B091CBE4A"
+				"size" "7C81939A0142522BFDD0C51847DFCEB7"
+				"download" "4002FC760B417463B4A7005ECB1A2879"
+			}
+			"mac_test4"
+			{
+				"gid" "D44C0493C7B94EDB54D8F752360ACE3B"
+				"size" "4D0B493B2A0734B6B54ABB99B033688B"
+				"download" "503167AC8BDD8C31A4D31C47358DBE93"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "72F8DCE6FAAEF284BBA9A39913BE4237"
+				"size" "53BCE8C6C8F6C6873EF16A5E1136F51E"
+				"download" "3C571602061E9D523048685595F3F30D"
+			}
+			"release_patch6"
+			{
+				"gid" "5B938EECD2B58EED007B0BBA58614F70"
+				"size" "9847D34215CEFB9A6CCED08E6DCD1CEB"
+				"download" "FC7A7FD0B2E15BC2D24C9D2B3203488B"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "D39DEDCB5FB8CED47F4BE710A9F4B6DD"
+				"size" "E8CB3F69D6B4A0A436E3D431DD83B6A9"
+				"download" "2568BF6BEF7E86C8C309F48D59CEAC01"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "D4202C143588C622A8AC42EED731B0E4"
+				"size" "BFC60DC0AC46710DB25944FEA14E70C8"
+				"download" "02119C2ABE8808DBFDEA04B8E79A27B0"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "31CAEB321B2CE602204B31670BE5828F"
+				"size" "DD62AF57562581DDAB429A2290368166"
+				"download" "68650C9D77C6AD0388089551594D99DB"
+			}
+			"summer2020_loca"
+			{
+				"gid" "11D56883FE3C38D42ABF429256F2E3FD"
+				"size" "ABC9A82EC6912E407AFBFE92CF8824DC"
+				"download" "51ADBA909079907F036650A8FD8923DC"
+			}
+			"temp"
+			{
+				"gid" "BC2F4C3EE0AB42B038826C73855731B5"
+				"size" "6BC3C2F3F61CC5A126C8E48B7774FA62"
+				"download" "196780B96F24A5CAE4D98EF79B85FC46"
+			}
+		}
+	}
+	"1419659"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2290135083393841644"
+				"size" "572"
+				"download" "304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"agerating"
+			{
+				"gid" "C031236F60BBF060A23349BB79E287FB"
+				"size" "14FFD3EF848CA446D042C3401A33ED6D"
+				"download" "DD0D49CD8399B55DCD2F02C8A5E601D0"
+			}
+			"ch_rc"
+			{
+				"gid" "D20FF6B179BA8783374923DAFC1A1C91"
+				"size" "67923F0D424F825086BCF4257F87F5E1"
+				"download" "D716BAE385BEED3B227198F3EFBF5529"
+			}
+			"mac_test1"
+			{
+				"gid" "B872B4220B102A2713B507C517AFA1B6"
+				"size" "E414B6431CC1158A631B8D7C4B5A183A"
+				"download" "7B7DD211D9330BC5D1552BA8897CC7F4"
+			}
+			"mac_test2"
+			{
+				"gid" "6B62A28471B2BBB70A7677D96DB1A690"
+				"size" "0928C86FC231EEA8E7B464B8C2553635"
+				"download" "D94A95A939FC20127FC9558D8A1AC92E"
+			}
+			"mac_test3"
+			{
+				"gid" "2C36491F436A981F8658E821E7F6C64B"
+				"size" "6FDC85A68A1A461E16AC1AF57F109C4A"
+				"download" "EC07B3390094DB55F3DD77368F8BC893"
+			}
+			"mac_test4"
+			{
+				"gid" "66C879E2A49B7B015695786B7DD2CDEE"
+				"size" "F009F91BDA2D3834EB50A8467E367EC0"
+				"download" "4C17500D2CF953278D2A4E97561D632E"
+			}
+			"release"
+			{
+				"gid" "0E56A64518F306FA534C5492BFD497D6"
+				"size" "B24033AAD4121DADD43079504927F3AD"
+				"download" "A80E99E4A39BA5C2271734952B57EEEF"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "AB1B7732919578242A56DA9CFDC064A6"
+				"size" "B6FF7BC2F59C7BE19062C2F9C4B2E3AE"
+				"download" "B9AB9CBC7F01353106AC29622C453FF6"
+			}
+			"release_patch6"
+			{
+				"gid" "EC4A4913B38B00520B279695B5049ED6"
+				"size" "4D7A384F9251185C1B841C2C55B5C13D"
+				"download" "BC3BEA4AACA4ED300FC37F7CE3E4C8B0"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "2CBBD75FCEA716294E2454CFCC2A3157"
+				"size" "698907A4BD08352E09E90A4502CF0A9D"
+				"download" "5617AEB9B034300F866DD4747E83AD9C"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "E172CEB205EA7CE107D9039D9D52326A"
+				"size" "EB001320FEF85D95E9F7827C1841F2FF"
+				"download" "35C4E1C06C089E04E4BD1A6B2F8A3459"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "B9411269DC5D5C57188881AFAA7B9181"
+				"size" "84241021FCE7F188AC936E4B0250F5A5"
+				"download" "0B07A15D8B77CB241287A4D3F84EA9B4"
+			}
+			"testbranch"
+			{
+				"gid" "5D4A1324175BEB8DF0F5292B293DD7CF"
+				"size" "4A5FCE724EE641AD9EE623124305E54B"
+				"download" "D1A86BAFDF28573819F32AFC8FBDC7E9"
+			}
+		}
+	}
+	"2330350"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" "ukrainian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4235802643892566324"
+				"size" "16030247"
+				"download" "13963280"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "4D22321F017F44D60D901DEBB310C9AF"
+				"size" "32421880E3D020BDBC6E9764B0F82719"
+				"download" "75058C6AF0B137344FC9DB473187760F"
+			}
+			"ch_main"
+			{
+				"gid" "61A6D7A6DC3000CAFAEE2C469EABB5DD"
+				"size" "1430283B16B7E8F7C0B22065819D9448"
+				"download" "049A4C504B202EBB476D54815E85A144"
+			}
+			"ch_rc"
+			{
+				"gid" "F72D6061AFEA821F6295CE9C3C58F4D8"
+				"size" "9B08C0E1508B040A640C51A652A58D5C"
+				"download" "3F6B7896DA4F841846C7BE33805ED6C3"
+			}
+			"compat"
+			{
+				"gid" "C38197C2844C32EBCD81C837CAE93893"
+				"size" "EF92BE88641D9EC3AB13C82D459E5316"
+				"download" "A0DD55717066B0A5ACFC2BA4DAE1F7DF"
+			}
+			"dlss"
+			{
+				"gid" "2AA4852D54B521751BFF1FF0149CB3FC"
+				"size" "B5931A65D5300C41A258528529402146"
+				"download" "0920E1A183A5C364BC74B26F7C1463C9"
+			}
+			"mac_test3"
+			{
+				"gid" "ABC26D7BD1CAE06E3BFC39BF34288A60"
+				"size" "7CDAC13E62F855A9E4FCAB7EE78FF4BE"
+				"download" "B7736A1D6E17439B2F8B5EB4D07AF2BB"
+			}
+			"mac_test4"
+			{
+				"gid" "A4255CC8B45A5F480F7ED47E83F82B17"
+				"size" "050E9205D746CC9A002E8EAE0773BD20"
+				"download" "23038EBCBC1CF47F01700D2ED260C1E2"
+			}
+			"qaprio"
+			{
+				"gid" "FDB31D128DEC03473E288C9AAF118997"
+				"size" "5DF1D4E200B00D9B60222C0E5E997E35"
+				"download" "375215BB005D4EC5DA2E96D9B5298C85"
+			}
+			"release"
+			{
+				"gid" "90BB95C3CA1E33724166B9837F647318"
+				"size" "026EAA68B3ED947EA1BE4DBE4E044637"
+				"download" "D78D2331349420A8EB5E517BC56F1E78"
+			}
+			"release_hf4"
+			{
+				"gid" "EFE3ADC036CBF59048C8CAA89F20A78B"
+				"size" "800E8E2A65F212C2F25D6211B295B72D"
+				"download" "A7F7DE2EB503A96EE6B659DBE5409C5D"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "AF016DA746E87675FC7896FC0CCE6D94"
+				"size" "054225EEA1FA7516CA041F28B8D4B222"
+				"download" "EF5ECF89FD4611FBB51E6D646DEE3D43"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "3A13558F79979D39A48EE368D9932DCC"
+				"size" "A1FF6E398669D2A23BE153D44CFE27CB"
+				"download" "419D85D3F81E677EC92AB364A55E37F3"
+			}
+			"release_patch6"
+			{
+				"gid" "F1C41CF3414611A2C1A5369F765117BC"
+				"size" "7F96B7F56DC4D607C0DA7D9D85C353DF"
+				"download" "C53DC62939ACD33CD8390622EB98F062"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "C23DAB7FCE84FB12AC19514AFC44A0A7"
+				"size" "EA9C7F5F07B9D4F27D714C0480294886"
+				"download" "B22DEB2A55A00253B054FA669DF64B8E"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "C6DEA87CDDB033A19F799E6F7F820438"
+				"size" "558C6D797990305BD02AB1851C5725C1"
+				"download" "A4D57F52F6E2BBC01C0103BB50B9E719"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "8B1127FF1496AE40B8984DABC79A04C5"
+				"size" "F45F17EA6DEB63F8A10F8A3F96107C46"
+				"download" "9D407C6C14E15219EFA334612A2383FC"
+			}
+			"summer2020_loca"
+			{
+				"gid" "3789CD7565E735439013B6E2EBA94C30"
+				"size" "3185B61745E616B0416833E44B6158C0"
+				"download" "DAED9F28E09F0F4A71CD5EF3B77706E7"
+			}
+			"temp"
+			{
+				"gid" "4C6063E1F4255C2D36BA10610EAC319F"
+				"size" "CAE838C2BCDBCB03FDE273751750552A"
+				"download" "888A529168AB9A4B8FAB52C3403AC451"
+			}
+			"testbranch"
+			{
+				"gid" "DEAD50C0E811AD0A6A8ABB57BA8D2900"
+				"size" "D2572CCDF95B9D7CD735DB495DCA934F"
+				"download" "3C09BB7F2D7965A5B33A8D6DFE70DCB6"
+			}
+		}
+	}
+	"2330351"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3242900122315032990"
+				"size" "14440490"
+				"download" "12434752"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "65D77C417E933A1C4E7ACCFB6D439A30"
+				"size" "73B6A894B0335414DFC3A3C6A36DEED4"
+				"download" "16E142FFE4E6C68580574628F68A6B8F"
+			}
+			"ch_main"
+			{
+				"gid" "E7EF6A327BDA8F4E8CF69C0ADF06DEF7"
+				"size" "D5F4572D18CF0E91E4CAA373A9A89DFE"
+				"download" "B88F3A83355BE155003DC4AA893915EA"
+			}
+			"ch_rc"
+			{
+				"gid" "2C6B38713FAA810CA0B384A45B27403C"
+				"size" "1AC7925E6926030C365CF2AD6CC0E24F"
+				"download" "34B18D56B784880CEC81FC92360624E7"
+			}
+			"compat"
+			{
+				"gid" "86A384FA22251B70F36539B3A584E77C"
+				"size" "0C112B8CFEFEEC0F9D5787FDD3DBA2D3"
+				"download" "7D5E1E245C6265B8512C36A609CC2B1D"
+			}
+			"dlss"
+			{
+				"gid" "92273093DB2655F6E176645D410125A6"
+				"size" "8A548C5EF2D36914CA11EA674BFB7818"
+				"download" "6DC58AF20F292A50400741783725924D"
+			}
+			"mac_test3"
+			{
+				"gid" "272AABED83F996DC4E177AE40E12E2CF"
+				"size" "204238652E753D9557ABE13691A9A4D5"
+				"download" "8F8FF29F12AEFC17565601DF38BD35A5"
+			}
+			"mac_test4"
+			{
+				"gid" "2FAA324E95186DBB9ED505D7B18F1C96"
+				"size" "2CAD35FAD8D345CD9911CF85D513DB69"
+				"download" "06C22CBD33DEF8039D07CA50831B7B79"
+			}
+			"qaprio"
+			{
+				"gid" "023512792D0C2C839C9C8DCFA3354FAA"
+				"size" "636811E74285B78EA9EC8B5BE8D80A2E"
+				"download" "6BC81D665CAF2CD431A207B465B93C19"
+			}
+			"release"
+			{
+				"gid" "F03D636EE6A8541A45699093DBC6B596"
+				"size" "DBC4E1A1D186999839BCC5123B62961E"
+				"download" "0D325F9C3E00D8AF1AFE321975622E84"
+			}
+			"release_hf4"
+			{
+				"gid" "25AA4A4E8C19457CB4A971B8B183734E"
+				"size" "DC7D0462ADC4E328466B961EE512D4DA"
+				"download" "A7E1C750BE532218B27C91B55738A314"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "3F44D753DC276AF492407281BE7A7DD5"
+				"size" "55FCC26E005EA15A8DD0602B5714C389"
+				"download" "761BAD4C82F9AF1E58F7D0AE9D3519AB"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "F0FC2AAF2CE506D44B91B132AE3FC670"
+				"size" "3F74D4A9C9DAC3A49AFFA51CEE7323A9"
+				"download" "B8D4AE4E965B73B1CA840E5C87384B25"
+			}
+			"release_patch6"
+			{
+				"gid" "620F3445D6A35C21B54E86F323CB14A0"
+				"size" "8C1362D22606811C073183FD6F7713AC"
+				"download" "14EACF521A88558B57D0B427AE9E12BB"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "9D13C78DC9B04F1488AB4E9D56EA754C"
+				"size" "8FDD771DB6FC5894997CAF3392772806"
+				"download" "9B8FCA50F14C22BBD9D5A4E60865C048"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "0029ED86038084F1AAB342CC407ED218"
+				"size" "F2B203EEE52A26C1A336CD890362D28B"
+				"download" "53DADC4227D57F28AD7086FC81ED1CCB"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "203664F3FCFF42CB382C290B9FD15AC0"
+				"size" "ABD585C2830D722DD342B2D2EA7978CC"
+				"download" "F22952277EA4950AA6B64398D7BB943C"
+			}
+			"summer2020_loca"
+			{
+				"gid" "29596D9390CA7D813C3B3D47C2F7D2CF"
+				"size" "D6636B10B8F44DF647B969FB94A21E37"
+				"download" "F124233FF6C473AB5138DB276E16794A"
+			}
+			"temp"
+			{
+				"gid" "4DE4FF96ADAB40457C34162663FCAB70"
+				"size" "24CEC06EE3720221B2559756D64C19DB"
+				"download" "35BA46D9CAECAB76AF49F5F269D0465D"
+			}
+			"testbranch"
+			{
+				"gid" "2FACB861EB71F3070EA888BD4A2BA17C"
+				"size" "CD84AB486A384B86764EDFDD3383AB8A"
+				"download" "1CBAE254FD59A8D420D838FAC6F1926F"
+			}
+		}
+	}
+	"2378500"
+	{
+		"dlcappid" "2378500"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6453229909780803137"
+				"size" "3700167797"
+				"download" "2728905872"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dlss"
+			{
+				"gid" "87A137B3897EF154F1396E2EE820CE72"
+				"size" "3CB742D54B038C28DC5C48A51FF606FC"
+				"download" "55C89ABA7E6E3349FFAB18ACD4B10BD4"
+			}
+			"mac_test3"
+			{
+				"gid" "2B0E69C7B2D09826928978178FB4E7A8"
+				"size" "DF31735635ADB0718583E02DDA65B4C4"
+				"download" "A4EA4BD36EA5979E2B0896062C36DF41"
+			}
+			"mac_test4"
+			{
+				"gid" "71DAE05ADEAD8F01447DF4A946FF1C64"
+				"size" "E8470D46AB18AA46C74D5BB00E1342F8"
+				"download" "411811A1F2DA672160D2619D71156416"
+			}
+			"qaprio"
+			{
+				"gid" "54E9BD1A9DA361F079A9F4FCCD9EBD21"
+				"size" "B534D5DA084E54E34E1EA04712A758C4"
+				"download" "542624D4053FF6C44FA8DAA941DB80F4"
+			}
+			"release"
+			{
+				"gid" "C5C8E641EF24E3A9EA35AB65556A42F8"
+				"size" "B345A5544B97B16ED6838B9EFB4B7D93"
+				"download" "22120C49CB480137980C1CDC85279094"
+			}
+			"release_hf4"
+			{
+				"gid" "F470D4A7B7ED096B754F9A0DD6C86427"
+				"size" "9C5CDC3191B21B76F96D12987C7132D0"
+				"download" "CD6C0469C7C97F7CF4D04704F70F9192"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "D169AB956648A9556B5E984850DAD6E9"
+				"size" "780760B1B8749510ED6D9B5BA4FB2492"
+				"download" "253C0982D13FD3BCD51EE7AEE8CA5E34"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "5F25FB5B598917515B379BBF9CF07530"
+				"size" "C5C7BE5656767AC0E2B36D76C41B9A26"
+				"download" "2D9B64C375F2CE142CB937141BA8319F"
+			}
+			"release_patch6"
+			{
+				"gid" "16BF1B2AB1842F778E02553D20CB0B20"
+				"size" "C0C4A209F6E39FA0E7CDFAADF83A3094"
+				"download" "9A7896D99400C2EBA6CE9B52324BFB64"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "78D72F911A668B9B0C15BA53B0E3E344"
+				"size" "241CF6208B288053C1E6513913F5AB53"
+				"download" "7C2F288459A4DF218A64DE3B5E7FAB1B"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "CE2558904A9835F6F2B94029D9A8899E"
+				"size" "EE1C47DA24610E23692DEE9F2741DB91"
+				"download" "132C734E7A392D77472DDE8AF29A2D58"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "0F34557B8D77587E96B960B559196E38"
+				"size" "F81C59692A9DA86A232E7A1973A6CF11"
+				"download" "F0C10E300258996FC25ADED64A089AC6"
+			}
+			"temp"
+			{
+				"gid" "5CAB45AAE8B692EC720F32DCABBCE1BB"
+				"size" "5034EB29EAF9917F8F15F58A0964BC8E"
+				"download" "D488ECBB4C3EC678F955C160F91A3871"
+			}
+			"testbranch"
+			{
+				"gid" "926DF387253E6792AF659231DAD354E0"
+				"size" "B8FDFC5ACD37DA90D7AB68C42E7B8EC1"
+				"download" "624F8770CF442B97EC88E5F0D3311E6E"
+			}
+		}
+	}
+	"2330352"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3405764980446251715"
+				"size" "584"
+				"download" "304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dlss"
+			{
+				"gid" "43A942D3B115692DDFC8662B9D5EBB95"
+				"size" "DD593DA64FABE7E7B7B28FD71927E787"
+				"download" "EA3A2FF835D64A5CF745046A2753C793"
+			}
+			"mac_test1"
+			{
+				"gid" "47EDFB7F6B5F7F09D4F2734AED537E51"
+				"size" "0434C0B012991659E2C7D179D557CB0B"
+				"download" "7B7DD211D9330BC5D1552BA8897CC7F4"
+			}
+			"mac_test2"
+			{
+				"gid" "7A9B8121E3D577B8AD518B374EE545D7"
+				"size" "EA09B011401A5FCA4D276A737DEED9DE"
+				"download" "D94A95A939FC20127FC9558D8A1AC92E"
+			}
+			"mac_test3"
+			{
+				"gid" "88925C8735E480843FABF956A55D7B33"
+				"size" "79566BC6C4055B8EB2A3469481EBA273"
+				"download" "EC07B3390094DB55F3DD77368F8BC893"
+			}
+			"mac_test4"
+			{
+				"gid" "D8AD66F843E16C87231A6BFECFEB881D"
+				"size" "D23C83758F2D4EE96893EF23C7FC6B34"
+				"download" "4C17500D2CF953278D2A4E97561D632E"
+			}
+			"release_hf4"
+			{
+				"gid" "A541B2EFF2FB3F14CE6DED6E0D92F87E"
+				"size" "2BB33062840E1FCB75B98892F065BFE9"
+				"download" "C90719564F8F10D5D043284C3E299DFE"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "67CCAE9F41857BD202A1D7C84BC5B234"
+				"size" "690BBD23F72E75469B74A7C336026538"
+				"download" "92D87083D270A64DC10CE2FA9462D540"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "F5AA3FFC5DDEC8FEB0A9369319509427"
+				"size" "38B19020D5AB472B81543C95F94072BB"
+				"download" "B9AB9CBC7F01353106AC29622C453FF6"
+			}
+			"release_patch6"
+			{
+				"gid" "ED802BEDF28C380EE02F95D280062015"
+				"size" "CD38D61EE947CD666783CB6EBAB83737"
+				"download" "BC3BEA4AACA4ED300FC37F7CE3E4C8B0"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "75246A2EC0519D1F4E9409BEE7F2F3E7"
+				"size" "93A1EC9630022D544528ACA5338AAACF"
+				"download" "5617AEB9B034300F866DD4747E83AD9C"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "51827BE7A2A9287929FA503963F2DB7A"
+				"size" "D647F43B8716FADB9A11A2479C3A6400"
+				"download" "35C4E1C06C089E04E4BD1A6B2F8A3459"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "7AC3977B350454F4D30C6C2581BE4393"
+				"size" "43AAF797327F0A4C45AE5A7880CFE298"
+				"download" "0B07A15D8B77CB241287A4D3F84EA9B4"
+			}
+		}
+	}
+	"2330353"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "612529264506102109"
+				"size" "573"
+				"download" "304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dlss"
+			{
+				"gid" "EAF832E344053B7A771A67C63126722E"
+				"size" "0967A9C240CDCB362C67CC0833B8C8F1"
+				"download" "EA3A2FF835D64A5CF745046A2753C793"
+			}
+			"mac_test1"
+			{
+				"gid" "9AEC2DFE98F1F3AEB842656E8025B0E8"
+				"size" "85D2B3E9EB706CE9F19127C7635E71F2"
+				"download" "7B7DD211D9330BC5D1552BA8897CC7F4"
+			}
+			"mac_test2"
+			{
+				"gid" "06BF83A0ADA11D15C67BCBB5D5665F59"
+				"size" "A0924A4761D08A90D28989C1AFB0D2E6"
+				"download" "D94A95A939FC20127FC9558D8A1AC92E"
+			}
+			"mac_test3"
+			{
+				"gid" "E08DAB9661886F213065EFE90081971E"
+				"size" "9FE1C5078B39589C9F4819B8788B3EDF"
+				"download" "EC07B3390094DB55F3DD77368F8BC893"
+			}
+			"mac_test4"
+			{
+				"gid" "6EE35BA07D66D3C89AAEFF035D8AB9B4"
+				"size" "CCC5A71F081A0F41310FCA2CCC8D8317"
+				"download" "4C17500D2CF953278D2A4E97561D632E"
+			}
+			"release_hf4"
+			{
+				"gid" "ED593C27FEF537CF43F3359C81585DD3"
+				"size" "903F44D65C60A69DF92846BF554618AF"
+				"download" "C90719564F8F10D5D043284C3E299DFE"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "D8287A4D7A076DE45491025C6A7B9844"
+				"size" "FAB79ECB889337A1DBB0DCB2C7C2A3FA"
+				"download" "92D87083D270A64DC10CE2FA9462D540"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "1BD0EC210CBB7129F56F4354A8ACC22C"
+				"size" "CA691EF7105342CC456D85B57229CA38"
+				"download" "B9AB9CBC7F01353106AC29622C453FF6"
+			}
+			"release_patch6"
+			{
+				"gid" "218BCE9F9D34D9EFFEDCAC96720FFC7D"
+				"size" "1E3234807723016CF19DE116500223B4"
+				"download" "BC3BEA4AACA4ED300FC37F7CE3E4C8B0"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "27A5A2CF1A5E2EF528F421FA2B00BC1C"
+				"size" "56E352F510FD76310C5AEDB3E35CBE60"
+				"download" "5617AEB9B034300F866DD4747E83AD9C"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "4BC7DF8C9B05AFBAF64CEB2E35E35F1A"
+				"size" "DC8FE9ADEEE3F5E9387AFB81CEF26AD2"
+				"download" "35C4E1C06C089E04E4BD1A6B2F8A3459"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "6970EBDF5D1BCD09863AA7FA18BCB109"
+				"size" "640EA142699A80406A629189829E5057"
+				"download" "0B07A15D8B77CB241287A4D3F84EA9B4"
+			}
+		}
+	}
+	"2330354"
+	{
+		"config"
+		{
+			"language" "ukrainian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1136714084285757218"
+				"size" "575"
+				"download" "304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dlss"
+			{
+				"gid" "353372EF35A6CCE4B754B9A25046A84E"
+				"size" "BA6CE53CB3FADB7F06EB7AE8679C4F20"
+				"download" "EA3A2FF835D64A5CF745046A2753C793"
+			}
+			"mac_test1"
+			{
+				"gid" "50D72C1C455177600ED13AE2FB72744D"
+				"size" "00B40370728DAB5300FB6406CC1FD6D1"
+				"download" "7B7DD211D9330BC5D1552BA8897CC7F4"
+			}
+			"mac_test2"
+			{
+				"gid" "6BC3EB69BBD7DA82ED8702BCE3EEC818"
+				"size" "4E744E5349EA32AD04869BE5476828E4"
+				"download" "D94A95A939FC20127FC9558D8A1AC92E"
+			}
+			"mac_test3"
+			{
+				"gid" "D5423A4392624DA45D2FF3DF6E96D53D"
+				"size" "DED2948E8D89CCF3BC1175108816455A"
+				"download" "EC07B3390094DB55F3DD77368F8BC893"
+			}
+			"mac_test4"
+			{
+				"gid" "6FA3581D89D75CE9090017A8A4E0D951"
+				"size" "2619E89683EFD6158A2154EB3C3B89A9"
+				"download" "4C17500D2CF953278D2A4E97561D632E"
+			}
+			"release_hf4"
+			{
+				"gid" "988106F7D61AFBB5ADE13E00D04F500E"
+				"size" "7C83951C2A8A0CCC4DAC0343262D88F2"
+				"download" "C90719564F8F10D5D043284C3E299DFE"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "3FB7CF93CDC9171D9E1EAC06A5C23BAD"
+				"size" "64A3FE5C0BFE2BE4744A427470C30982"
+				"download" "92D87083D270A64DC10CE2FA9462D540"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "542E4F31FBA7925BC2F9C12475B24969"
+				"size" "780B5AC695BB30A17FE45784338807B1"
+				"download" "B9AB9CBC7F01353106AC29622C453FF6"
+			}
+			"release_patch6"
+			{
+				"gid" "5371119ABE65C489DC2B6CAA34A62286"
+				"size" "06908EC331E116B1340BA497C1D0EB41"
+				"download" "BC3BEA4AACA4ED300FC37F7CE3E4C8B0"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "3B2B46C9C086B6C40EECDCAD47D6EB93"
+				"size" "9165D0D7FA3CA4CCDEB0578C4E8ABBB5"
+				"download" "5617AEB9B034300F866DD4747E83AD9C"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "9A20F877BA1FB07DCEF417AD3215150A"
+				"size" "56A0E6D8AB71114D7A356D39E65ADEEC"
+				"download" "35C4E1C06C089E04E4BD1A6B2F8A3459"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "B2C7D966956B0228A9A7EA564AA411D3"
+				"size" "C56F0510B6B4FEF368E12E7C7AFC331B"
+				"download" "0B07A15D8B77CB241287A4D3F84EA9B4"
+			}
+		}
+	}
+	"2330355"
+	{
+		"config"
+		{
+			"language" "latam"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "452643942447089812"
+				"size" "578"
+				"download" "304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dlss"
+			{
+				"gid" "FBD9BF8CDCF94283AFA7C11F920DC91A"
+				"size" "B57ECE03D072AB1EDE0DCBF0536A2634"
+				"download" "EA3A2FF835D64A5CF745046A2753C793"
+			}
+			"mac_test1"
+			{
+				"gid" "7EBE4D2001D70646CDEF17DDF77BE169"
+				"size" "8C86CC7B070C9BC0D4A6C947C71C61C3"
+				"download" "7B7DD211D9330BC5D1552BA8897CC7F4"
+			}
+			"mac_test2"
+			{
+				"gid" "15DA0E0FF8102EC5B9E46E3BBF42AFB4"
+				"size" "DA3C31261D777E9AC8058E18D298594A"
+				"download" "D94A95A939FC20127FC9558D8A1AC92E"
+			}
+			"mac_test3"
+			{
+				"gid" "345D6DDBC6DB356B6F68F8EEFC7870E9"
+				"size" "E0C6B5ED496D2E05A4C5D83732027564"
+				"download" "EC07B3390094DB55F3DD77368F8BC893"
+			}
+			"mac_test4"
+			{
+				"gid" "D427BA545677F1DF4D620EE5DBD1E38D"
+				"size" "1D0267C6D20432FFAF2D5970EE57488F"
+				"download" "4C17500D2CF953278D2A4E97561D632E"
+			}
+			"release_hf4"
+			{
+				"gid" "0F7DCC5427EA5D2994C91D486C614CD1"
+				"size" "388BE6A2A90A9E2F58B8213CAA964FCC"
+				"download" "C90719564F8F10D5D043284C3E299DFE"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "51486C78ECF54A5F372FDA99EF2D5FE9"
+				"size" "A3B0464584E9A578B8442058371CB967"
+				"download" "92D87083D270A64DC10CE2FA9462D540"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "1BABC75F4F0D8C0E889BFA0D2A4A5392"
+				"size" "1D2CF0FF8C59B07F97609212FDB71A74"
+				"download" "B9AB9CBC7F01353106AC29622C453FF6"
+			}
+			"release_patch6"
+			{
+				"gid" "2772CBB742F6DDC436C8E6B645C44059"
+				"size" "135E63D594C183DF83A2E0A818E6EB56"
+				"download" "BC3BEA4AACA4ED300FC37F7CE3E4C8B0"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "09D6C4ED929B2750959D3CD967D7A9E5"
+				"size" "F1D44742BA46B13E58EFF31AECF8BF8E"
+				"download" "5617AEB9B034300F866DD4747E83AD9C"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "E1D4E81ADC36DD887C437C1C7B6AE09A"
+				"size" "7C03C5A35BEC6AF536325228FA01C354"
+				"download" "35C4E1C06C089E04E4BD1A6B2F8A3459"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "A40AAF205642519B4711D1F8C74F7E6A"
+				"size" "0356360788BECCE33AAC0C8EFD954618"
+				"download" "0B07A15D8B77CB241287A4D3F84EA9B4"
+			}
+		}
+	}
+	"2330356"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1557196838441808705"
+				"size" "585"
+				"download" "304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dlss"
+			{
+				"gid" "83E9635302FB42FCAB53F1791A04A50F"
+				"size" "68D78803D8101C26977382A06C4DB980"
+				"download" "EA3A2FF835D64A5CF745046A2753C793"
+			}
+			"mac_test1"
+			{
+				"gid" "1130C15D88B3AA5238100DF7DD793648"
+				"size" "CC55BAA70FB889750F7C7F099D3EF84D"
+				"download" "7B7DD211D9330BC5D1552BA8897CC7F4"
+			}
+			"mac_test2"
+			{
+				"gid" "FE0BC80E63B80EBBD98A6E0664737E50"
+				"size" "ED517E9DC67F0E5DCF81CAF67A6E6F07"
+				"download" "D94A95A939FC20127FC9558D8A1AC92E"
+			}
+			"mac_test3"
+			{
+				"gid" "502BCE3165C65165D0EF73DBBA0FF1A8"
+				"size" "D25AB32819F0625312D3B859E39FDFF3"
+				"download" "EC07B3390094DB55F3DD77368F8BC893"
+			}
+			"mac_test4"
+			{
+				"gid" "E8744BFE1BD5FE3F4259ED554C5A94C2"
+				"size" "3E0B1CE8A43E084A6B491CDE7D7985A3"
+				"download" "4C17500D2CF953278D2A4E97561D632E"
+			}
+			"release_hf4"
+			{
+				"gid" "4E259FFF1BD0514439BDC48E7A8F149D"
+				"size" "29F8E69A6619BA2064CFF81EBAAFBFCD"
+				"download" "C90719564F8F10D5D043284C3E299DFE"
+			}
+			"release_patch4_hf3v2"
+			{
+				"gid" "A42B9E52E3CED2137B5224087939A945"
+				"size" "8951F250073AB80FB698DC722350422A"
+				"download" "92D87083D270A64DC10CE2FA9462D540"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "3D71628B4FFEF9F450EA92DC49BD6F6D"
+				"size" "6D2A01A4724713847D16EFB822047D8C"
+				"download" "B9AB9CBC7F01353106AC29622C453FF6"
+			}
+			"release_patch6"
+			{
+				"gid" "CF2E1DA754452D7B43EBC3553D67060D"
+				"size" "E41E43D9084D2F56F2312DB2FCCEDFA3"
+				"download" "BC3BEA4AACA4ED300FC37F7CE3E4C8B0"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "66C77BACD5780CD3D5DAB0E5F82333FC"
+				"size" "4BC857560BD123141CD659FEAC8E7BA2"
+				"download" "5617AEB9B034300F866DD4747E83AD9C"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "7BA54824AE16352F39D9F24B1EC44A82"
+				"size" "A7914048A33DF34DCA195547B508E4B6"
+				"download" "35C4E1C06C089E04E4BD1A6B2F8A3459"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "4AB5EEB16CAC9109785496C320F39580"
+				"size" "697D775883C06ADB661C6D994BAFC479"
+				"download" "0B07A15D8B77CB241287A4D3F84EA9B4"
+			}
+		}
+	}
+	"2330357"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5041489102973151459"
+				"size" "574"
+				"download" "304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mac_test1"
+			{
+				"gid" "203AD372B54678E2BBFE39597AFEB873"
+				"size" "C48C1D89D0FA794F1B42EF0F92318A95"
+				"download" "7B7DD211D9330BC5D1552BA8897CC7F4"
+			}
+			"mac_test2"
+			{
+				"gid" "D9B9BA0B90E8FBCAEAB65CB2DEEFB0E7"
+				"size" "5E8C152A1C2B00BA7D2D734342936716"
+				"download" "D94A95A939FC20127FC9558D8A1AC92E"
+			}
+			"mac_test3"
+			{
+				"gid" "74B167F90DD079D46C0E6449B6A51E63"
+				"size" "6105C8897C956C46ECD04F40A0179DE9"
+				"download" "EC07B3390094DB55F3DD77368F8BC893"
+			}
+			"mac_test4"
+			{
+				"gid" "BD716CFF31572C503B4932C5923420C4"
+				"size" "76E345E3A87A905F1108F22DB9A02835"
+				"download" "4C17500D2CF953278D2A4E97561D632E"
+			}
+			"release_patch5_hf6"
+			{
+				"gid" "581A7636F2033BBA061065508F69A2BB"
+				"size" "A7DBC507D6CC9F35449C20E06D85876A"
+				"download" "B9AB9CBC7F01353106AC29622C453FF6"
+			}
+			"release_patch6"
+			{
+				"gid" "C4850198688AB415DCDB8927582333F2"
+				"size" "E99235C39A685E8093E43E37C7E92F02"
+				"download" "BC3BEA4AACA4ED300FC37F7CE3E4C8B0"
+			}
+			"release_patch6_hf1"
+			{
+				"gid" "961533060F9E8A32D3B8386DE06A0BD6"
+				"size" "B17E4D0ACC55FD432EFFA027B1394842"
+				"download" "5617AEB9B034300F866DD4747E83AD9C"
+			}
+			"release_patch6_hf2"
+			{
+				"gid" "65EB16AE58A05871D91D67FD63CB538F"
+				"size" "59A6EF23E7549C3528A6A29B88AF9168"
+				"download" "35C4E1C06C089E04E4BD1A6B2F8A3459"
+			}
+			"release_patch6_hf3"
+			{
+				"gid" "832DBA958E68B2B58C52862A0D463E25"
+				"size" "CC58C74CE4C402B42167931DF9D2281F"
+				"download" "0B07A15D8B77CB241287A4D3F84EA9B4"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13535052"
+			"timeupdated" "1708629998"
+		}
+		"agerating"
+		{
+			"buildid" "11198161"
+			"pwdrequired" "1"
+			"timeupdated" "1683718411"
+		}
+		"baseline"
+		{
+			"buildid" "11833416"
+			"pwdrequired" "1"
+			"timeupdated" "1690898615"
+		}
+		"ch_main"
+		{
+			"buildid" "13581859"
+			"pwdrequired" "1"
+			"timeupdated" "1709076161"
+		}
+		"ch_rc"
+		{
+			"buildid" "11840599"
+			"pwdrequired" "1"
+			"timeupdated" "1690912133"
+		}
+		"compat"
+		{
+			"buildid" "12850803"
+			"pwdrequired" "1"
+			"timeupdated" "1701439653"
+		}
+		"dlss"
+		{
+			"buildid" "12374021"
+			"pwdrequired" "1"
+			"timeupdated" "1696592727"
+		}
+		"mac_test1"
+		{
+			"buildid" "13581173"
+			"pwdrequired" "1"
+			"timeupdated" "1709074968"
+		}
+		"mac_test2"
+		{
+			"buildid" "13531431"
+			"pwdrequired" "1"
+			"timeupdated" "1708608025"
+		}
+		"mac_test3"
+		{
+			"buildid" "13585003"
+			"pwdrequired" "1"
+			"timeupdated" "1709101543"
+		}
+		"mac_test4"
+		{
+			"buildid" "13531720"
+			"pwdrequired" "1"
+			"timeupdated" "1708609590"
+		}
+		"qaprio"
+		{
+			"buildid" "12665803"
+			"pwdrequired" "1"
+			"timeupdated" "1699573431"
+		}
+		"release"
+		{
+			"buildid" "11899229"
+			"pwdrequired" "1"
+			"timeupdated" "1691559564"
+		}
+		"release_hf4"
+		{
+			"buildid" "12506557"
+			"pwdrequired" "1"
+			"timeupdated" "1698018261"
+		}
+		"release_patch4_hf3v2"
+		{
+			"buildid" "12722745"
+			"pwdrequired" "1"
+			"timeupdated" "1700153683"
+		}
+		"release_patch5_hf6"
+		{
+			"buildid" "13280719"
+			"pwdrequired" "1"
+			"timeupdated" "1706265038"
+		}
+		"release_patch6"
+		{
+			"buildid" "13509775"
+			"pwdrequired" "1"
+			"timeupdated" "1708445158"
+		}
+		"release_patch6_hf1"
+		{
+			"buildid" "13497739"
+			"pwdrequired" "1"
+			"timeupdated" "1708351880"
+		}
+		"release_patch6_hf2"
+		{
+			"buildid" "13515475"
+			"pwdrequired" "1"
+			"timeupdated" "1708490935"
+		}
+		"release_patch6_hf3"
+		{
+			"buildid" "13576367"
+			"pwdrequired" "1"
+			"timeupdated" "1709041816"
+		}
+		"summer2020_loca"
+		{
+			"buildid" "13125397"
+			"pwdrequired" "1"
+			"timeupdated" "1704795703"
+		}
+		"temp"
+		{
+			"buildid" "13334520"
+			"pwdrequired" "1"
+			"timeupdated" "1706783699"
+		}
+		"testbranch"
+		{
+			"buildid" "11958164"
+			"pwdrequired" "1"
+			"timeupdated" "1692263157"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "2000000000"
+	"maxnumfiles" "1000"
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#inmenu" "%game_state%"
+				"#inlobby" "%game_state% - %state_details%"
+				"#onmap" "%game_state%: %state_details%"
+				"#ingmhost" "Hosting: %game_state% %state_details%"
+				"#ingmclient" "Playing with Game Master: %game_state% %state_details%"
+				"#ingmpreparing" "Preparing an Adventure %state_details%"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22537937"
+"_sha" "6fc0c2bae0ba0f52afe91dc2135532daa092e379"
+"_size" "130031"
