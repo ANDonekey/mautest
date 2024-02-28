@@ -1,0 +1,474 @@
+"appid" "881020"
+"common"
+{
+	"name" "Granblue Fantasy: Relink"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"japanese" "GRANBLUE FANTASY: Relink"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"clienticon" "7309ffa3401ca910c1bad4543d5468e226c4355c"
+	"clienttga" "a53a5d164d7d2a9d46ab68708bfe693eeaadf425"
+	"icon" "1b9bcf2c07e1c760349fd4ecbc3b8690ef915e11"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "881020_eula_0"
+			"name" "Granblue Fantasy: Relink EULA"
+			"url" "https://store.steampowered.com//eula/881020_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1706832000"
+		"tested_build_id" "13195355"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "86.64440734557596"
+			"height_pct" "72.91666666666667"
+		}
+	}
+	"store_asset_mtime" "1707988225"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Cygames, Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Cygames, Inc."
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_18" "1"
+		"category_59" "1"
+		"category_60" "1"
+		"category_22" "1"
+		"category_23" "1"
+	}
+	"supported_languages"
+	{
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1706763574"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "881020"
+	"store_tags"
+	{
+		"0" "4085"
+		"1" "19"
+		"2" "4434"
+		"3" "4231"
+		"4" "3843"
+		"5" "1684"
+		"6" "3859"
+		"7" "122"
+		"8" "1697"
+		"9" "4182"
+		"10" "7208"
+		"11" "4777"
+		"12" "4191"
+		"13" "7481"
+		"14" "1646"
+		"15" "4046"
+		"16" "12057"
+		"17" "4057"
+		"18" "4608"
+		"19" "6730"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Cygames, Inc."
+	"publisher" "Cygames, Inc."
+	"homepage" "https://relink.granbluefantasy.jp/"
+	"listofdlc" "2183570,2694640,2694650,2694660,2694670,2710000,2799840,2799850"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Granblue Fantasy Relink"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "granblue_fantasy_relink.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "granblue_fantasy_relink.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamdecktouchscreen" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3101502540"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,kgl-v1_0_1-master_qa,masterbr-v1_0_1-master,masterbr-v1_0_1-master_qa,masterbr-v1_1-master,masterbr-v1_1-master_qa,masterbr-v1_2-master,masterbr-v1_2-master_qa,masterbr-v1_3-master,masterbr-v1_3-master_qa"
+			"use_action_block" "false"
+		}
+		"3101501766"
+		{
+			"controller_type" "controller_ps5"
+			"enabled_branches" "default,kgl-v1_0_1-master_qa,masterbr-v1_0_1-master,masterbr-v1_0_1-master_qa,masterbr-v1_1-master,masterbr-v1_1-master_qa,masterbr-v1_2-master,masterbr-v1_2-master_qa,masterbr-v1_3-master,masterbr-v1_3-master_qa"
+			"use_action_block" "false"
+		}
+		"3101502141"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,kgl-v1_0_1-master_qa,masterbr-v1_0_1-master,masterbr-v1_0_1-master_qa,masterbr-v1_1-master,masterbr-v1_1-master_qa,masterbr-v1_2-master,masterbr-v1_2-master_qa,masterbr-v1_3-master,masterbr-v1_3-master_qa"
+			"use_action_block" "false"
+		}
+		"3106676322"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,kgl-v1_0_1-master_qa,masterbr-v1_0_1-master,masterbr-v1_0_1-master_qa,masterbr-v1_1-master,masterbr-v1_1-master_qa,masterbr-v1_2-master,masterbr-v1_2-master_qa,masterbr-v1_3-master,masterbr-v1_3-master_qa"
+			"use_action_block" "false"
+		}
+	}
+	"steamconfigurator3rdpartynative" "65535"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian"
+	"881021"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2342573020189853329"
+				"size" "83961914741"
+				"download" "56143221472"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"ag-v1_0_1-master"
+			{
+				"gid" "34B68CDD41110C2AC9B339853BE5216D"
+				"size" "393FF78DE29DFA02672EB158608BFDF5"
+				"download" "6AB5151B165488DA902F9F8F93310F80"
+			}
+			"for_media_v1_0_1_master"
+			{
+				"gid" "704EE6AE346D0B4601078434D3AAD2FC"
+				"size" "20965C9977DA5819D92AC8E7F8E22839"
+				"download" "309BAFB5CBFBC7EEDFCFFBC3CC88C82C"
+			}
+			"jenkinsjob"
+			{
+				"gid" "62DAE36542F9722A06DE41DBC576F5EB"
+				"size" "0E24BC9DB642A9FC6EF055C4BCEC55EA"
+				"download" "EF0C53A4F4E43B9AE912189A794D7BF5"
+			}
+			"kgl-v1_0_1-master_qa"
+			{
+				"gid" "033B346C18E313E2C18BD81051746D11"
+				"size" "71D3EB51E605D81D74BF364677FF3602"
+				"download" "22519049DD890F12CE25A61C1F78BCC3"
+			}
+			"masterbr-v1_0_1-master"
+			{
+				"gid" "DC10CBF58398471F3F2D087CB505CDBC"
+				"size" "A79DF9BCF747C53FA6C26520861C46BA"
+				"download" "E32B1278D99713930D379F17031ECFA0"
+			}
+			"masterbr-v1_0_1-master_qa"
+			{
+				"gid" "E43E110BC274FC1E28CC695D1F81DE91"
+				"size" "81F47FFCFC36AAABD331AEF965DD9B99"
+				"download" "CA083D3842DD9AD02980D51902C8E6A1"
+			}
+			"masterbr-v1_1-master"
+			{
+				"gid" "B5163802A584BAB51D742F1331FCCD77"
+				"size" "C67EEAB0D6E6FF74422123B5DD058903"
+				"download" "D9460EBFF7416FADCC7D04F13B0572DD"
+			}
+			"masterbr-v1_1-master_qa"
+			{
+				"gid" "9A361474CDB14ECE51D8E04048F78300"
+				"size" "70B5CEF250821A2BB5C9C41518E4AFC7"
+				"download" "BF01225237EE2CC25D78BEBB79CFD2AD"
+			}
+			"masterbr-v1_2-master"
+			{
+				"gid" "63B8C574C1DA1F5680B5CFC6DB3B48AE"
+				"size" "9333ED220CF7BE4255BC171A42C01CA2"
+				"download" "E3C40D6E4286B4400036045181230032"
+			}
+			"masterbr-v1_2-master_qa"
+			{
+				"gid" "8BA3C8D2F2184A7D63D242CB478A4A14"
+				"size" "4776BAAE6F1C4F151D99AE40A8F92DCD"
+				"download" "655352A67B1AC22E2BB898A6E8D244C7"
+			}
+			"masterbr-v1_3-master"
+			{
+				"gid" "2ACEFCA631007A23F278410B2FE18F0A"
+				"size" "814F542545943E9142A03CB91B1FA2FC"
+				"download" "986F43492ACCC56B3A4112683E096F4C"
+			}
+			"masterbr-v1_3-master_qa"
+			{
+				"gid" "A1395E20B7ECDAEF72B2BD77C4D9409A"
+				"size" "6B39F2081DAF1539B00A18A8D2D4F885"
+				"download" "9102B58BFF170CF98DC74BC6054B2483"
+			}
+			"testbranch"
+			{
+				"gid" "650682121CDFB00DAD248DF914374F54"
+				"size" "2FE44227DC8FC8CA7F4982F1C350EC2E"
+				"download" "CD2D6B758C8FE35828961217BBA9E1F4"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13445086"
+			"timeupdated" "1708059646"
+		}
+		"ag-v1_0_1-master"
+		{
+			"buildid" "13044807"
+			"pwdrequired" "1"
+			"timeupdated" "1703555781"
+		}
+		"for_media_v1_0_1_master"
+		{
+			"buildid" "13170838"
+			"pwdrequired" "1"
+			"timeupdated" "1705287195"
+		}
+		"jenkinsjob"
+		{
+			"buildid" "13526813"
+			"pwdrequired" "1"
+			"timeupdated" "1708571768"
+		}
+		"kgl-v1_0_1-master_qa"
+		{
+			"buildid" "12934802"
+			"pwdrequired" "1"
+			"timeupdated" "1702363350"
+		}
+		"masterbr-v1_0_1-master"
+		{
+			"buildid" "13445086"
+			"pwdrequired" "1"
+			"timeupdated" "1707840534"
+		}
+		"masterbr-v1_0_1-master_qa"
+		{
+			"buildid" "13445121"
+			"pwdrequired" "1"
+			"timeupdated" "1707840787"
+		}
+		"masterbr-v1_1-master"
+		{
+			"buildid" "13578597"
+			"pwdrequired" "1"
+			"timeupdated" "1709054134"
+		}
+		"masterbr-v1_1-master_qa"
+		{
+			"buildid" "13578606"
+			"pwdrequired" "1"
+			"timeupdated" "1709054188"
+		}
+		"masterbr-v1_2-master"
+		{
+			"buildid" "13581203"
+			"pwdrequired" "1"
+			"timeupdated" "1709071532"
+		}
+		"masterbr-v1_2-master_qa"
+		{
+			"buildid" "13581238"
+			"pwdrequired" "1"
+			"timeupdated" "1709071776"
+		}
+		"masterbr-v1_3-master"
+		{
+			"buildid" "13581193"
+			"pwdrequired" "1"
+			"timeupdated" "1709071424"
+		}
+		"masterbr-v1_3-master_qa"
+		{
+			"buildid" "13581604"
+			"pwdrequired" "1"
+			"timeupdated" "1709074356"
+		}
+		"testbranch"
+		{
+			"buildid" "13378809"
+			"pwdrequired" "1"
+			"timeupdated" "1707210000"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "GBFR/Saved/SaveGames"
+			"pattern" "*.dat"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22533734"
+"_sha" "51afb73a9eb941429d5156415e9a02281dd5fcbc"
+"_size" "10457"
