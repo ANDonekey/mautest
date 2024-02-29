@@ -1,0 +1,151 @@
+"appid" "2470900"
+"common"
+{
+	"name" "Football Manager 2024 Resource Archiver"
+	"type" "Tool"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"clienticon" "1622e91509748c1130e024e093fddb116cec3ead"
+	"clienttga" "cab1b6c77cd94561c00f906b94dc311b4e803d3b"
+	"icon" "c9d24946c681929ab1d3e27da1fb14bc487ae9c6"
+	"parent" "2252570"
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"community_hub_visible" "1"
+	"gameid" "2470900"
+}
+"config"
+{
+	"installdir" "Football Manager 2024 Resource Archiver"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "resource archiver.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "resource archiver.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2470901"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2279270953725565876"
+				"size" "44173385"
+				"download" "14665040"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"day0"
+			{
+				"gid" "B90B95F8989164EE2CA5F65F12FCE1EC"
+				"size" "ECB2739C20468758D7554F6572979DFE"
+				"download" "90807A88BB310FBBE92212CDF9DCDF72"
+			}
+			"nightly"
+			{
+				"gid" "9FECB8945D19FB3910848ABF3BCADD2C"
+				"size" "FC88D7E0240F6441C8705DDAEDDD8768"
+				"download" "FDBA5853AD22A9C37577DF925AC8B5F0"
+			}
+			"si-bvt"
+			{
+				"gid" "09D9A1566ED715203DB88F2141590327"
+				"size" "479577125479E6E6FA00172B104B455E"
+				"download" "2EAF659BD398C4B1EED202DC96958847"
+			}
+		}
+	}
+	"2470902"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5262424045042865402"
+				"size" "81249049"
+				"download" "24536160"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"day0"
+			{
+				"gid" "F9A51865C613E6AB869E98FDB495714F"
+				"size" "F4FCD35C027DDFCAF6DB79E0A8CA06CD"
+				"download" "3FE7AF102887C4BF427A14ABBCB404D2"
+			}
+			"nightly"
+			{
+				"gid" "FE367CF1DAE7287FC0A79745402FE193"
+				"size" "C82B86CA74170949A8F8862FF9C3CF63"
+				"download" "5A9F2B30DA03678EB28BE7474347BAED"
+			}
+			"si-bvt"
+			{
+				"gid" "D64F23FFEAECC10AAFDD8D85F47F76C0"
+				"size" "BAB504ABF3A648FE92CA2BEB26B1C194"
+				"download" "B9676788F60D6AD2C1CAC1A870D230CF"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12781072"
+			"timeupdated" "1701352957"
+		}
+		"day0"
+		{
+			"buildid" "12496170"
+			"pwdrequired" "1"
+			"timeupdated" "1698422067"
+		}
+		"nightly"
+		{
+			"buildid" "13595812"
+			"pwdrequired" "1"
+			"timeupdated" "1709169628"
+		}
+		"si-bvt"
+		{
+			"buildid" "13498176"
+			"pwdrequired" "1"
+			"timeupdated" "1708360940"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22552481"
+"_sha" "2c9fdaaaaacdfa91c0edfc853f430ab1872ec886"
+"_size" "2796"
