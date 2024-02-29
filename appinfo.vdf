@@ -301,9 +301,9 @@
 			}
 			"kolo_beta"
 			{
-				"gid" "6C72EE3930B4D05C421A97BDF6B48E0C"
-				"size" "A035D30C5494ED9807BF7FBBECACB9EA"
-				"download" "99563DDA5D2B1A782AAA753A89A3A97B"
+				"gid" "A143BC2D2AA110EE20FDCF238156D3C3"
+				"size" "442D2DABA5FC5E36DE2373F7C6E7DFA0"
+				"download" "7655A73C4D539804ED5D484EFE9E6B35"
 			}
 			"steel_nomad_beta"
 			{
@@ -1920,9 +1920,9 @@
 		{
 			"kolo_beta"
 			{
-				"gid" "BF1C982BB465EE41067650E46C921EF9"
-				"size" "708A270256572430525A855B8956990C"
-				"download" "771B8BD7E1AC453C708B6F1825F75B24"
+				"gid" "C4ACC7B63212594C36A11D3F93F671E8"
+				"size" "A206B164A27D65A601503E88DBDAF8C7"
+				"download" "F95A8F70AC6D4B6DC40C77D8F8A57C74"
 			}
 		}
 	}
@@ -1953,9 +1953,9 @@
 		}
 		"kolo_beta"
 		{
-			"buildid" "13516928"
+			"buildid" "13602466"
 			"pwdrequired" "1"
-			"timeupdated" "1708504335"
+			"timeupdated" "1709218167"
 		}
 		"previous_version"
 		{
@@ -1979,6 +1979,6 @@
 	"appmanagesdlc" "1"
 }
 "_missing_token" "False"
-"_change_number" "22534048"
-"_sha" "1f484df93db89e97ff9afc542a6ac94b158ed405"
+"_change_number" "22562161"
+"_sha" "8b99d4cfb89f76eaaa1ab64abd80a1041951f6f8"
 "_size" "44841"
