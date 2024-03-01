@@ -260,9 +260,9 @@
 		{
 			"public"
 			{
-				"gid" "1649491110072294127"
-				"size" "3294829437"
-				"download" "2886637072"
+				"gid" "5952759365567678168"
+				"size" "3324956675"
+				"download" "2917580224"
 			}
 		}
 		"encryptedmanifests"
@@ -359,9 +359,15 @@
 			}
 			"4.2.0_alpha"
 			{
-				"gid" "30C1463548C8AB02450ABFE4C700BFAF"
-				"size" "9941D7D9C45528204AE17C905D54662D"
-				"download" "A705788F42916D5B021324568B4B5F3F"
+				"gid" "2BCC3B59993A99558A9F509CB27CC0BD"
+				"size" "5FD328511D1CA03BACFD5D108EC60AA1"
+				"download" "D66521B6AA9CCA01E58972935ECAC775"
+			}
+			"4.2.0_beta"
+			{
+				"gid" "3EF47EAFE57DBB6C8D73858EC0E5DAD2"
+				"size" "AEBDEE856CEE674E90C51D8101550410"
+				"download" "652CE20D7D0DBABD1A910F0F0BD6610B"
 			}
 			"musedash_dev"
 			{
@@ -399,9 +405,9 @@
 		{
 			"public"
 			{
-				"gid" "874124869012615199"
-				"size" "3273471952"
-				"download" "2876726624"
+				"gid" "540827342609370040"
+				"size" "3300506948"
+				"download" "2903329264"
 			}
 		}
 		"encryptedmanifests"
@@ -501,6 +507,12 @@
 				"gid" "465191554E92CCDCD599C6D08B3BD3FB"
 				"size" "9BBC70AE5CC4AA13B9B7FD7779A75EB5"
 				"download" "9BBC70AE5CC4AA13B9B7FD7779A75EB5"
+			}
+			"4.2.0_beta"
+			{
+				"gid" "3D21326814E9F52CF5011B55A7FD8306"
+				"size" "F4EEB0220C19D37C1690E2648F6BFF99"
+				"download" "F4EEB0220C19D37C1690E2648F6BFF99"
 			}
 			"musedash_dev"
 			{
@@ -638,6 +650,12 @@
 				"size" "9BBC70AE5CC4AA13B9B7FD7779A75EB5"
 				"download" "9BBC70AE5CC4AA13B9B7FD7779A75EB5"
 			}
+			"4.2.0_beta"
+			{
+				"gid" "84956C7C36EE6FAD7776B189E842FD36"
+				"size" "F4EEB0220C19D37C1690E2648F6BFF99"
+				"download" "F4EEB0220C19D37C1690E2648F6BFF99"
+			}
 			"musedash_dev"
 			{
 				"gid" "6B25E865B80F60B6E7280E6A5EB57AC0"
@@ -688,8 +706,8 @@
 		}
 		"public"
 		{
-			"buildid" "13298689"
-			"timeupdated" "1707292888"
+			"buildid" "13540432"
+			"timeupdated" "1709283543"
 		}
 		"3.10.0_release"
 		{
@@ -783,9 +801,15 @@
 		}
 		"4.2.0_alpha"
 		{
-			"buildid" "13576013"
+			"buildid" "13612207"
 			"pwdrequired" "1"
-			"timeupdated" "1709040391"
+			"timeupdated" "1709291477"
+		}
+		"4.2.0_beta"
+		{
+			"buildid" "13612207"
+			"pwdrequired" "1"
+			"timeupdated" "1709292586"
 		}
 		"musedash_dev"
 		{
@@ -842,6 +866,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22526076"
-"_sha" "7655fa81eea6f4f8bf3381770b5db0c9f644a889"
-"_size" "19349"
+"_change_number" "22577140"
+"_sha" "b845a163caa4f9373982239559bf7d3016fec553"
+"_size" "19984"
