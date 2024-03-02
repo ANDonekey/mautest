@@ -336,7 +336,7 @@
 		"1"
 		{
 			"executable" "game\\bin\\win64\\dota2.exe"
-			"arguments" "-steam +voice_fadeouttime 0 -prewarm_panorama +cl_clock_recvmargin_enable 0"
+			"arguments" "-steam +voice_fadeouttime 0 -prewarm_panorama"
 			"config"
 			{
 				"oslist" "windows"
@@ -352,7 +352,7 @@
 		"2"
 		{
 			"executable" "game/dota.sh"
-			"arguments" "+@panorama_min_comp_layer_dimension 0 -prewarm_panorama +cl_clock_recvmargin_enable 0"
+			"arguments" "+@panorama_min_comp_layer_dimension 0 -prewarm_panorama"
 			"config"
 			{
 				"oslist" "macos"
@@ -367,7 +367,7 @@
 		"3"
 		{
 			"executable" "game/dota.sh"
-			"arguments" "+@panorama_min_comp_layer_dimension 0 -prewarm_panorama +cl_clock_recvmargin_enable 0"
+			"arguments" "+@panorama_min_comp_layer_dimension 0 -prewarm_panorama"
 			"config"
 			{
 				"oslist" "linux"
@@ -450,9 +450,9 @@
 		{
 			"public"
 			{
-				"gid" "2769288215123137535"
-				"size" "8073975368"
-				"download" "3335714160"
+				"gid" "7322139171040815715"
+				"size" "8077368139"
+				"download" "3357226640"
 			}
 		}
 		"encryptedmanifests"
@@ -495,9 +495,9 @@
 		{
 			"public"
 			{
-				"gid" "3585062211086989597"
-				"size" "2105718004"
-				"download" "1113096752"
+				"gid" "276606568177988694"
+				"size" "2105597508"
+				"download" "1079060560"
 			}
 		}
 		"encryptedmanifests"
@@ -585,9 +585,9 @@
 		{
 			"public"
 			{
-				"gid" "5326564032361788585"
-				"size" "2087497283"
-				"download" "1141892576"
+				"gid" "2704118242337151326"
+				"size" "2082541952"
+				"download" "1147238544"
 			}
 		}
 		"encryptedmanifests"
@@ -675,9 +675,9 @@
 		{
 			"public"
 			{
-				"gid" "3906671678306672369"
-				"size" "36157230853"
-				"download" "17124930672"
+				"gid" "1937510382776399343"
+				"size" "36167083415"
+				"download" "17130553216"
 			}
 		}
 		"encryptedmanifests"
@@ -774,9 +774,9 @@
 		{
 			"public"
 			{
-				"gid" "2500271908826661217"
-				"size" "454294624"
-				"download" "118312896"
+				"gid" "2011156678216872212"
+				"size" "456388192"
+				"download" "118624192"
 			}
 		}
 		"encryptedmanifests"
@@ -823,9 +823,9 @@
 		{
 			"public"
 			{
-				"gid" "8032544557699107547"
-				"size" "1247406975"
-				"download" "501615200"
+				"gid" "6853201538655831149"
+				"size" "1249161119"
+				"download" "501882128"
 			}
 		}
 		"encryptedmanifests"
@@ -917,9 +917,9 @@
 		{
 			"public"
 			{
-				"gid" "2167174807226746248"
-				"size" "1310756321"
-				"download" "500859200"
+				"gid" "7689086344479421907"
+				"size" "1314808353"
+				"download" "501297200"
 			}
 		}
 		"encryptedmanifests"
@@ -1165,9 +1165,9 @@
 		{
 			"public"
 			{
-				"gid" "7401853983020311148"
-				"size" "13263391762"
-				"download" "4180620448"
+				"gid" "9067267665398525969"
+				"size" "13263391250"
+				"download" "4180633472"
 			}
 		}
 		"encryptedmanifests"
@@ -1349,8 +1349,8 @@
 	{
 		"public"
 		{
-			"buildid" "13581281"
-			"timeupdated" "1709075498"
+			"buildid" "13619382"
+			"timeupdated" "1709342656"
 		}
 		"old_build_test"
 		{
@@ -8709,6 +8709,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22534048"
-"_sha" "464f0757c15ab544cc3d020cb20e2f0657a54ebb"
-"_size" "394292"
+"_change_number" "22594683"
+"_sha" "e405b4cce5c22151722193fcc8bf9cc93b621d3b"
+"_size" "394201"
