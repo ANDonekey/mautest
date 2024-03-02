@@ -89,6 +89,9 @@
 	"primary_genre" "0"
 	"community_hub_visible" "1"
 	"gameid" "42690"
+	"store_tags"
+	{
+	}
 }
 "extended"
 {
@@ -993,6 +996,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "21824531"
-"_sha" "706a0cb7a326d3435417c6660e5923ff87601aca"
-"_size" "19438"
+"_change_number" "22595670"
+"_sha" "31c930e7c19710527e8489d10c4d40cf4cb8d284"
+"_size" "19461"
