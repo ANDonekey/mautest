@@ -55,6 +55,7 @@
 	"category"
 	{
 		"category_2" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -119,9 +120,9 @@
 		{
 			"public"
 			{
-				"gid" "3701707178293996371"
-				"size" "2000855191"
-				"download" "206752832"
+				"gid" "8016816856543515260"
+				"size" "2000941719"
+				"download" "206766304"
 			}
 		}
 		"encryptedmanifests"
@@ -134,15 +135,9 @@
 			}
 			"qatest"
 			{
-				"gid" "E5972B26260CCB09DAED2FC94CA67F9A"
-				"size" "828AA020CF746D577D3A97920F3BB437"
-				"download" "8D0D8B08175C86EABBB983A960992B8C"
-			}
-			"test"
-			{
-				"gid" "098424F581BBF499ED85E2FA4F1AE2E4"
-				"size" "9EAB89D1EE72391EEB7E77555741F1F9"
-				"download" "24D91026269A12613144650D3E9A76C8"
+				"gid" "7F85C479844F1E8F734E65C12CFB0ACB"
+				"size" "2572D8EFEAA3974002CBF1B26BCC6B3A"
+				"download" "BF28BDFCD63A77BE4A36DD66BDD2121B"
 			}
 		}
 	}
@@ -153,24 +148,18 @@
 		{
 			"public"
 			{
-				"gid" "5347416344471817088"
-				"size" "2000855191"
-				"download" "206809808"
+				"gid" "616959381976669872"
+				"size" "2000941719"
+				"download" "206823280"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"qatest"
 			{
-				"gid" "6CBA8F19BFE401A423CDF746693BB66D"
-				"size" "828AA020CF746D577D3A97920F3BB437"
-				"download" "D10902EEC1C8A12131C157A4E9CB3BF7"
-			}
-			"test"
-			{
-				"gid" "89769316EF517625C3F803EB2C9C12CB"
-				"size" "9EAB89D1EE72391EEB7E77555741F1F9"
-				"download" "ED842F02926592A5DDDFAED7186792A2"
+				"gid" "9D4C99CBE14D54E2791A680DC6E21CCC"
+				"size" "2572D8EFEAA3974002CBF1B26BCC6B3A"
+				"download" "B9268266D4A64A0CF8D5D2ED96205348"
 			}
 		}
 	}
@@ -178,8 +167,8 @@
 	{
 		"public"
 		{
-			"buildid" "13561062"
-			"timeupdated" "1708936741"
+			"buildid" "13619929"
+			"timeupdated" "1709349663"
 		}
 		"oldbranch"
 		{
@@ -189,15 +178,9 @@
 		}
 		"qatest"
 		{
-			"buildid" "13561062"
+			"buildid" "13619929"
 			"pwdrequired" "1"
-			"timeupdated" "1708935629"
-		}
-		"test"
-		{
-			"buildid" "13561062"
-			"pwdrequired" "1"
-			"timeupdated" "1708939186"
+			"timeupdated" "1709349408"
 		}
 	}
 }
@@ -205,10 +188,21 @@
 {
 	"quota" "1000000000"
 	"maxnumfiles" "1000"
-	"hidecloudui" "1"
-	"ignoreexternalfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "NeutronStar/WastelandExpress"
+			"pattern" "*.json"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
 }
 "_missing_token" "False"
-"_change_number" "22504670"
-"_sha" "ca2cd0844de4b75c883f53d74c2dd14e692bfb8c"
-"_size" "4056"
+"_change_number" "22596325"
+"_sha" "cbf7eab095835e66451b341cb343ca5be6fe38c6"
+"_size" "3773"
