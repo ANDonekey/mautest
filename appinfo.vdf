@@ -3,9 +3,9 @@
 {
 	"name" "Balatro"
 	"type" "Game"
-	"oslist" "windows"
+	"oslist" "windows,macos"
 	"osarch" "64"
-	"osextended" ""
+	"osextended" "macos64,macosapplesilicon"
 	"icon" "b6018068070ab0e23561694c11f7950dd6f4c752"
 	"clienticon" "47c0208df70705722e161e2eed1a5b481be22968"
 	"clienttga" "1b3de02abc2a423e30f46df4425a696dd9a936a4"
@@ -84,7 +84,7 @@
 			"height_pct" "79.56761245269996"
 		}
 	}
-	"store_asset_mtime" "1708529545"
+	"store_asset_mtime" "1709029756"
 	"associations"
 	{
 		"0"
@@ -120,6 +120,8 @@
 		"category_58" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_29" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -130,7 +132,7 @@
 		}
 	}
 	"steam_release_date" "1708440393"
-	"metacritic_score" "88"
+	"metacritic_score" "90"
 	"metacritic_fullurl" "https://www.metacritic.com/game/pc/balatro\?ftag=MCD-06-10aaa1f"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
@@ -140,17 +142,17 @@
 		"0" "1091588"
 		"1" "1666"
 		"2" "32322"
-		"3" "791774"
-		"4" "1677"
-		"5" "6426"
-		"6" "1716"
-		"7" "4182"
-		"8" "9"
+		"3" "1716"
+		"4" "791774"
+		"5" "4182"
+		"6" "1677"
+		"7" "9"
+		"8" "6426"
 		"9" "4711"
 		"10" "597"
 		"11" "1741"
-		"12" "3959"
-		"13" "3964"
+		"12" "3964"
+		"13" "3959"
 		"14" "4026"
 		"15" "3871"
 		"16" "599"
@@ -205,15 +207,15 @@
 		{
 			"public"
 			{
-				"gid" "1322898919978512686"
-				"size" "65165071"
-				"download" "59087344"
+				"gid" "1528018835135646913"
+				"size" "65800585"
+				"download" "59288208"
 			}
 			"public_experimental"
 			{
-				"gid" "673343477614251935"
-				"size" "65800524"
-				"download" "59288368"
+				"gid" "1528018835135646913"
+				"size" "65800585"
+				"download" "59288208"
 			}
 		}
 		"encryptedmanifests"
@@ -238,9 +240,9 @@
 			}
 			"internal_experimental"
 			{
-				"gid" "9ACB973913F6DD4FC857C3357FEB1F83"
-				"size" "8D765E96E8557E6D15ED51C1009644C0"
-				"download" "2B854AA92609868B99877BBAEA850167"
+				"gid" "560C3AFB9DD2DA8801594517E4A443AE"
+				"size" "452FE3B6B971991C1AA79CF1DD6C0980"
+				"download" "705E6DE16A49C9E538F4452CF46E245C"
 			}
 			"mac_experimental"
 			{
@@ -256,9 +258,9 @@
 			}
 			"playtesters"
 			{
-				"gid" "7B76BE02BA2442E36DAE63F8742E180F"
-				"size" "5F56BC2F1341A787010EEFF430EFD7BB"
-				"download" "12EA44FC75C8BDCEB9AC186CA8889B43"
+				"gid" "FE8FE21F8B71CB3B27097F91CC841D4E"
+				"size" "846BFB968A86965C096D9EFD518239D0"
+				"download" "C936E9295D5B1FB66E2B76480C14680B"
 			}
 		}
 	}
@@ -272,15 +274,15 @@
 		{
 			"public"
 			{
-				"gid" "501262344362751557"
-				"size" "78451998"
-				"download" "58394128"
+				"gid" "1947098062386805833"
+				"size" "84906451"
+				"download" "64537248"
 			}
 			"public_experimental"
 			{
-				"gid" "501262344362751557"
-				"size" "78451998"
-				"download" "58394128"
+				"gid" "1947098062386805833"
+				"size" "84906451"
+				"download" "64537248"
 			}
 		}
 		"encryptedmanifests"
@@ -305,9 +307,9 @@
 			}
 			"internal_experimental"
 			{
-				"gid" "424450BEEFD4BC88944565102E1DFC78"
-				"size" "9A0DA3A51A23540FCCCB6CEF534EEA95"
-				"download" "CF85BCF9031757390AE673FD0706133D"
+				"gid" "D0A91179D30380378EF03CC17171CBF8"
+				"size" "F49F8584EF565D374329BBE9472D56DC"
+				"download" "F290C65F560BB37E744D5E69C9D91926"
 			}
 			"mac_experimental"
 			{
@@ -323,49 +325,9 @@
 			}
 			"playtesters"
 			{
-				"gid" "7B06F479482833273BBBE17DAF47D497"
-				"size" "07C6AA81EEC5DBBAFDBAFCC603AF3D5A"
-				"download" "FAD06CBBC9443DA96D35DAE6094BFE2A"
-			}
-		}
-	}
-	"2379783"
-	{
-		"config"
-		{
-			"oslist" "macos"
-			"osarch" "32"
-		}
-		"manifests"
-		{
-		}
-		"encryptedmanifests"
-		{
-			"mac_experimental"
-			{
-				"gid" "BDA8D0A48A19C06B6CA765905AD65C68"
-				"size" "8E9068659630304104F5080FB1604F39"
-				"download" "8E4F67F9D6B2600122533D4F7671A310"
-			}
-		}
-	}
-	"2379784"
-	{
-		"config"
-		{
-			"oslist" "macos"
-			"osarch" "64"
-		}
-		"manifests"
-		{
-		}
-		"encryptedmanifests"
-		{
-			"mac_experimental"
-			{
-				"gid" "85B162DB89DDFF9578BE3712548EDB97"
-				"size" "8384722C7D31E588879EF8EC30B6DABA"
-				"download" "B40919BDFB1E6D9FE92F61E569C5EAE9"
+				"gid" "0EE7B4CBBBA283253491F312979B5C2B"
+				"size" "B71AB1840C037B0994BCAF19E6021C5D"
+				"download" "6E62901FB42582E6983A721DA45B827E"
 			}
 		}
 	}
@@ -373,8 +335,8 @@
 	{
 		"public"
 		{
-			"buildid" "13548479"
-			"timeupdated" "1708727009"
+			"buildid" "13615277"
+			"timeupdated" "1709311954"
 		}
 		"demo_experimental"
 		{
@@ -396,9 +358,9 @@
 		}
 		"internal_experimental"
 		{
-			"buildid" "13548479"
+			"buildid" "13615277"
 			"pwdrequired" "1"
-			"timeupdated" "1708726952"
+			"timeupdated" "1709309657"
 		}
 		"mac_experimental"
 		{
@@ -414,15 +376,15 @@
 		}
 		"playtesters"
 		{
-			"buildid" "13548479"
+			"buildid" "13615277"
 			"pwdrequired" "1"
-			"timeupdated" "1708726961"
+			"timeupdated" "1709309917"
 		}
 		"public_experimental"
 		{
-			"buildid" "13553754"
+			"buildid" "13615277"
 			"description" "Public Experimental build"
-			"timeupdated" "1708792323"
+			"timeupdated" "1709311985"
 		}
 	}
 }
@@ -442,6 +404,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22520764"
-"_sha" "ca3003d318e25a2c724739a74a9c972ef88dd43e"
-"_size" "8956"
+"_change_number" "22615760"
+"_sha" "964e489bb10c6a925c240fb8c0019df91e20a50e"
+"_size" "8386"
