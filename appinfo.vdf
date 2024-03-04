@@ -294,21 +294,21 @@
 		{
 			"public"
 			{
+				"gid" "7780399764034805731"
+				"size" "2701923362"
+				"download" "795965520"
+			}
+			"public_previous_update"
+			{
 				"gid" "6687692379280172568"
 				"size" "2614871193"
 				"download" "784495888"
 			}
-			"public_previous_update"
-			{
-				"gid" "3849165362949826114"
-				"size" "2541369818"
-				"download" "776582816"
-			}
 			"public_testing"
 			{
-				"gid" "5588584118833653953"
-				"size" "2730981711"
-				"download" "803269232"
+				"gid" "7780399764034805731"
+				"size" "2701923362"
+				"download" "795965520"
 			}
 		}
 		"encryptedmanifests"
@@ -351,15 +351,15 @@
 			}
 			"demo"
 			{
-				"gid" "2E34B9CCF8527AED25452B5140F629C0"
-				"size" "2441AEE5E14117D3AFF9013FBD370602"
-				"download" "11B2053FF0D19A9942593F1230EC6672"
+				"gid" "26E8DDA90C8076B1BCD72C8453FDA3C5"
+				"size" "70C1C5893B0D57F7190E352853C4C828"
+				"download" "C447BB040BC2165BE6B6304863D4DECA"
 			}
 			"development"
 			{
-				"gid" "B6DF83988A2B67FC7C77835F760F231A"
-				"size" "E2106EED0168DA0EC6A50A7A3FB4AEF6"
-				"download" "C89E74E90E3F2AC3E1DA2E02C4D3F3A0"
+				"gid" "FD4D82548E9702D76A5BC86EFC48CE99"
+				"size" "F2D92EA7D0F95167BF511A36114FCD8B"
+				"download" "9AE55D23356D03A933F8BFE5C5209575"
 			}
 			"development_alt"
 			{
@@ -387,9 +387,9 @@
 			}
 			"release"
 			{
-				"gid" "C4946BF496C35B0EA5E3F0F00FBB8577"
-				"size" "59A6B3C3F78F59C4B4B391BA6DF63CD3"
-				"download" "6BD8C7FB4F992D4DE530E8D3A928DF73"
+				"gid" "543BA47C1CEF73A31EF6EF08294BBD28"
+				"size" "706B5569D2D588D3E4FC84A5F696E548"
+				"download" "7505F6A9267A6BABED8689ECAAE3DCE1"
 			}
 			"rhymeswithplay"
 			{
@@ -429,21 +429,21 @@
 		{
 			"public"
 			{
+				"gid" "5288178098488479536"
+				"size" "2691203396"
+				"download" "793636640"
+			}
+			"public_previous_update"
+			{
 				"gid" "485125744258113002"
 				"size" "2604160936"
 				"download" "782082960"
 			}
-			"public_previous_update"
-			{
-				"gid" "1114875443606250281"
-				"size" "2530767044"
-				"download" "774225184"
-			}
 			"public_testing"
 			{
-				"gid" "5323237280046854901"
-				"size" "2745722443"
-				"download" "801264032"
+				"gid" "5288178098488479536"
+				"size" "2691203396"
+				"download" "793636640"
 			}
 		}
 		"encryptedmanifests"
@@ -486,15 +486,15 @@
 			}
 			"demo"
 			{
-				"gid" "79DFE8B5DBEA1ABFB3716AB89B0CD7E4"
-				"size" "D9535334DA29C030BE6E1E3610BCE298"
-				"download" "4A141613E2BD3EA426C61A4444926FE3"
+				"gid" "36C8C488F378B0C42B92E3E362A5A2D2"
+				"size" "43EC5BEE55EA3EC105907110E8CB6164"
+				"download" "808A9D0C7E6041898A5379C732C9BC8D"
 			}
 			"development"
 			{
-				"gid" "6DD8A8D613197480204F3796CF571B73"
-				"size" "C8557C34AB103EF7F39C533FA1AAE068"
-				"download" "C332CFFB408E901DB36379A66AD18221"
+				"gid" "9D6872F281678894CE700A730DAA1D8C"
+				"size" "D8DAED20C5E704746127FDAED6C1FE95"
+				"download" "DC04595BBCB3C907C8C58842A114BFCE"
 			}
 			"development_alt"
 			{
@@ -522,9 +522,9 @@
 			}
 			"release"
 			{
-				"gid" "726195FCA956C1260A7D6AC0D38F078E"
-				"size" "F0334176F9060AD62E8B9A0884B5D57C"
-				"download" "4A08A609605FD31ED1F65C73080C7932"
+				"gid" "DF1D9DB1A429AF0EA701BC334A8001A8"
+				"size" "2A32514D4A8315088E3A61CBB9C5DB55"
+				"download" "A36C61EA730E51F040D4F12776FAB126"
 			}
 			"rhymeswithplay"
 			{
@@ -564,21 +564,21 @@
 		{
 			"public"
 			{
+				"gid" "5357023511661340765"
+				"size" "2742574390"
+				"download" "796587024"
+			}
+			"public_previous_update"
+			{
 				"gid" "3042826200386934622"
 				"size" "2655530413"
 				"download" "785068320"
 			}
-			"public_previous_update"
-			{
-				"gid" "412514761543466841"
-				"size" "2582059910"
-				"download" "777124224"
-			}
 			"public_testing"
 			{
-				"gid" "1907545047880037452"
-				"size" "2784224423"
-				"download" "801497760"
+				"gid" "5357023511661340765"
+				"size" "2742574390"
+				"download" "796587024"
 			}
 		}
 		"encryptedmanifests"
@@ -621,15 +621,15 @@
 			}
 			"demo"
 			{
-				"gid" "61ED116E0E23A50F7DCFFB1ED1E2683A"
-				"size" "68F2E5E36F205C4CE0FCB6D05A5B3C2E"
-				"download" "55902FF4AF1D46DFBB83378483DB7256"
+				"gid" "71E07BE921C2580F54159275143A90EC"
+				"size" "0325BEBB1BC4FAC5573CFF5E0D5A0939"
+				"download" "7D3C641F18500203D017E69B486BCBFE"
 			}
 			"development"
 			{
-				"gid" "8ED101175B2F30F4EEF0EFB169F97E54"
-				"size" "19D195BA98896A93686F743E3592008E"
-				"download" "34820B4088038A66B335E8851AEEC908"
+				"gid" "A961B077D1AD0501E1F02A43C5BB01EF"
+				"size" "774794459229F6D78BEE62F3A0249BBF"
+				"download" "D5D4F03F428E68655FF6EAFD14EA2B4F"
 			}
 			"development_alt"
 			{
@@ -657,9 +657,9 @@
 			}
 			"release"
 			{
-				"gid" "CF28703EAC7EC4FF4C497D807F5096B6"
-				"size" "295B1DAADE8FEC09A703782220D47D06"
-				"download" "BA6CBA8E9FF76F7279A49F60F4416DD9"
+				"gid" "A56BC24A5A6E70E28B3F76D0C94795DB"
+				"size" "8A13EAC4044AAF1DE0EF65AED4517466"
+				"download" "304380AF8C4B85C32B2C8D45EC311873"
 			}
 			"rhymeswithplay"
 			{
@@ -700,15 +700,15 @@
 		{
 			"public"
 			{
-				"gid" "7526112106824751708"
-				"size" "308697711"
-				"download" "288029680"
+				"gid" "4811460977824769636"
+				"size" "308644706"
+				"download" "287975680"
 			}
 			"public_previous_update"
 			{
-				"gid" "8637740912397582272"
-				"size" "306921975"
-				"download" "286268192"
+				"gid" "7526112106824751708"
+				"size" "308697711"
+				"download" "288029680"
 			}
 			"public_testing"
 			{
@@ -793,9 +793,9 @@
 			}
 			"release"
 			{
-				"gid" "3AA3D1FF451DE3B83C5E463B605D3BB9"
+				"gid" "6BAA6AE9E5C3C849E956831B62121D0D"
 				"size" "D9F26C281BD29A2E803B9C13AF8FDD6C"
-				"download" "FA701982A8FF13101123C71F20A9F8DC"
+				"download" "72CAE15F0FF9D88FD558084DF978EAA5"
 			}
 			"staging"
 			{
@@ -830,15 +830,15 @@
 		{
 			"public"
 			{
-				"gid" "6923108525765333373"
-				"size" "308702933"
-				"download" "288034256"
+				"gid" "8511704833509439980"
+				"size" "308650494"
+				"download" "287980880"
 			}
 			"public_previous_update"
 			{
-				"gid" "4938578198266091842"
-				"size" "306927943"
-				"download" "286274400"
+				"gid" "6923108525765333373"
+				"size" "308702933"
+				"download" "288034256"
 			}
 			"public_testing"
 			{
@@ -923,9 +923,9 @@
 			}
 			"release"
 			{
-				"gid" "98EE9AD32AFD33A1994A7BC752FF5142"
+				"gid" "AD40AF38D10F53BEB4ECC1527EC9D136"
 				"size" "E955D24A8D6C71C44BDFDED8F8ACCBC1"
-				"download" "15EBF0E75FB1797112FBDB4E4864A8E4"
+				"download" "7A5863484D676A8F1C751BA6F48F4981"
 			}
 			"staging"
 			{
@@ -960,15 +960,15 @@
 		{
 			"public"
 			{
-				"gid" "5753826023249929744"
-				"size" "308694475"
-				"download" "288026016"
+				"gid" "622833939204027640"
+				"size" "308641918"
+				"download" "287972480"
 			}
 			"public_previous_update"
 			{
-				"gid" "7902417442429023197"
-				"size" "306925027"
-				"download" "286271360"
+				"gid" "5753826023249929744"
+				"size" "308694475"
+				"download" "288026016"
 			}
 			"public_testing"
 			{
@@ -1053,9 +1053,9 @@
 			}
 			"release"
 			{
-				"gid" "1C01B03C6FFF8676A8C5267A1F195DB8"
+				"gid" "2C9B7948413C00DF20C988D3D522B401"
 				"size" "62FCC3475BBDDE171C1FEC41C0250A0F"
-				"download" "C4ABD7BB611A7BF48A00EF01747F8C48"
+				"download" "35D974AFC7732AACBDE5B8A2CC77D2EB"
 			}
 			"staging"
 			{
@@ -1081,8 +1081,8 @@
 	{
 		"public"
 		{
-			"buildid" "13005770"
-			"timeupdated" "1703035685"
+			"buildid" "13596225"
+			"timeupdated" "1709229138"
 		}
 		"31_the_big_merge_update"
 		{
@@ -1122,15 +1122,15 @@
 		}
 		"demo"
 		{
-			"buildid" "13583290"
+			"buildid" "13625499"
 			"pwdrequired" "1"
-			"timeupdated" "1709087746"
+			"timeupdated" "1709458514"
 		}
 		"development"
 		{
-			"buildid" "13586663"
+			"buildid" "13625458"
 			"pwdrequired" "1"
-			"timeupdated" "1709115121"
+			"timeupdated" "1709457662"
 		}
 		"development_alt"
 		{
@@ -1158,21 +1158,21 @@
 		}
 		"public_previous_update"
 		{
-			"buildid" "12454989"
-			"description" "U49-577063 October 2023 Quality of Life (October 17, 2023)"
-			"timeupdated" "1700157255"
+			"buildid" "13005770"
+			"description" "U50-587362 Packed Snacks Update (December 19, 2023)"
+			"timeupdated" "1709228897"
 		}
 		"public_testing"
 		{
-			"buildid" "13580099"
-			"description" "Now Testing U51"
-			"timeupdated" "1709072683"
+			"buildid" "13596225"
+			"description" "No testing (same as none)"
+			"timeupdated" "1709229185"
 		}
 		"release"
 		{
-			"buildid" "13459008"
+			"buildid" "13596225"
 			"pwdrequired" "1"
-			"timeupdated" "1707949521"
+			"timeupdated" "1709172439"
 		}
 		"rhymeswithplay"
 		{
@@ -1249,6 +1249,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22540416"
-"_sha" "5333a77caca8cd4199e32feb8201e92fc0a4180c"
-"_size" "30595"
+"_change_number" "22607824"
+"_sha" "2fa5e86721dd8b4546d7f3dfc126d40aa991b2f2"
+"_size" "30598"
