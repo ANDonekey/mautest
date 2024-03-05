@@ -147,6 +147,8 @@
 		"category_46" "1"
 		"category_29" "1"
 		"category_28" "1"
+		"category_57" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -295,9 +297,9 @@
 		{
 			"public"
 			{
-				"gid" "6682418714512700609"
-				"size" "42356367856"
-				"download" "40793848640"
+				"gid" "405182565484037834"
+				"size" "42358756599"
+				"download" "40794922432"
 			}
 		}
 		"encryptedmanifests"
@@ -448,8 +450,8 @@
 	{
 		"public"
 		{
-			"buildid" "13209222"
-			"timeupdated" "1705939188"
+			"buildid" "13562956"
+			"timeupdated" "1709222931"
 		}
 		"10progressbuild"
 		{
@@ -611,6 +613,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22528428"
-"_sha" "286ff9de434599ec011ba65d3d3a6c0a205c509d"
-"_size" "12637"
+"_change_number" "22563738"
+"_sha" "ebd06c353179d5524ad46df123e1966a1651590c"
+"_size" "12680"
