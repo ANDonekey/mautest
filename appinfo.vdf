@@ -105,7 +105,7 @@
 			"height_pct" "98.95833333333334"
 		}
 	}
-	"store_asset_mtime" "1705523822"
+	"store_asset_mtime" "1709144572"
 	"associations"
 	{
 		"0"
@@ -157,6 +157,7 @@
 		"category_56" "1"
 		"category_57" "1"
 		"category_58" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -285,18 +286,18 @@
 		{
 			"public"
 			{
-				"gid" "6958849108335006283"
-				"size" "7922482703"
-				"download" "3877527328"
+				"gid" "6086140739896867989"
+				"size" "7927190595"
+				"download" "3879240192"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "3A666C3396B6EEF17D27150C2DCE6713"
-				"size" "063A8399144822B01617931D3A6446AB"
-				"download" "540FED351FC0BE0D3CE09ECD4722700C"
+				"gid" "BFA2AC58F16DA9A095983FED20E78669"
+				"size" "D9166B763A7621AAEA68C4D5C27B0C3C"
+				"download" "CF89C442780DFBD58B8BC9AEE1EF9417"
 			}
 			"betajsz"
 			{
@@ -310,14 +311,14 @@
 	{
 		"public"
 		{
-			"buildid" "13281903"
-			"timeupdated" "1706273571"
+			"buildid" "13587494"
+			"timeupdated" "1709141348"
 		}
 		"beta"
 		{
-			"buildid" "13462730"
+			"buildid" "13586973"
 			"pwdrequired" "1"
-			"timeupdated" "1707988188"
+			"timeupdated" "1709116960"
 		}
 		"betajsz"
 		{
@@ -333,6 +334,6 @@
 	"maxnumfiles" "20"
 }
 "_missing_token" "False"
-"_change_number" "22353954"
-"_sha" "308e08df4afee967660978daf27241ed9de8db01"
-"_size" "6021"
+"_change_number" "22547568"
+"_sha" "9a7dc6007ba3af66ee3fa4268869b73ce236e3ed"
+"_size" "6043"
