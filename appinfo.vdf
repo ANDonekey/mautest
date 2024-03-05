@@ -211,8 +211,8 @@
 		}
 		"public"
 		{
-			"buildid" "13378173"
-			"timeupdated" "1707205058"
+			"buildid" "13610709"
+			"timeupdated" "1709281948"
 		}
 		"ceshi"
 		{
@@ -222,9 +222,9 @@
 		}
 		"ceshi2"
 		{
-			"buildid" "13586201"
+			"buildid" "13610381"
 			"pwdrequired" "1"
-			"timeupdated" "1709112249"
+			"timeupdated" "1709279196"
 		}
 	}
 	"baselanguages" "english,schinese,tchinese"
@@ -257,9 +257,9 @@
 		{
 			"public"
 			{
-				"gid" "4565579562865457384"
-				"size" "14750307804"
-				"download" "6117437136"
+				"gid" "2012673316021299327"
+				"size" "15570074398"
+				"download" "6480526608"
 			}
 		}
 		"encryptedmanifests"
@@ -272,9 +272,9 @@
 			}
 			"ceshi2"
 			{
-				"gid" "8CA5ADE6B8FFCAE04D36781CB3D95FEE"
-				"size" "5467D03BEE36FE644030688CA9E18D7F"
-				"download" "60A0363089F35833F8F5B38590158E57"
+				"gid" "DC9F52C1F41C579E50AF5C180456396B"
+				"size" "BD13B662E55D387E0950A228B7B42729"
+				"download" "7BAF1CCA9C325E9F7DDF197C3AEB9145"
 			}
 		}
 	}
@@ -300,8 +300,6 @@
 {
 	"quota" "10000000000"
 	"maxnumfiles" "10000"
-	"hidecloudui" "1"
-	"ignoreexternalfiles" "1"
 	"savefiles"
 	{
 		"0"
@@ -328,6 +326,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22539788"
-"_sha" "c809e04e9538f09a3ae685c3197b4716ce9c49a5"
-"_size" "6218"
+"_change_number" "22574726"
+"_sha" "f6dfa99c0ce974094cf60554cb30de09bf610653"
+"_size" "6168"
