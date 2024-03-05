@@ -134,6 +134,7 @@
 		"category_56" "1"
 		"category_57" "1"
 		"category_58" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -272,24 +273,24 @@
 		{
 			"public"
 			{
-				"gid" "4275451408221340805"
-				"size" "11101898746"
-				"download" "8368788848"
+				"gid" "7750403742728550061"
+				"size" "10373642646"
+				"download" "8255767696"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"alpha"
 			{
-				"gid" "FC9F53D7B3C7523BC8EB475BF9C34196"
-				"size" "2A52DAAF82CE27669D8AA82E8833AB72"
-				"download" "BC81583F83076BDEFE87D964D10A03E3"
+				"gid" "F4245378A03816C0578F0B7867FC6540"
+				"size" "F892A243511219D42253706A1552ED5E"
+				"download" "7443DD1F16F86B770CA985EBDAD73DDB"
 			}
 			"alpha_testing"
 			{
-				"gid" "AB7B25B2293613FECC9CEE95F23EF24A"
-				"size" "7A3C0A66A8D6A6493BB978C8A6E1E722"
-				"download" "ED8A64BD35D90B802A303F9ACCCED242"
+				"gid" "E3B8CB9F3EDAD6435DD4D3771FEBFB70"
+				"size" "AF93942420F98F48C618130858E30FC8"
+				"download" "E40C6EFA92F46018B693B39FC6FA8340"
 			}
 			"beta_internal"
 			{
@@ -299,9 +300,9 @@
 			}
 			"beta_lang_test"
 			{
-				"gid" "43A0244478D905F98A640200B19DEFC7"
-				"size" "DAC1264B543C560F15239D622E89CD84"
-				"download" "01D3561C6F731350BE1A87521E92C816"
+				"gid" "997A414D90947514CB0C5C611A20C320"
+				"size" "08A1AC18DB3D19CEE31F6E5C6382DF3D"
+				"download" "52A87F9FD15CAF9684F4CF73AA0DC233"
 			}
 			"beta_testing"
 			{
@@ -347,9 +348,9 @@
 			}
 			"latest"
 			{
-				"gid" "1D7169C310F551ECB89743C152594AAA"
-				"size" "8547B8CF8BC88BC150F277864DEDF3D8"
-				"download" "8EB7EDCFE6DD749B5A6BD36309EE638F"
+				"gid" "9C128C9956B89D54E9A64B3675BFE0C5"
+				"size" "E54D26C02C6CA94915A872F192F20BC5"
+				"download" "72F1AC0E3783E2CB57AA7EF8D7C6E92B"
 			}
 			"latest_testing"
 			{
@@ -371,9 +372,9 @@
 			}
 			"mp_alpha_testing"
 			{
-				"gid" "0AAF1DC748E363BAF78F9B881FB9A17B"
-				"size" "87B8D8AA1F966C460A6B940B4C884040"
-				"download" "66D5925255F64CA4A312F19F1D775BD0"
+				"gid" "3AB78F03BFA157E6657645D07163ABF4"
+				"size" "E5AB3179D85F800BFF4C452BC08A2BE3"
+				"download" "E683271D155A1B311250BFA935159545"
 			}
 			"oodle"
 			{
@@ -389,9 +390,9 @@
 			}
 			"staging"
 			{
-				"gid" "ECE8DD9E401D0E254A588411010833FF"
-				"size" "50612848DB1FB0DC087F2D3FC99B8690"
-				"download" "7899FBA1E59E1444A31D802EED8DF235"
+				"gid" "79F57FC4BB67A942698F99750497943A"
+				"size" "CB3B25EC33E14FA4FCE12F8E6D229B01"
+				"download" "A32E40DF2F100799E69A5A808E60FB3E"
 			}
 			"staging_test"
 			{
@@ -817,20 +818,20 @@
 	{
 		"public"
 		{
-			"buildid" "13518964"
-			"timeupdated" "1708528556"
+			"buildid" "13607335"
+			"timeupdated" "1709604439"
 		}
 		"alpha"
 		{
-			"buildid" "13562409"
+			"buildid" "13607335"
 			"pwdrequired" "1"
-			"timeupdated" "1708937650"
+			"timeupdated" "1709250987"
 		}
 		"alpha_testing"
 		{
-			"buildid" "13584741"
+			"buildid" "13593610"
 			"pwdrequired" "1"
-			"timeupdated" "1709098708"
+			"timeupdated" "1709160504"
 		}
 		"beta_internal"
 		{
@@ -840,9 +841,9 @@
 		}
 		"beta_lang_test"
 		{
-			"buildid" "13577539"
+			"buildid" "13628390"
 			"pwdrequired" "1"
-			"timeupdated" "1709054962"
+			"timeupdated" "1709513994"
 		}
 		"beta_testing"
 		{
@@ -888,9 +889,9 @@
 		}
 		"latest"
 		{
-			"buildid" "13586075"
+			"buildid" "13628291"
 			"pwdrequired" "1"
-			"timeupdated" "1709111365"
+			"timeupdated" "1709512728"
 		}
 		"latest_testing"
 		{
@@ -912,9 +913,9 @@
 		}
 		"mp_alpha_testing"
 		{
-			"buildid" "13566197"
+			"buildid" "13646985"
 			"pwdrequired" "1"
-			"timeupdated" "1708964874"
+			"timeupdated" "1709652272"
 		}
 		"oodle"
 		{
@@ -930,9 +931,9 @@
 		}
 		"staging"
 		{
-			"buildid" "13429716"
+			"buildid" "13607335"
 			"pwdrequired" "1"
-			"timeupdated" "1708118072"
+			"timeupdated" "1709452467"
 		}
 		"staging_test"
 		{
@@ -974,6 +975,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22539646"
-"_sha" "b1b8d76613bdd3a0dd7e549bcccd7af81657f520"
-"_size" "21991"
+"_change_number" "22641483"
+"_sha" "cbed8858f43de7d435cfdaa6cd059015765d7433"
+"_size" "22013"
